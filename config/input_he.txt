@@ -1,128 +1,128 @@
-# קיצורי מקשים עבור Tauon Music Box (מתורגם לעברית)
+# קיצורי מקשים עבור Tauon Music Box
 #
-# המבנה הוא: [שם_פעולה] [שם_מקש] [מקשי_שינוי (אופציונלי)]
-# מקשי שינוי יכולים להיות: Shift, Ctrl או Alt (אחד או שניים).
+# מבנה שורה: שם-פעולה מקש מקשי-עזר(אופציונלי)
+# מקשי עזר אפשריים (אחד או שניים): Shift, Ctrl, Alt
+# חשוב: אין להוסיף הערות (#) באותה שורה של קיצור מקשים, אלא רק בשורה נפרדת שמתחילה ב-#.
 #
-# שים לב: מקשי החיצים, Enter, מקשי כיוון, Ctrl+C/X/V/A/Z, Escape ו-Delete מוגדרים מראש במערכת.
-# אין להגדיר אותיות/ספרות בודדות ללא מקש שינוי, כיוון שהן משמשות לפתיחת חיפוש מהיר.
-# יש להפעיל מחדש את הנגן כדי שהשינויים ייכנסו לתוקף.
+# נדרשת הפעלה מחדש של הנגן להחלת שינויים בקובץ זה.
 
-# ניווט בתוך השיר
-seek-forward =                # דילוג קדימה
-seek-back -                   # דילוג אחורה
+# --- שליטה בניגון ודילוג ---
+seek-forward =
+seek-back -
 
-# בקרת ניגון
-play                          # ניגון
-pause                         # השהיה
-playpause Space               # ניגון / השהיה
-stop                          # עצירה
+play
+pause
+playpause Space
+stop
 
-start Home                    # תחילת הרצועה
-previous Left Shift           # רצועה קודמת
-advance Right Shift           # רצועה הבאה
-advance End                   # רצועה הבאה
+start Home
+previous Left Shift
+advance Right Shift
+advance End
 
-# עוצמת שמע
-vol-up Up Ctrl                # הגברת שמע
-vol-down Down Ctrl            # הנמכת שמע
-toggle-mute M Ctrl            # השתקה / ביטול השתקה
+# --- עוצמת שמע ---
+vol-up Up Ctrl
+vol-down Down Ctrl
+toggle-mute M Ctrl
 
-# מצבי ניגון
-toggle-shuffle .              # ערבוב (אקראי)
-toggle-repeat ,               # חזרה על שירים
+# --- ערבוב, חזרה ואקראי ---
+toggle-shuffle .
+toggle-repeat ,
 
-# השמעה אקראית
-random-track ;                # שיר אקראי
-random-track-start /          # שיר אקראי והתחלה מידית
-random-album ; Alt            # אלבום אקראי
-revert / Shift                # חזרה לרצועה הקודמת ברשימה
+random-track ;
+random-track-start /
+random-album ; Alt
+revert / Shift
 
-# מעבר בין רשימות השמעה
-cycle-playlist-left Left      # רשימה קודמת
-cycle-playlist-right Right    # רשימה הבאה
+# --- מעבר בין רשימות השמעה וניווט ---
+cycle-playlist-left Left
+cycle-playlist-right Right
 
-# ניווט ברשימת השירים
-goto-playing '               # קפיצה לשיר המתנגן כעת
-goto-previous ' Ctrl          # קפיצה לשיר הקודם
-goto-top Home Shift           # קפיצה לראש הרשימה
-goto-bottom End Shift         # קפיצה לסוף הרשימה
+goto-playing '
+goto-previous ' Ctrl
+goto-top Home Shift
+goto-bottom End Shift
 
-shift-up Up Shift             # הזזת שיר למעלה ברשימה
-shift-down Down Shift         # הזזת שיר למטה ברשימה
+shift-up Up Shift
+shift-down Down Shift
 
-# מידע על שירים
-info-show I Ctrl              # הצגת פרטי שיר מסומן
-info-playing P Ctrl           # הצגת פרטי השיר המתנגן
+# --- מידע על רצועות ---
+info-show I Ctrl
+info-playing P Ctrl
 
-escape Escape                 # ביטול / יציאה
-pageup PageUp                 # גלילת עמוד מעלה
-pagedown PageDown             # גלילת עמוד מטה
+escape Escape
+pageup PageUp
+pagedown PageDown
 
-# ניהול רשימות השמעה
-delete-playlist W Ctrl        # מחיקת רשימה
-delete-playlist-force W Shift Ctrl # מחיקת רשימה מאולצת
-rename-playlist R Ctrl        # שינוי שם רשימה
-rename-playlist F2            # שינוי שם רשימה (F2)
-new-playlist T Ctrl           # רשימת השמעה חדשה
+# --- ניהול רשימות השמעה ---
+delete-playlist W Ctrl
+delete-playlist-force W Shift Ctrl
+rename-playlist R Ctrl
+rename-playlist F2
+new-playlist T Ctrl
 
-new-generator-playlist E Ctrl Shift # יצירת רשימה חכמה (Generator)
-edit-generator E Ctrl         # עריכת רשימה חכמה
+new-generator-playlist E Ctrl Shift
+edit-generator E Ctrl
 
-# מילות שירים
-search-lyrics-selected        # חיפוש מילים לשיר המסומן
-substitute-search-selected    # החלפת ביטוי בחיפוש מילים
+# --- חיפוש, תור השמעה ומועדפים ---
+search-lyrics-selected
+substitute-search-selected
 
-# חיפוש ותור
-quick-find \                 # חיפוש מהיר
-quick-find F Ctrl             # חיפוש מהיר
-global-search G Ctrl          # חיפוש ראשי בספריה
-add-to-queue Q Alt            # הוספה לתור
-clear-queue Q Shift Alt       # ניקוי התור
-love-playing L Shift Ctrl     # סימון שיר מתנגן כמועדף
-love-selected L Ctrl          # סימון שיר מסומן כמועדף
-regenerate-playlist R Alt     # עדכון מחדש של רשימה חכמה
+quick-find \
+quick-find F Ctrl
+global-search G Ctrl
+add-to-queue Q Alt
+clear-queue Q Shift Alt
+love-playing L Shift Ctrl
+love-selected L Ctrl
+regenerate-playlist R Alt
 
-# תצוגה וממשק
-toggle-left-panel ~           # הצגת/הסתרת פאנל שמאלי
-toggle-last-left-panel        # פאנל שמאלי אחרון
-toggle-right-panel            # הצגת/הסתרת פאנל ימני
-toggle-gallery                # תצוגת גלריית עטיפות
-toggle-gallery-keycontrol Tab # שליטת מקלדת בגלריה
-toggle-showcase F5            # תצוגת חלון ראווה (Showcase)
-toggle-minimode F8            # מעבר לנגן ממוזער (Mini Mode)
-toggle-columns                # שינוי עמודות תצוגה
-toggle-artistinfo O Ctrl      # פרטי אמן
-cycle-layouts ]               # החלפת פריסת מסך קדימה
-cycle-layouts MB5             # החלפת פריסת מסך (עכבר כפתור 5)
-cycle-layouts-reverse [       # החלפת פריסת מסך אחורה
-cycle-layouts-reverse MB4     # החלפת פריסת מסך (עכבר כפתור 4)
+# --- תצוגה, פאנלים ופריסות ---
+toggle-left-panel ~
+toggle-last-left-panel
+toggle-right-panel
+toggle-gallery
+toggle-gallery-keycontrol Tab
+toggle-showcase F5
+toggle-minimode F8
+toggle-columns
+toggle-artistinfo O Ctrl
+cycle-layouts ]
+cycle-layouts MB5
+cycle-layouts-reverse [
+cycle-layouts-reverse MB4
 
-playlist-toggle-breaks F1     # מפרידי אלבומים ברשימה
+playlist-toggle-breaks F1
 
-toggle-auto-theme F3          # החלפת ערכת נושא אוטומטית
-find-playing-artist F4        # מציאת אמן מתנגן בספריה
-show-encode-folder F9         # פתיחת תיקיית המרות
-toggle-fullscreen F11         # מסך מלא
-quit Q Ctrl                   # יציאה מהתוכנה
+# --- ערכות נושא וחלון ---
+toggle-auto-theme F3
+find-playing-artist F4
+testkey F7
+show-encode-folder F9
+toggle-fullscreen F11
+quit Q Ctrl
 
-cycle-theme ] Ctrl            # ערכת נושא הבאה
-cycle-theme-reverse [ Ctrl    # ערכת נושא קודמת
-reload-theme F10              # טעינה מחדש של ערכת נושא
+cycle-theme ] Ctrl
+cycle-theme-reverse [ Ctrl
+reload-theme F10
 
-opacity-up = Ctrl             # הגברת שקיפות
-opacity-down - Ctrl           # הנמכת שקיפות
+opacity-up = Ctrl
+opacity-down - Ctrl
 
-toggle-show-art H Ctrl        # הצגת/הסתרת עטיפת אלבום
-resize-window-16:9 F11 Alt    # התאמת חלון ליחס 16:9
-toggle-console `              # מסוף פקודות פנימי
+# --- כלים מתקדמים ---
+transfer-playtime-to P Ctrl Shift
+toggle-show-art H Ctrl
+resize-window-16:9 F11 Alt
+toggle-console ` Ctrl
+show-shortcuts / Ctrl
 
-# מעבר מהיר לרשימות לפי מספר
-jump-playlist-1 1 Ctrl        # מעבר לרשימה 1
-jump-playlist-2 2 Ctrl        # מעבר לרשימה 2
-jump-playlist-3 3 Ctrl        # מעבר לרשימה 3
-jump-playlist-4 4 Ctrl        # מעבר לרשימה 4
-jump-playlist-5 5 Ctrl        # מעבר לרשימה 5
-jump-playlist-6 6 Ctrl        # מעבר לרשימה 6
-jump-playlist-7 7 Ctrl        # מעבר לרשימה 7
-jump-playlist-8 8 Ctrl        # מעבר לרשימה 8
-jump-playlist-9 9 Ctrl        # מעבר לרשימה 9
+# --- מעבר מהיר לרשימות השמעה 1-9 ---
+jump-playlist-1 1 Ctrl
+jump-playlist-2 2 Ctrl
+jump-playlist-3 3 Ctrl
+jump-playlist-4 4 Ctrl
+jump-playlist-5 5 Ctrl
+jump-playlist-6 6 Ctrl
+jump-playlist-7 7 Ctrl
+jump-playlist-8 8 Ctrl
+jump-playlist-9 9 Ctrl
