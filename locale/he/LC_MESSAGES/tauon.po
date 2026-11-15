@@ -1,0 +1,6873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tauon Music Box Hebrew\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+msgid "Importing tracks"
+msgstr "מייבא רצועות"
+
+msgid "Importing XSPF playlist"
+msgstr "מייבא רשימת השמעה XSPF"
+
+msgid "Stopping import…"
+msgstr "עוצר ייבוא…"
+
+msgid "Accessing PLEX library…"
+msgstr "ניגש לספריית PLEX…"
+
+msgid "Accessing AIRSONIC library…"
+msgstr "ניגש לספריית AIRSONIC…"
+
+msgid "Accessing JELLYFIN library…"
+msgstr "ניגש לספריית JELLYFIN…"
+
+msgid "Stopping transcode…"
+msgstr "עוצר המרה…"
+
+msgid "Transcoding"
+msgstr "ממיר שמע"
+
+msgid "Activity"
+msgstr "פעילות"
+
+msgid "Extracting Archive…"
+msgstr "מחלץ ארכיון…"
+
+msgid "Scanning Tags…"
+msgstr "סורק תגיות…"
+
+msgid "Auto-importing playlists…"
+msgstr "מייבא רשימות השמעה אוטומטית…"
+
+msgid "File copy in progress…"
+msgstr "העתקת קבצים מתבצעת…"
+
+msgid "Cleaning database"
+msgstr "מנקה מסד נתונים"
+
+msgid "Rescanning Tags…"
+msgstr "סורק תגיות מחדש…"
+
+msgid "Chromecast Mode"
+msgstr "מצב Chromecast"
+
+msgid "{done} / {total} files"
+msgstr "{done} / {total} קבצים"
+
+msgid "Transcoding…"
+msgstr "ממיר…"
+
+msgid "Preparing…"
+msgstr "מכין…"
+
+msgid "Syncing to device"
+msgstr "מסנכרן למכשיר"
+
+msgid "1 album remaining"
+msgstr "נותר אלבום 1"
+
+msgid "Uploading lyrics to LRCLIB…"
+msgstr "מעלה מילים אל LRCLIB…"
+
+msgid "Scanning Scrobbles…"
+msgstr "סורק רישומי השמעה…"
+
+msgid "Buffering…"
+msgstr "טוען למאגר…"
+
+msgid "Scrobbling"
+msgstr "רישום השמעות"
+
+msgid "Network error. Will try again later."
+msgstr "שגיאת רשת. ננסה שוב מאוחר יותר."
+
+msgid "Overall"
+msgstr "סה״כ"
+
+msgid "{N} tracks imported"
+msgstr "{N} רצועות יובאו"
+
+msgid "Scanning: "
+msgstr "סורק: "
+
+msgid "Aborting Sync"
+msgstr "מבטל סנכרון"
+
+msgid "{N} active"
+msgstr "{N} פעילים"
+
+msgid "Current folder"
+msgstr "תיקייה נוכחית"
+
+msgid "Current album"
+msgstr "אלבום נוכחי"
+
+msgid "{N} remaining"
+msgstr "נותרו {N}"
+
+msgid "{N} albums remaining"
+msgstr "נותרו {N} אלבומים"
+
+msgid "{N} listening along"
+msgstr "{N} מאזינים יחד"
+
+msgid "{N} albums scanned"
+msgstr "{N} אלבומים נסרקו"
+
+msgid "{N} tracks scanned"
+msgstr "{N} רצועות נסרקו"
+
+msgid "{done} / {total} folders"
+msgstr "{done} / {total} תיקיות"
+
+msgid "{done} / {total} tracks"
+msgstr "{done} / {total} רצועות"
+
+msgid "Unable to cast this audio format"
+msgstr "לא ניתן לשדר פורמט שמע זה"
+
+msgid "Check that the file and FFmpeg are available."
+msgstr "בדוק שהקובץ ו־FFmpeg זמינים."
+
+msgid "Unable to convert audio for Chromecast"
+msgstr "לא ניתן להמיר שמע עבור Chromecast"
+
+msgid "Art Box"
+msgstr "תיבת עטיפה"
+
+msgid "Visualiser: Milkdrop"
+msgstr "אפקט חזותי: Milkdrop"
+
+msgid "Visualiser: Bars"
+msgstr "אפקט חזותי: עמודות"
+
+msgid "Visualiser: Spectrogram"
+msgstr "אפקט חזותי: ספקטרוגרמה"
+
+msgid "Header Bar"
+msgstr "סרגל עליון"
+
+msgid "Playback Panel"
+msgstr "לוח נגינה"
+
+msgid "Playback panel: Feux"
+msgstr "לוח נגינה: Feux"
+
+msgid "Playlist List"
+msgstr "רשימות השמעה"
+
+msgid "Queue"
+msgstr "תור השמעה"
+
+msgid "Artist List"
+msgstr "רשימת אמנים"
+
+msgid "Folder Navigator"
+msgstr "סייר תיקיות"
+
+msgid "Artist Info"
+msgstr "מידע על האמן"
+
+msgid "Track: Titles"
+msgstr "רצועה: כותרות"
+
+msgid "Track: Titles (Centred)"
+msgstr "רצועה: כותרות (ממורכז)"
+
+msgid "Lyrics Box"
+msgstr "תיבת מילים"
+
+msgid "Tracklist"
+msgstr "רשימת רצועות"
+
+msgid "Track: Details"
+msgstr "רצועה: פרטים"
+
+msgid "Gallery: Classic"
+msgstr "גלריה: קלאסית"
+
+msgid "Gallery: Compact"
+msgstr "גלריה: קומפקטית"
+
+msgid "Albumflow"
+msgstr "זרימת אלבומים"
+
+msgid "Custom Layout"
+msgstr "פריסה מותאמת"
+
+msgid "Empty Tab"
+msgstr "לשונית ריקה"
+
+msgid "Empty cell"
+msgstr "תא ריק"
+
+msgid "New cell"
+msgstr "תא חדש"
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "Artist"
+msgstr "אמן"
+
+msgid "Album"
+msgstr "אלבום"
+
+msgid "Album Artist"
+msgstr "אמן אלבום"
+
+msgid "Composer"
+msgstr "מלחין"
+
+msgid "Date"
+msgstr "תאריך"
+
+msgid "Genre"
+msgstr "ז׳אנר"
+
+msgid "Track"
+msgstr "רצועה"
+
+msgid "Disc"
+msgstr "דיסק"
+
+msgid "Duration"
+msgstr "משך"
+
+msgid "Codec"
+msgstr "קודק"
+
+msgid "Bitrate"
+msgstr "קצב סיביות"
+
+msgid "Sample rate"
+msgstr "קצב דגימה"
+
+msgid "Bit depth"
+msgstr "עומק סיביות"
+
+msgid "Comment"
+msgstr "הערה"
+
+msgid "Empty Slot"
+msgstr "מיקום ריק"
+
+msgid "Remove Stack"
+msgstr "הסר ערימה"
+
+msgid "Remove Whole Layout…"
+msgstr "הסר את כל הפריסה…"
+
+msgid "Remove Rows (%d)"
+msgstr "הסר שורות (%d)"
+
+msgid "Everything here is removed"
+msgstr "כל מה שכאן יוסר"
+
+msgid "Neighbours grow into this space"
+msgstr "תאים שכנים יתרחבו לחלל זה"
+
+msgid "Leaves an empty cell"
+msgstr "משאיר תא ריק"
+
+msgid "Edges inside here drag in view mode"
+msgstr "ניתן לגרור גבולות פנימיים במצב תצוגה"
+
+msgid "The tab switcher owns the border"
+msgstr "בורר הלשוניות שולט במסגרת"
+
+msgid "Remove the whole layout? Leaves an empty slot."
+msgstr "להסיר את כל הפריסה? יישאר מיקום ריק."
+
+msgid "Hover a menu item to see what it changes"
+msgstr "רחף מעל פריט בתפריט כדי לראות מה הוא משנה"
+
+msgid "Empty cell · click to add"
+msgstr "תא ריק · לחץ להוספה"
+
+msgid "Tabs"
+msgstr "לשוניות"
+
+msgid "MilkDrop is disabled"
+msgstr "MilkDrop מושבת"
+
+msgid "MilkDrop is unavailable"
+msgstr "MilkDrop אינו זמין"
+
+msgid "Auto Cycle"
+msgstr "החלפה אוטומטית"
+
+msgid "Visualiser requires the Phazor backend"
+msgstr "האפקט החזותי דורש את מנוע Phazor"
+
+msgid "Shuffle"
+msgstr "ערבוב"
+
+msgid "No albums"
+msgstr "אין אלבומים"
+
+msgid "Unknown Album"
+msgstr "אלבום לא ידוע"
+
+msgid "Unknown Artist"
+msgstr "אמן לא ידוע"
+
+msgid "Can't lock: nothing divides the layout in that direction"
+msgstr "לא ניתן לנעול: שום דבר לא מחלק את הפריסה בכיוון זה"
+
+msgid "Delete these cells and the widgets in them?"
+msgstr "למחוק תאים אלו ואת הרכיבים שבהם?"
+
+msgid "Remove tab '%s' and everything on it?"
+msgstr "להסיר את הלשונית '%s' ואת כל מה שבה?"
+
+msgid "Remove Tabs (%d)"
+msgstr "הסר לשוניות (%d)"
+
+msgid "Remove Columns (%d)"
+msgstr "הסר עמודות (%d)"
+
+msgid "This tab is removed"
+msgstr "לשונית זו תוסר"
+
+msgid "Height lock"
+msgstr "נעילת גובה"
+
+msgid "Width lock"
+msgstr "נעילת רוחב"
+
+msgid "Height lock applies to this whole stack"
+msgstr "נעילת הגובה חלה על כל הערימה הזו"
+
+msgid "Width lock applies to this whole stack"
+msgstr "נעילת הרוחב חלה על כל הערימה הזו"
+
+msgid "Load '%s' template? Replaces this layout."
+msgstr "לטעון את התבנית '%s'? הפריסה הנוכחית תוחלף."
+
+msgid "Delete layout '%s'?"
+msgstr "למחוק את הפריסה '%s'?"
+
+msgid "Tab %d"
+msgstr "לשונית %d"
+
+msgid "Right-click a cell to edit"
+msgstr "לחיצה ימנית על תא לעריכה"
+
+msgid "Drag a widget to move it"
+msgstr "גרור רכיב להזזה"
+
+msgid "Esc to finish"
+msgstr "Esc לסיום"
+
+msgid "Empty"
+msgstr "ריק"
+
+msgid "Columns"
+msgstr "עמודות"
+
+msgid "Rows"
+msgstr "שורות"
+
+msgid "resizable in view mode"
+msgstr "ניתן לשינוי גודל במצב תצוגה"
+
+msgid "Drag to resize"
+msgstr "גרור לשינוי גודל"
+
+msgid "%s is already there"
+msgstr "%s כבר נמצא שם"
+
+msgid "Release to swap %s with %s"
+msgstr "שחרר להחלפה בין %s ל־%s"
+
+msgid "Release to move %s left of %s"
+msgstr "שחרר להעברת %s משמאל ל־%s"
+
+msgid "Release to move %s right of %s"
+msgstr "שחרר להעברת %s מימין ל־%s"
+
+msgid "Release to move %s above %s"
+msgstr "שחרר להעברת %s מעל %s"
+
+msgid "Release to move %s below %s"
+msgstr "שחרר להעברת %s מתחת ל־%s"
+
+msgid "Back"
+msgstr "הקודם"
+
+msgid "Pause"
+msgstr "השהה"
+
+msgid "Play"
+msgstr "נגן"
+
+msgid "Stop"
+msgstr "עצור"
+
+msgid "Forward"
+msgstr "הבא"
+
+msgid "Repeat album"
+msgstr "חזרה על אלבום"
+
+msgid "Repeat track"
+msgstr "חזרה על רצועה"
+
+msgid "Only one %s allowed"
+msgstr "מותר רק %s אחד"
+
+msgid "Release over another cell, or an edge of one, to move %s"
+msgstr "שחרר מעל תא אחר או קצה תא להעברת %s"
+
+msgid "Fixed width: %d px"
+msgstr "רוחב קבוע: %d px"
+
+msgid "Fixed height: %d px"
+msgstr "גובה קבוע: %d px"
+
+msgid "Square Max: %d px"
+msgstr "ריבוע מרבי: %d px"
+
+msgid "Release to move %s into this empty cell"
+msgstr "שחרר להעברת %s לתא ריק זה"
+
+msgid "Un-Love Track"
+msgstr "בטל סימון רצועה כאהובה"
+
+msgid "Love Track"
+msgstr "סמן רצועה כאהובה"
+
+msgid "Flexible width: %d px"
+msgstr "רוחב גמיש: %d px"
+
+msgid "Flexible height: %d px"
+msgstr "גובה גמיש: %d px"
+
+msgid "Repeat On"
+msgstr "חזרה פעילה"
+
+msgid "Repeat Off"
+msgstr "חזרה כבויה"
+
+msgid "Shuffle On"
+msgstr "ערבוב פעיל"
+
+msgid "Shuffle Off"
+msgstr "ערבוב כבוי"
+
+msgid "Error - Discord not running?"
+msgstr "שגיאה - האם Discord פועל?"
+
+msgid "Unknown Track"
+msgstr "רצועה לא ידועה"
+
+msgid "Waiting for Discord rate limit…"
+msgstr "ממתין למגבלת הקצב של Discord…"
+
+msgid "Reconnecting to Discord…"
+msgstr "מתחבר מחדש אל Discord…"
+
+msgid "Live radio"
+msgstr "רדיו חי"
+
+msgid "Not yet"
+msgstr "טרם"
+
+msgid "Now"
+msgstr "עכשיו"
+
+msgid "min"
+msgstr "דק׳"
+
+msgid "hr"
+msgstr "שע׳"
+
+msgid "dy"
+msgstr "ימ׳"
+
+msgid "wk"
+msgstr "שב׳"
+
+msgid "mnth"
+msgstr "חוד׳"
+
+msgid "Unknown"
+msgstr "לא ידוע"
+
+msgid "after"
+msgstr "אחרי"
+
+msgid "before"
+msgstr "לפני"
+
+msgid "A step runs before any tracks are taken, so it does nothing."
+msgstr "שלב פועל לפני שנלקחו רצועות כלשהן, ולכן אינו עושה דבר."
+
+msgid "A-Z"
+msgstr "א-ת"
+
+msgid "Z-A"
+msgstr "ת-א"
+
+msgid "{N} min"
+msgstr "{N} דק׳"
+
+msgid "Playlist"
+msgstr "רשימת השמעה"
+
+msgid "from playlist"
+msgstr "מתוך רשימת השמעה"
+
+msgid "This playlist"
+msgstr "רשימת השמעה זו"
+
+msgid "from this playlist"
+msgstr "מתוך רשימת השמעה זו"
+
+msgid "Sources"
+msgstr "מקורות"
+
+msgid "Clear"
+msgstr "נקה"
+
+msgid "clear the sources"
+msgstr "נקה את המקורות"
+
+msgid "All tracks"
+msgstr "כל הרצועות"
+
+msgid "take all tracks"
+msgstr "קח את כל הרצועות"
+
+msgid "take tracks by"
+msgstr "קח רצועות של"
+
+msgid "take tracks in genre"
+msgstr "קח רצועות בז'אנר"
+
+msgid "Search"
+msgstr "חיפוש"
+
+msgid "take tracks matching"
+msgstr "קח רצועות התואמות ל־"
+
+msgid "Folder"
+msgstr "תיקייה"
+
+msgid "take the folder matching"
+msgstr "קח תיקייה התואמת ל־"
+
+msgid "take tracks on label"
+msgstr "קח רצועות בחברת תקליטים"
+
+msgid "File type"
+msgstr "סוג קובץ"
+
+msgid "take files of type"
+msgstr "קח קבצים מסוג"
+
+msgid "take the Plex library"
+msgstr "קח את ספריית Plex"
+
+msgid "take the Jellyfin library"
+msgstr "קח את ספריית Jellyfin"
+
+msgid "Jellyfin playlist"
+msgstr "רשימת השמעה של Jellyfin"
+
+msgid "take Jellyfin playlist"
+msgstr "קח רשימת השמעה של Jellyfin"
+
+msgid "take the Satellite playlist"
+msgstr "קח את רשימת ההשמעה של Satellite"
+
+msgid "take the Airsonic library"
+msgstr "קח את ספריית Airsonic"
+
+msgid "Airsonic playlist"
+msgstr "רשימת השמעה של Airsonic"
+
+msgid "take Airsonic playlist"
+msgstr "קח רשימת השמעה של Airsonic"
+
+msgid "Tidal playlist"
+msgstr "רשימת השמעה של Tidal"
+
+msgid "take Tidal playlist"
+msgstr "קח רשימת השמעה של Tidal"
+
+msgid "Tidal albums"
+msgstr "אלבומי Tidal"
+
+msgid "take Tidal favourite albums"
+msgstr "קח אלבומים מועדפים מ־Tidal"
+
+msgid "Tidal tracks"
+msgstr "רצועות Tidal"
+
+msgid "take Tidal favourite tracks"
+msgstr "קח רצועות מועדפות מ־Tidal"
+
+msgid "Tidal artist"
+msgstr "אמן Tidal"
+
+msgid "take Tidal artist"
+msgstr "קח אמן מ־Tidal"
+
+msgid "Tidal mix"
+msgstr "מיקס של Tidal"
+
+msgid "take Tidal mix"
+msgstr "קח מיקס מ־Tidal"
+
+msgid "Not in"
+msgstr "לא נמצא ב־"
+
+msgid "minus anything in"
+msgstr "למעט מה שנמצא ב־"
+
+msgid "Keep matching"
+msgstr "השאר תואמים"
+
+msgid "keep only matches for"
+msgstr "השאר רק התאמות עבור"
+
+msgid "Exclude matching"
+msgstr "הוצא תואמים"
+
+msgid "drop matches for"
+msgstr "הסר התאמות עבור"
+
+msgid "Comment has"
+msgstr "ההערה מכילה"
+
+msgid "keep comments containing"
+msgstr "השאר הערות המכילות"
+
+msgid "Year"
+msgstr "שנה"
+
+msgid "Rating"
+msgstr "דירוג"
+
+msgid "Album rating"
+msgstr "דירוג אלבום"
+
+msgid "Play count"
+msgstr "מספר השמעות"
+
+msgid "Play time"
+msgstr "זמן השמעה"
+
+msgid "Length"
+msgstr "אורך"
+
+msgid "Album length"
+msgstr "אורך אלבום"
+
+msgid "Skips"
+msgstr "דילוגים"
+
+msgid "Loved"
+msgstr "אהוב"
+
+msgid "loved tracks"
+msgstr "רצועות אהובות"
+
+msgid "Has lyrics"
+msgstr "עם מילים"
+
+msgid "tracks with lyrics"
+msgstr "רצועות עם מילים"
+
+msgid "On this day"
+msgstr "ביום זה"
+
+msgid "tracks released on this day"
+msgstr "רצועות שיצאו ביום זה"
+
+msgid "Rated"
+msgstr "מדורג"
+
+msgid "rated tracks"
+msgstr "רצועות מדורגות"
+
+msgid "Unrated"
+msgstr "ללא דירוג"
+
+msgid "unrated tracks"
+msgstr "רצועות ללא דירוג"
+
+msgid "CUE tracks"
+msgstr "רצועות CUE"
+
+msgid "CUE sheet tracks"
+msgstr "רצועות גיליון CUE"
+
+msgid "Hi-res"
+msgstr "Hi-res"
+
+msgid "hi-res files"
+msgstr "קובצי Hi-res"
+
+msgid "newest"
+msgstr "החדש ביותר"
+
+msgid "oldest"
+msgstr "הישן ביותר"
+
+msgid "highest"
+msgstr "הגבוה ביותר"
+
+msgid "lowest"
+msgstr "הנמוך ביותר"
+
+msgid "Sort"
+msgstr "מיון"
+
+msgid "Album rating, highest first"
+msgstr "דירוג אלבום, הגבוה תחילה"
+
+msgid "sort by album rating, highest first"
+msgstr "מיין לפי דירוג אלבום, הגבוה תחילה"
+
+msgid "most"
+msgstr "הרב ביותר"
+
+msgid "least"
+msgstr "המועט ביותר"
+
+msgid "Album play time"
+msgstr "זמן השמעת אלבום"
+
+msgid "longest"
+msgstr "הארוך ביותר"
+
+msgid "shortest"
+msgstr "הקצר ביותר"
+
+msgid "Modified"
+msgstr "שונה"
+
+msgid "Imported"
+msgstr "יובא"
+
+msgid "Artist | Album"
+msgstr "אמן | אלבום"
+
+msgid "Album artist | Album"
+msgstr "אמן אלבום | אלבום"
+
+msgid "Tracks"
+msgstr "רצועות"
+
+msgid "shuffle tracks"
+msgstr "ערבב רצועות"
+
+msgid "Albums"
+msgstr "אלבומים"
+
+msgid "shuffle albums"
+msgstr "ערבב אלבומים"
+
+msgid "Reverse"
+msgstr "היפוך סדר"
+
+msgid "reverse the order"
+msgstr "הפוך את הסדר"
+
+msgid "reverse album order"
+msgstr "הפוך את סדר האלבומים"
+
+msgid "File path"
+msgstr "נתיב קובץ"
+
+msgid "sort by file path"
+msgstr "מיין לפי נתיב קובץ"
+
+msgid "Track number"
+msgstr "מספר רצועה"
+
+msgid "sort by track number"
+msgstr "מיין לפי מספר רצועה"
+
+msgid "Year per artist"
+msgstr "שנה לכל אמן"
+
+msgid "sort by year per artist"
+msgstr "מיין לפי שנה לכל אמן"
+
+msgid "Limit"
+msgstr "הגבלה"
+
+msgid "tracks"
+msgstr "רצועות"
+
+msgid "minutes"
+msgstr "דקות"
+
+msgid "Max per artist"
+msgstr "מקסימום לאמן"
+
+msgid "Nothing is taken yet. Choose all tracks, an artist, a genre or a search."
+msgstr "טרם נבחרו רצועות. בחר את כל הרצועות, אמן, ז'אנר או חיפוש."
+
+msgid "Playlist…"
+msgstr "רשימת השמעה…"
+
+msgid "Artist…"
+msgstr "אמן…"
+
+msgid "Genre…"
+msgstr "ז'אנר…"
+
+msgid "Search…"
+msgstr "חיפוש…"
+
+msgid "Folder…"
+msgstr "תיקייה…"
+
+msgid "Label…"
+msgstr "חברת תקליטים…"
+
+msgid "File type…"
+msgstr "סוג קובץ…"
+
+msgid "Exact match"
+msgstr "התאמה מדויקת"
+
+msgid "Services"
+msgstr "שירותים"
+
+msgid "Filter"
+msgstr "סינון"
+
+msgid "Unplayed"
+msgstr "לא הושמעו"
+
+msgid "Recently added"
+msgstr "נוספו לאחרונה"
+
+msgid "Top rated albums"
+msgstr "אלבומים בדירוג מוביל"
+
+msgid "Most played"
+msgstr "המושמעים ביותר"
+
+msgid "One-hour mix"
+msgstr "מיקס של שעה"
+
+msgid "Album roulette"
+msgstr "רולטת אלבומים"
+
+msgid "Hi-res only"
+msgstr "Hi-res בלבד"
+
+msgid "Auto-sorting"
+msgstr "מיון אוטומטי"
+
+msgid "more than"
+msgstr "יותר מ־"
+
+msgid "less than"
+msgstr "פחות מ־"
+
+msgid "exactly"
+msgstr "בדיוק"
+
+msgid "at least"
+msgstr "לפחות"
+
+msgid "at most"
+msgstr "לכל היותר"
+
+msgid "Only"
+msgstr "רק"
+
+msgid "Label (exact)"
+msgstr "חברת תקליטים (מדויק)"
+
+msgid "Label"
+msgstr "חברת תקליטים"
+
+msgid "seconds"
+msgstr "שניות"
+
+msgid "days"
+msgstr "ימים"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "Option"
+msgstr "אפשרות"
+
+msgid "Auto update"
+msgstr "עדכון אוטומטי"
+
+msgid "unknown code"
+msgstr "קוד לא מוכר"
+
+msgid "{N} s"
+msgstr "{N} שנ׳"
+
+msgid "Ascending"
+msgstr "עולה"
+
+msgid "Descending"
+msgstr "יורד"
+
+msgid "keep the first {N} tracks"
+msgstr "השאר את {N} הרצועות הראשונות"
+
+msgid "stop at {N} minutes"
+msgstr "עצור ב־{N} דקות"
+
+msgid "at most {N} per artist"
+msgstr "לכל היותר {N} לכל אמן"
+
+msgid "from"
+msgstr "מתוך"
+
+msgid "all playlists"
+msgstr "כל רשימות ההשמעה"
+
+msgid "Unknown code: {C}"
+msgstr "קוד לא מוכר: {C}"
+
+msgid "Enter a value for {K}"
+msgstr "הזן ערך עבור {K}"
+
+msgid "Genre (exact)…"
+msgstr "ז'אנר (מדויק)…"
+
+msgid "Genre (multi-value)…"
+msgstr "ז'אנר (מרובה ערכים)…"
+
+msgid "Label (exact)…"
+msgstr "חברת תקליטים (מדויק)…"
+
+msgid "Search (exact text)…"
+msgstr "חיפוש (טקסט מדויק)…"
+
+msgid "Plex library"
+msgstr "ספריית Plex"
+
+msgid "Jellyfin library"
+msgstr "ספריית Jellyfin"
+
+msgid "Jellyfin playlist…"
+msgstr "רשימת השמעה של Jellyfin…"
+
+msgid "Airsonic library"
+msgstr "ספריית Airsonic"
+
+msgid "Airsonic playlist…"
+msgstr "רשימת השמעה של Airsonic…"
+
+msgid "Tauon Satellite playlist"
+msgstr "רשימת השמעה של Tauon Satellite"
+
+msgid "Tidal playlist…"
+msgstr "רשימת השמעה של Tidal…"
+
+msgid "Tidal favourite albums"
+msgstr "אלבומים מועדפים מ־Tidal"
+
+msgid "Tidal favourite tracks"
+msgstr "רצועות מועדפות מ־Tidal"
+
+msgid "Tidal artist…"
+msgstr "אמן Tidal…"
+
+msgid "Tidal mix…"
+msgstr "מיקס של Tidal…"
+
+msgid "Year…"
+msgstr "שנה…"
+
+msgid "Rating…"
+msgstr "דירוג…"
+
+msgid "Album rating…"
+msgstr "דירוג אלבום…"
+
+msgid "Play count…"
+msgstr "מספר השמעות…"
+
+msgid "Length…"
+msgstr "אורך…"
+
+msgid "Album length…"
+msgstr "אורך אלבום…"
+
+msgid "Play time…"
+msgstr "זמן השמעה…"
+
+msgid "Recently modified…"
+msgstr "שונה לאחרונה…"
+
+msgid "Modified since date…"
+msgstr "שונה מאז תאריך…"
+
+msgid "Skips…"
+msgstr "דילוגים…"
+
+msgid "Keep matching…"
+msgstr "השאר תואמים…"
+
+msgid "Exclude matching…"
+msgstr "הוצא תואמים…"
+
+msgid "Comment contains…"
+msgstr "ההערה מכילה…"
+
+msgid "Not in playlist…"
+msgstr "לא ברשימת השמעה…"
+
+msgid "Shuffle tracks"
+msgstr "ערבב רצועות"
+
+msgid "Shuffle albums"
+msgstr "ערבב אלבומים"
+
+msgid "Column…"
+msgstr "עמודה…"
+
+msgid "Reverse tracks"
+msgstr "הפוך סדר רצועות"
+
+msgid "Reverse albums"
+msgstr "הפוך סדר אלבומים"
+
+msgid "Number of tracks…"
+msgstr "מספר רצועות…"
+
+msgid "Total time…"
+msgstr "זמן כולל…"
+
+msgid "Max per artist…"
+msgstr "מקסימום לאמן…"
+
+msgid "only"
+msgstr "רק"
+
+msgid "{name}, {order} first"
+msgstr "{name}, {order} תחילה"
+
+msgid "sort by"
+msgstr "מיין לפי"
+
+msgid "Genre (exact)"
+msgstr "ז'אנר (מדויק)"
+
+msgid "Genre (multi)"
+msgstr "ז'אנר (מרובה)"
+
+msgid "date contains"
+msgstr "התאריך מכיל"
+
+msgid "modified"
+msgstr "שונה"
+
+msgid "sort by column"
+msgstr "מיין לפי עמודה"
+
+msgid "{order} first"
+msgstr "{order} תחילה"
+
+msgid "last {N} days"
+msgstr "{N} הימים האחרונים"
+
+msgid "over {N} days ago"
+msgstr "לפני יותר מ־{N} ימים"
+
+msgid "since {D}"
+msgstr "מאז {D}"
+
+msgid "before {D}"
+msgstr "לפני {D}"
+
+msgid "in the last {N} days"
+msgstr "ב־{N} הימים האחרונים"
+
+msgid "Following the global setting: updates on entry and after imports."
+msgstr "לפי ההגדרה הכללית: מתעדכן בכניסה ולאחר ייבוא."
+
+msgid "Ready. {N} track in playlist"
+msgstr "מוכן. רצועה {N} ברשימת ההשמעה"
+
+msgid "Ready. {N} tracks in playlist"
+msgstr "מוכן. {N} רצועות ברשימת ההשמעה"
+
+msgid "No tracks"
+msgstr "אין רצועות"
+
+msgid "{N} track"
+msgstr "רצועה {N}"
+
+msgid "{N} tracks"
+msgstr "{N} רצועות"
+
+msgid "Unknown code"
+msgstr "קוד לא מוכר"
+
+msgid "Regenerates on playlist entry and after importing music."
+msgstr "נוצר מחדש בכניסה לרשימת ההשמעה ולאחר ייבוא מוזיקה."
+
+msgid "Off. Use Regenerate to update it."
+msgstr "כבוי. השתמש ב'צור מחדש' כדי לעדכן."
+
+msgid "Off. Shuffled playlists don't update unless this is ticked."
+msgstr "כבוי. רשימות השמעה מעורבבות לא מתעדכנות אלא אם אפשרות זו מסומנת."
+
+msgid "Smart playlist"
+msgstr "רשימת השמעה חכמה"
+
+msgid "Playlist name"
+msgstr "שם רשימת ההשמעה"
+
+msgid "Presets"
+msgstr "תבניות"
+
+msgid "Generator code"
+msgstr "קוד מחולל"
+
+msgid "Done"
+msgstr "סיום"
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "Convert to normal playlist"
+msgstr "המרה לרשימת השמעה רגילה"
+
+msgid "New Playlist"
+msgstr "רשימת השמעה חדשה"
+
+msgid "From"
+msgstr "מתוך"
+
+msgid "All playlists"
+msgstr "כל רשימות ההשמעה"
+
+msgid "Take"
+msgstr "קח"
+
+msgid "Then"
+msgstr "ואז"
+
+msgid "+ Filter, sort or limit"
+msgstr "+ סינון, מיון או הגבלה"
+
+msgid "Close the quotation mark…"
+msgstr "יש לסגור את המירכאות…"
+
+msgid "Disabled. This is a normal playlist."
+msgstr "מושבת. זוהי רשימת השמעה רגילה."
+
+msgid "Playlist not found"
+msgstr "רשימת ההשמעה לא נמצאה"
+
+msgid "No tracks match"
+msgstr "אין רצועות מתאימות"
+
+msgid "Some codes could not run"
+msgstr "לא ניתן להריץ חלק מהקודים"
+
+msgid "Kept as written. Fix it here or remove it."
+msgstr "נשמר כפי שנכתב. ניתן לתקן כאן או להסיר."
+
+msgid "Click a step to edit it. Drag to reorder."
+msgstr "לחצו על שלב לעריכה. גררו לשינוי הסדר."
+
+msgid "This generator has several stages, so it's shown as one list."
+msgstr "למחולל זה מספר שלבים, לכן הוא מוצג כרשימה אחת."
+
+msgid "+ Add step"
+msgstr "+ הוספת שלב"
+
+msgid "{H} h {M} m"
+msgstr "{H} ש׳ {M} ד׳"
+
+msgid "Renaming that playlist updates this."
+msgstr "שינוי שם הרשימה ההיא יעדכן זאת."
+
+msgid "Keep the current tracks and remove the generator"
+msgstr "שמירת הרצועות הנוכחיות והסרת המחולל"
+
+msgid "No settings. Drag the step to move it."
+msgstr "אין הגדרות. גררו את השלב כדי להזיזו."
+
+msgid "Insufficient metadata to search"
+msgstr "אין מספיק מטא־נתונים לחיפוש"
+
+msgid "Clipboard has no text"
+msgstr "אין טקסט בלוח הגזירים"
+
+msgid "Track not found on GuitarParty"
+msgstr "הרצועה לא נמצאה ב־GuitarParty"
+
+msgid "Error finding matching track on GuitarParty"
+msgstr "שגיאה בחיפוש רצועה מתאימה ב־GuitarParty"
+
+msgid "Error getting song from GuitarParty"
+msgstr "שגיאה בקבלת השיר מ־GuitarParty"
+
+msgid "Could not connect to the server"
+msgstr "לא ניתן להתחבר לשרת"
+
+msgid "Error fetching Jellyfin playlist"
+msgstr "שגיאה בטעינת רשימת השמעה מ־Jellyfin"
+
+msgid "Could not establish connection to server."
+msgstr "לא ניתן ליצור חיבור לשרת."
+
+msgid "Check server is running and URL is correct."
+msgstr "בדקו שהשרת פועל ושהכתובת (URL) נכונה."
+
+msgid "Connection and authorisation successful"
+msgstr "החיבור והאימות הצליחו"
+
+msgid "401 Authentication failed"
+msgstr "401 האימות נכשל"
+
+msgid "Check username and password."
+msgstr "בדקו את שם המשתמש והסיסמה."
+
+msgid "Jellyfin auth error"
+msgstr "שגיאת אימות ב־Jellyfin"
+
+msgid "Error connecting to Jellyfin"
+msgstr "שגיאה בהתחברות ל־Jellyfin"
+
+msgid "Error accessing Jellyfin"
+msgstr "שגיאה בגישה ל־Jellyfin"
+
+msgid "Jellyfin Collection"
+msgstr "אוסף Jellyfin"
+
+msgid "Error connecting to Jellyfin for Import"
+msgstr "שגיאה בהתחברות ל־Jellyfin לצורך ייבוא"
+
+msgid "Time"
+msgstr "זמן"
+
+msgid "Filepath"
+msgstr "נתיב קובץ"
+
+msgid "Mouse back"
+msgstr "כפתור אחורה בעכבר"
+
+msgid "Mouse forward"
+msgstr "כפתור קדימה בעכבר"
+
+msgid "day"
+msgstr "יום"
+
+msgid "Scanning for Chromecasts…"
+msgstr "סורק מכשירי Chromecast…"
+
+msgid "Cast to: %s"
+msgstr "שידור אל: %s"
+
+msgid "No Chromecast devices found"
+msgstr "לא נמצאו מכשירי Chromecast"
+
+msgid "End Cast"
+msgstr "סיום שידור"
+
+msgid "Web server stopped."
+msgstr "שרת האינטרנט הופסק."
+
+msgid "Open Tauon Music Box"
+msgstr "פתיחת Tauon Music Box"
+
+msgid "Play/Pause"
+msgstr "ניגון/השהיה"
+
+msgid "Next Track"
+msgstr "הרצועה הבאה"
+
+msgid "Previous Track"
+msgstr "הרצועה הקודמת"
+
+msgid "Quit"
+msgstr "יציאה"
+
+msgid "A/B Repeat"
+msgstr "חזרה על קטע A/B"
+
+msgid "Make Large Size"
+msgstr "תצוגה גדולה"
+
+msgid "Enable Milkdrop Visualiser"
+msgstr "הפעלת תצוגה חזותית Milkdrop"
+
+msgid "Show Lyrics"
+msgstr "הצגת מילים"
+
+msgid "Delete Image File"
+msgstr "מחיקת קובץ תמונה"
+
+msgid "Set as Sync Playlist"
+msgstr "הגדרה כרשימת סנכרון"
+
+msgid "Set as Downloads Playlist"
+msgstr "הגדרה כרשימת הורדות"
+
+msgid "Set Use Persistent Time"
+msgstr "הפעלת שמירת מיקום השמעה"
+
+msgid "Missing"
+msgstr "חסר"
+
+msgid "Duplicate tracks found"
+msgstr "נמצאו רצועות כפולות"
+
+msgid "Add duplicates"
+msgstr "הוסף כפילויות"
+
+msgid "Skip duplicates"
+msgstr "דלג על כפילויות"
+
+msgid "Cancelling…"
+msgstr "מבטל…"
+
+msgid "or on my "
+msgstr "או ב־"
+
+msgid "Component"
+msgstr "רכיב"
+
+msgid "Manual"
+msgstr "ידני"
+
+msgid "Country Filter"
+msgstr "סינון לפי מדינה"
+
+msgid ""
+"You don't yet have any static lyrics for this song. To start, you can either replace this text immediately, or you can right-click and select \"copy from synced\" if you already have synced lyrics.\n"
+"\n"
+"The right-click menu will also let you search and download lyrics from your selected lyrics sources, if you think they may be available online."
+msgstr ""
+"עדיין אין מילים סטטיות לשיר זה. כדי להתחיל, ניתן להחליף טקסט זה מיד, או ללחוץ לחיצה ימנית ולבחור \"העתקה ממילים מסונכרנות\" אם כבר קיימות מילים מסונכרנות.\n"
+"\n"
+"תפריט הלחיצה הימנית מאפשר גם לחפש ולהוריד מילים ממקורות המילים שבחרת, אם הן זמינות ברשת."
+
+msgid "Window borders"
+msgstr "גבולות חלון"
+
+msgid "Top panel BG"
+msgstr "רקע חלונית עליונה"
+
+msgid "Playlist box BG"
+msgstr "רקע תיבת רשימות"
+
+msgid "Queue panel: BG"
+msgstr "חלונית תור: רקע"
+
+msgid "Gallery panel BG"
+msgstr "רקע חלונית גלריה"
+
+msgid "Info panel: BG"
+msgstr "חלונית מידע: רקע"
+
+msgid "Info panel: main text"
+msgstr "חלונית מידע: טקסט ראשי"
+
+msgid "Info panel: 2nd text"
+msgstr "חלונית מידע: טקסט משני"
+
+msgid "Artist bio: BG"
+msgstr "ביוגרפיית אמן: רקע"
+
+msgid "Artist bio: text"
+msgstr "ביוגרפיית אמן: טקסט"
+
+msgid "Bottom panel: BG"
+msgstr "חלונית תחתונה: רקע"
+
+msgid "Bottom panel: text"
+msgstr "חלונית תחתונה: טקסט"
+
+msgid "List: BG"
+msgstr "רשימה: רקע"
+
+msgid "List: column bar"
+msgstr "רשימה: סרגל עמודות"
+
+msgid "List: column info"
+msgstr "רשימה: מידע עמודות"
+
+msgid "List: folder"
+msgstr "רשימה: תיקייה"
+
+msgid "List: star line"
+msgstr "רשימה: שורת כוכב"
+
+msgid "List: text"
+msgstr "רשימה: טקסט"
+
+msgid "List: select highlight"
+msgstr "רשימה: הדגשת בחירה"
+
+msgid "List: playing text"
+msgstr "רשימה: טקסט מתנגן"
+
+msgid "List: play highlight"
+msgstr "רשימה: הדגשת ניגון"
+
+msgid "List: missing track"
+msgstr "רשימה: רצועה חסרה"
+
+msgid "Seek/volume: fill"
+msgstr "דילוג/עוצמה: מילוי"
+
+msgid "Seek/volume: BG"
+msgstr "דילוג/עוצמה: רקע"
+
+msgid "Scroll bar"
+msgstr "פס גלילה"
+
+msgid "Buttons: normal"
+msgstr "כפתורים: רגיל"
+
+msgid "Buttons: hover"
+msgstr "כפתורים: ריחוף"
+
+msgid "Buttons: active"
+msgstr "כפתורים: פעיל"
+
+msgid "Text btn: BG"
+msgstr "כפתור טקסט: רקע"
+
+msgid "Text btn: text"
+msgstr "כפתור טקסט: טקסט"
+
+msgid "Text btn: BG hover"
+msgstr "כפתור טקסט: רקע בריחוף"
+
+msgid "Text btn: text hover"
+msgstr "כפתור טקסט: טקסט בריחוף"
+
+msgid "Tab btn: BG active"
+msgstr "לשונית: רקע פעיל"
+
+msgid "Tab btn: text active"
+msgstr "לשונית: טקסט פעיל"
+
+msgid "Dynamic accents"
+msgstr "צבעי הדגשה דינמיים"
+
+msgid "Context menu: BG"
+msgstr "תפריט הקשר: רקע"
+
+msgid "Context menu: text"
+msgstr "תפריט הקשר: טקסט"
+
+msgid "Context menu: invalid text"
+msgstr "תפריט הקשר: טקסט מושבת"
+
+msgid "Context menu: highlight"
+msgstr "תפריט הקשר: הדגשה"
+
+msgid "Boxes: background"
+msgstr "תיבות: רקע"
+
+msgid "Boxes: title text"
+msgstr "תיבות: טקסט כותרת"
+
+msgid "Boxes: body text"
+msgstr "תיבות: טקסט גוף"
+
+msgid "Boxes: sub text"
+msgstr "תיבות: טקסט משנה"
+
+msgid "Boxes: input text"
+msgstr "תיבות: טקסט קלט"
+
+msgid "Mini: BG"
+msgstr "מצב מיני: רקע"
+
+msgid "Mini: text 1"
+msgstr "מצב מיני: טקסט 1"
+
+msgid "Mini: text 2"
+msgstr "מצב מיני: טקסט 2"
+
+msgid "Albums per row"
+msgstr "אלבומים בשורה"
+
+msgid "Spacing"
+msgstr "ריווח"
+
+msgid "Row spacing"
+msgstr "ריווח שורות"
+
+msgid "Thumbnail size"
+msgstr "גודל תמונות ממוזערות"
+
+msgid "Image…"
+msgstr "תמונה…"
+
+msgid "Misc…"
+msgstr "שונות…"
+
+msgid "Colour…"
+msgstr "צבע…"
+
+msgid "Derive…"
+msgstr "גזירה…"
+
+msgid "Sort…"
+msgstr "מיון…"
+
+msgid "From Current…"
+msgstr "מהנוכחית…"
+
+msgid "Meta…"
+msgstr "מטא־נתונים…"
+
+msgid "Database…"
+msgstr "מסד נתונים…"
+
+msgid "Mini Mode"
+msgstr "מצב מיני"
+
+msgid "View…"
+msgstr "תצוגה…"
+
+msgid "Web auth page opened"
+msgstr "דף האימות בדפדפן נפתח"
+
+msgid "Once authorised click the 'done' button."
+msgstr "לאחר האישור לחצו על כפתור 'סיום'."
+
+msgid "Logout will complete on app restart."
+msgstr "ההתנתקות תושלם בהפעלה מחדש של התוכנה."
+
+msgid "Scanning scrobbles complete"
+msgstr "סריקת הסקרובלים הושלמה"
+
+msgid "Switch to Compact Panel"
+msgstr "מעבר לחלונית קומפקטית"
+
+msgid "Switch to Full Panel"
+msgstr "מעבר לחלונית מלאה"
+
+msgid "Set B Marker"
+msgstr "הגדרת נקודה B"
+
+msgid "Clear A/B"
+msgstr "ניקוי A/B"
+
+msgid "Exit Shuffle Lockdown"
+msgstr "יציאה מנעילת אקראי"
+
+msgid "Make Compact Size"
+msgstr "תצוגה קומפקטית"
+
+msgid "Rescanning folder…"
+msgstr "סורק תיקייה מחדש…"
+
+msgid "Lock Panel"
+msgstr "נעילת חלונית"
+
+msgid "Hide Metadata Panel"
+msgstr "הסתרת חלונית מטא־נתונים"
+
+msgid "Show Metadata Panel"
+msgstr "הצגת חלונית מטא־נתונים"
+
+msgid "Panel Below Lyrics"
+msgstr "חלונית מתחת למילים"
+
+msgid "Panel Above Lyrics"
+msgstr "חלונית מעל המילים"
+
+msgid "Disable Milkdrop Visualiser"
+msgstr "השבתת תצוגה חזותית Milkdrop"
+
+msgid "Disable Wide Mode"
+msgstr "השבתת מצב רחב"
+
+msgid "Enable Wide Mode"
+msgstr "הפעלת מצב רחב"
+
+msgid "Prefer Lyrics Display"
+msgstr "העדפת תצוגת מילים"
+
+msgid "Deleted lyrics file"
+msgstr "קובץ המילים נמחק"
+
+msgid "Delete Lyrics File"
+msgstr "מחיקת קובץ מילים"
+
+msgid "Delete Synced Lyrics File"
+msgstr "מחיקת קובץ מילים מסונכרנות"
+
+msgid "No music found"
+msgstr "לא נמצאה מוזיקה"
+
+msgid "Repeats in playlist:"
+msgstr "חזרות ברשימת ההשמעה:"
+
+msgid "Track types:"
+msgstr "סוגי רצועות:"
+
+msgid "Copying files to device"
+msgstr "מעתיק קבצים למכשיר"
+
+msgid "Un-set as Sync Playlist"
+msgstr "ביטול הגדרה כרשימת סנכרון"
+
+msgid "Un-set as Downloads Playlist"
+msgstr "ביטול הגדרה כרשימת הורדות"
+
+msgid "Un-set Use Persistent Time"
+msgstr "ביטול שמירת מיקום השמעה"
+
+msgid "Export complete."
+msgstr "הייצוא הושלם."
+
+msgid "Year Sorted"
+msgstr "ממוין לפי שנה"
+
+msgid "Configuration reloaded"
+msgstr "ההגדרות נטענו מחדש"
+
+msgid "Config file opened."
+msgstr "קובץ ההגדרות נפתח."
+
+msgid "Click \"Reload\" if you made any changes"
+msgstr "לחצו על \"טעינה מחדש\" אם ביצעתם שינויים"
+
+msgid "Rename Tracks…"
+msgstr "שינוי שם רצועות…"
+
+msgid "Folder renamed."
+msgstr "שם התיקייה שונה."
+
+msgid "Transcode Folder"
+msgstr "המרת קידוד לתיקייה"
+
+msgid "Okay, it's a normal playlist now."
+msgstr "אוקיי, זו רשימת השמעה רגילה כעת."
+
+msgid "You added tracks to a generator playlist. Do you want to clear the generator?"
+msgstr "הוספת רצועות לרשימת מחולל. האם לנקות את המחולל?"
+
+msgid "Include All Artists"
+msgstr "כלול את כל האמנים"
+
+msgid "Pause Queue"
+msgstr "השהיית תור"
+
+msgid "New Radio List"
+msgstr "רשימת רדיו חדשה"
+
+msgid "Clean Database!"
+msgstr "ניקוי מסד נתונים!"
+
+msgid "Searching…"
+msgstr "מחפש…"
+
+msgid "OK. This playlist will automatically sort on import from now on"
+msgstr "אישור. רשימת השמעה זו תמוין אוטומטית בייבוא מעתה והלאה"
+
+msgid "You can remove or edit this behavior with \"Smart Playlist…\" in the playlist tab menu"
+msgstr "ניתן להסיר או לערוך התנהגות זו דרך \"רשימה חכמה…\" בתפריט לשונית הרשימה"
+
+msgid "You can now add/remove albums to this playlist by right clicking in gallery of any playlist"
+msgstr "כעת ניתן להוסיף/להסיר אלבומים מרשימה זו בלחיצה ימנית בגלריה של כל רשימת השמעה"
+
+msgid "To exit this mode, click \"Disengage\" from main MENU"
+msgstr "ליציאה ממצב זה, לחצו על \"ניתוק\" בתפריט הראשי"
+
+msgid "Unpin"
+msgstr "ביטול הצמדה"
+
+msgid "New Folder"
+msgstr "תיקייה חדשה"
+
+msgid "Unpin from Top Panel"
+msgstr "ביטול הצמדה לחלונית העליונה"
+
+msgid "Pin to Top Panel"
+msgstr "הצמדה לחלונית העליונה"
+
+msgid "Lock"
+msgstr "נעילה"
+
+msgid "Enable Columns"
+msgstr "הפעלת עמודות"
+
+msgid "Enable Title Breaks"
+msgstr "הפעלת מפרידי כותרות"
+
+msgid "Chart generated"
+msgstr "תרשים האלבומים נוצר"
+
+msgid "Tip: You can also toggle this from a right-click context menu"
+msgstr "טיפ: ניתן להחליף מצב זה גם מתפריט הלחיצה הימנית"
+
+msgid "Original"
+msgstr "מקורי"
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Track Renaming"
+msgstr "שינוי שמות רצועות"
+
+msgid "BEFORE"
+msgstr "לפני"
+
+msgid "AFTER"
+msgstr "אחרי"
+
+msgid "Substitute Lyric Search"
+msgstr "החלפת טקסט בחיפוש מילים"
+
+msgid "Substitute"
+msgstr "החלף את"
+
+msgid "with"
+msgstr "ב־"
+
+msgid "Import/Export Playlist"
+msgstr "ייבוא/ייצוא רשימת השמעה"
+
+msgid "Target folder or file"
+msgstr "תיקייה או קובץ יעד"
+
+msgid "Use relative paths"
+msgstr "שימוש בנתיבים יחסיים"
+
+msgid "?"
+msgstr "?"
+
+msgid "Auto-export"
+msgstr "ייצוא אוטומטי"
+
+msgid "Auto-import"
+msgstr "ייבוא אוטומטי"
+
+msgid "Export"
+msgstr "ייצוא"
+
+msgid "Relocate Music Folder"
+msgstr "שינוי מיקום תיקיית מוזיקה"
+
+msgid "or type the path below"
+msgstr "או הקלידו את הנתיב למטה"
+
+msgid "Relocate"
+msgstr "עדכון מיקום"
+
+msgid "This action would add a duplicate track."
+msgstr "פעולה זו תוסיף רצועה כפולה."
+
+msgid "Close"
+msgstr "סגירה"
+
+msgid "Yay! Thank you!! 🎉 ✨"
+msgstr "יש! תודה רבה!! 🎉 ✨"
+
+msgid "STABLE?! That's for horses."
+msgstr "יציבה?! תשאירו את האורווה לסוסים."
+
+msgid "Changelog Highlights"
+msgstr "עיקרי השינויים"
+
+msgid "Please help me make free software. ❤️  "
+msgstr "עזרו לי ליצור תוכנה חופשית. ❤️  "
+
+msgid "Special thanks to everyone who donated."
+msgstr "תודה מיוחדת לכל מי שתרם."
+
+msgid "If you haven't, please consider donating at https://github.com/sponsors/Taiko2k"
+msgstr "אם טרם תרמתם, אנא שקלו לתרום בכתובת https://github.com/sponsors/Taiko2k"
+
+msgid "Your continued support helps keep this app alive."
+msgstr "התמיכה המתמשכת שלכם עוזרת להשאיר את התוכנה הזו בחיים."
+
+msgid "Tracks + Art"
+msgstr "רצועות + עטיפה"
+
+msgid "Tracks + Art (Reversed)"
+msgstr "רצועות + עטיפה (הפוך)"
+
+msgid "Tracks + Gallery"
+msgstr "רצועות + גלריה"
+
+msgid "Art + Lyrics"
+msgstr "עטיפה + מילים"
+
+msgid "Radio"
+msgstr "רדיו"
+
+msgid "Custom Theme"
+msgstr "ערכת נושא מותאמת"
+
+msgid "Duplicated theme"
+msgstr "ערכת הנושא שוכפלה"
+
+msgid "Deleted theme"
+msgstr "ערכת הנושא נמחקה"
+
+msgid "Saved theme"
+msgstr "ערכת הנושא נשמרה"
+
+msgid "Copied colour"
+msgstr "הצבע הועתק"
+
+msgid "Pasted colour"
+msgstr "הצבע הודבק"
+
+msgid "Cleared all loves"
+msgstr "כל סימוני 'אהבתי' נוקו"
+
+msgid "Cleared all scrobble counts"
+msgstr "כל מספרי הסקרובלינג אופסו"
+
+msgid "Loading playlists…"
+msgstr "טוען רשימות השמעה…"
+
+msgid "No playlists on this server."
+msgstr "אין רשימות השמעה בשרת זה."
+
+msgid "Playlists"
+msgstr "רשימות השמעה"
+
+msgid "Pick playlists to import, or import them all."
+msgstr "בחרו רשימות השמעה לייבוא, או ייבאו את כולן."
+
+msgid "Service"
+msgstr "שירות"
+
+msgid "No layout available."
+msgstr "אין פריסה זמינה."
+
+msgid "This service view is not available right now."
+msgstr "תצוגת שירות זו אינה זמינה כעת."
+
+msgid "Actions"
+msgstr "פעולות"
+
+msgid "Theme title"
+msgstr "שם ערכת הנושא"
+
+msgid "Save"
+msgstr "שמירה"
+
+msgid "Components"
+msgstr "רכיבים"
+
+msgid "Copy"
+msgstr "העתקה"
+
+msgid "Paste"
+msgstr "הדבקה"
+
+msgid "Output device"
+msgstr "התקן פלט"
+
+msgid "Audio stack"
+msgstr "מערכת שמע"
+
+msgid "Avoid resampling"
+msgstr "הימנעות מדגימה מחדש"
+
+msgid "Force stereo output"
+msgstr "כפיית פלט סטריאו"
+
+msgid "Direct DSD output"
+msgstr "פלט DSD ישיר"
+
+msgid "Pre-roll silence"
+msgstr "השתקה מקדימה (Pre-roll)"
+
+msgid "Pre-roll duration"
+msgstr "משך השתקה מקדימה"
+
+msgid "Fade on pause and stop"
+msgstr "עמעום בהשהיה ובעצירה"
+
+msgid "Fade on track jump"
+msgstr "עמעום במעבר בין רצועות"
+
+msgid "Back restarts to beginning"
+msgstr "כפתור 'הקודם' מחזיר לתחילת הרצועה"
+
+msgid "End of playlist action"
+msgstr "פעולה בסיום רשימת השמעה"
+
+msgid "Block suspend"
+msgstr "מניעת מצב שינה"
+
+msgid "Resume on restart"
+msgstr "המשך השמעה בהפעלה מחדש"
+
+msgid "Resume from suspend"
+msgstr "המשך השמעה ביציאה משינה"
+
+msgid "Mode"
+msgstr "מצב"
+
+msgid "Pre-amp"
+msgstr "קדם־מגבר (Pre-amp)"
+
+msgid "Allow compression"
+msgstr "אפשר דחיסת טווח דינמי"
+
+msgid "Enable EQ"
+msgstr "הפעלת אקולייזר (EQ)"
+
+msgid "Cache local files"
+msgstr "שמירת קבצים מקומיים במטמון"
+
+msgid "Use persistent network cache"
+msgstr "שימוש במטמון רשת קבוע"
+
+msgid "Wait for entire file"
+msgstr "המתנה לטעינת הקובץ המלא"
+
+msgid "Cache size"
+msgstr "גודל מטמון"
+
+msgid "Keep scrobbles while offline"
+msgstr "שמירת סקרובלים במצב לא מקוון"
+
+msgid "Discard waiting scrobbles"
+msgstr "מחיקת סקרובלים ממתינים"
+
+msgid "Background style"
+msgstr "סגנון רקע"
+
+msgid "Glass mode"
+msgstr "מצב זכוכית"
+
+msgid "Glass intensity"
+msgstr "עוצמת אפקט זכוכית"
+
+msgid "Darken tracklist"
+msgstr "הכהיית רשימת הרצועות"
+
+msgid "Emit track change notifications"
+msgstr "הצגת התראות במעבר רצועה"
+
+msgid "Draw own window decorations"
+msgstr "ציור מסגרת חלון עצמאית"
+
+msgid "Show playing in titlebar"
+msgstr "הצגת הרצועה המתנגנת בשורת הכותרת"
+
+msgid "Rounded window corners"
+msgstr "פינות חלון מעוגלות"
+
+msgid "Corner radius"
+msgstr "רדיוס פינות"
+
+msgid "Mini-mode always on top"
+msgstr "מצב מיני תמיד עליון"
+
+msgid "Interface scale"
+msgstr "קנה מידה של הממשק"
+
+msgid "Auto scale"
+msgstr "קנה מידה אוטומטי"
+
+msgid "Smooth scrolling"
+msgstr "גלילה חלקה"
+
+msgid "Smooth scroll speed"
+msgstr "מהירות גלילה חלקה"
+
+msgid "Show icon in system tray"
+msgstr "הצגת סמל במגש המערכת"
+
+msgid "Close to tray"
+msgstr "סגירה למגש המערכת"
+
+msgid "Start in tray"
+msgstr "הפעלה במגש המערכת"
+
+msgid "Show title text"
+msgstr "הצגת טקסט כותרת"
+
+msgid "Monochrome tray icon"
+msgstr "סמל מגש מערכת חד־גוני"
+
+msgid "Layout cycling order"
+msgstr "סדר מעבר בין פריסות"
+
+msgid "Gallery thumbnail size and titles"
+msgstr "גודל תמונות ממוזערות וכותרות בגלריה"
+
+msgid "Tracklist columns, font size and row height"
+msgstr "עמודות רשימת רצועות, גודל גופן וגובה שורה"
+
+msgid "Track menu search links"
+msgstr "קישורי חיפוש בתפריט רצועה"
+
+msgid "Tabs and top-panel visualiser"
+msgstr "לשוניות ותצוגה חזותית בחלונית עליונה"
+
+msgid "Centred side panel and art zoom"
+msgstr "חלונית צד ממורכזת וזום עטיפה"
+
+msgid "Showcase visualiser and wide mode"
+msgstr "תצוגת ראווה חזותית ומצב רחב"
+
+msgid "Auto fetch artist data"
+msgstr "משיכה אוטומטית של מידע על האמן"
+
+msgid "Auto reload playlists"
+msgstr "טעינה מחדש אוטומטית של רשימות השמעה"
+
+msgid "Ignore \"The\" when sorting artists"
+msgstr "התעלמות מ־\"The\" במיון אמנים"
+
+msgid "Extract archives"
+msgstr "חילוץ קובצי ארכיון"
+
+msgid "Enable download monitor"
+msgstr "הפעלת מעקב אחר תיקיית הורדות"
+
+msgid "Trash archive after extraction"
+msgstr "העברת ארכיון לאשפה לאחר החילוץ"
+
+msgid "Always extract to Music folder"
+msgstr "חילוץ תמיד לתיקיית המוזיקה"
+
+msgid "Record radio"
+msgstr "הקלטת רדיו"
+
+msgid "Display separator"
+msgstr "תו מפריד בתצוגה"
+
+msgid "Split on semicolon"
+msgstr "פיצול לפי נקודה־פסיק"
+
+msgid "Split on middle dot"
+msgstr "פיצול לפי נקודה אמצעית"
+
+msgid "Split on bullet"
+msgstr "פיצול לפי תבליט (•)"
+
+msgid "Save opus as .ogg"
+msgstr "שמירת קובצי opus עם סיומת .ogg"
+
+msgid "Embed album art"
+msgstr "הטמעת עטיפת אלבום"
+
+msgid "Copy album art"
+msgstr "העתקת עטיפת אלבום"
+
+msgid "Output folder"
+msgstr "תיקיית פלט"
+
+msgid "Save to output folder"
+msgstr "שמירה לתיקיית הפלט"
+
+msgid "Save and overwrite files in place"
+msgstr "שמירה ודריסת הקבצים במקומם"
+
+msgid "Target folder"
+msgstr "תיקיית יעד"
+
+msgid "Mounted device"
+msgstr "התקן מעוגן"
+
+msgid "Delete other folders in target"
+msgstr "מחיקת תיקיות אחרות ביעד"
+
+msgid "Transcode files"
+msgstr "המרת קידוד לקבצים"
+
+msgid "Bypass low bitrate"
+msgstr "דילוג על קצב סיביות נמוך"
+
+msgid "Layout"
+msgstr "פריסה"
+
+msgid "Use padding"
+msgstr "שימוש בריווח פנימי"
+
+msgid "Include album titles"
+msgstr "הכללת שמות אלבומים"
+
+msgid "Sort by top played"
+msgstr "מיון לפי המושמעים ביותר"
+
+msgid "Enable remote control"
+msgstr "הפעלת שליטה מרחוק"
+
+msgid "Enable Listen Along"
+msgstr "הפעלת האזנה משותפת"
+
+msgid "Enable Discord Rich Presence"
+msgstr "הפעלת Discord Rich Presence"
+
+msgid "Discord card order"
+msgstr "סדר כרטיס ב־Discord"
+
+msgid "Member list shows"
+msgstr "הצגה ברשימת החברים"
+
+msgid "Clean title (Removes .feat etc)"
+msgstr "ניקוי כותרת (הסרת feat. וכד׳)"
+
+msgid "Last.fm link button"
+msgstr "כפתור קישור ל־Last.fm"
+
+msgid "Tauon website button"
+msgstr "כפתור לאתר Tauon"
+
+msgid "Keep idle"
+msgstr "שמירה על מצב המתנה"
+
+msgid "Upload to catbox.moe"
+msgstr "העלאה אל catbox.moe"
+
+msgid "Auto-search lyrics"
+msgstr "חיפוש מילים אוטומטי"
+
+msgid "Search within lyrics"
+msgstr "חיפוש בתוך מילות השירים"
+
+msgid "Enable scrobbling"
+msgstr "הפעלת סקרובלינג"
+
+msgid "Allow local scrobbling"
+msgstr "אפשר סקרובלינג מקומי"
+
+msgid "Scrobble Radios"
+msgstr "סקרובלינג לתחנות רדיו"
+
+msgid "Show threshold marker"
+msgstr "הצגת סמן סף סקרובלינג"
+
+msgid "Pull love on scrobble/rescan"
+msgstr "משיכת 'אהבתי' בסקרובל/סריקה"
+
+msgid "Don't refetch while editing generators"
+msgstr "אל תמשוך מחדש בעת עריכת מחוללים"
+
+msgid "Use plain text authentication"
+msgstr "שימוש באימות טקסט גלוי"
+
+msgid "Artist images (automatic)"
+msgstr "תמונות אמנים (אוטומטי)"
+
+msgid "Cover art (manual only)"
+msgstr "עטיפת אלבום (ידני בלבד)"
+
+msgid "Open config file"
+msgstr "פתיחת קובץ הגדרות"
+
+msgid "Reload edited config"
+msgstr "טעינה מחדש של הגדרות שנערכו"
+
+msgid "Open data folder"
+msgstr "פתיחת תיקיית נתונים"
+
+msgid "Open keymap file"
+msgstr "פתיחת קובץ קיצורי מקשים"
+
+msgid "Enable gamepad input"
+msgstr "הפעלת קלט מבקר משחק (Gamepad)"
+
+msgid "Export playlists to"
+msgstr "ייצוא רשימות השמעה אל"
+
+msgid "Export folder"
+msgstr "תיקיית ייצוא"
+
+msgid "Auto-import playlists from this folder"
+msgstr "ייבוא אוטומטי של רשימות השמעה מתיקייה זו"
+
+msgid "Save Synced to .lrc"
+msgstr "שמירת מילים מסונכרנות לקובץ .lrc"
+
+msgid "Save lyrics edits to tags"
+msgstr "שמירת עריכות מילים בתגיות"
+
+msgid "Enable debug mode"
+msgstr "הפעלת מצב ניפוי שגיאות"
+
+msgid "Toggle Console"
+msgstr "הצגה/הסתרה של מסוף"
+
+msgid "Open website"
+msgstr "פתיחת אתר אינטרנט"
+
+msgid "Source code"
+msgstr "קוד מקור"
+
+msgid "Contributors"
+msgstr "תורמים לפיתוח"
+
+msgid "Open GPL license"
+msgstr "פתיחת רישיון GPL"
+
+msgid "Bypasses volume, EQ and ReplayGain."
+msgstr "עוקף עוצמת שמע, אקולייזר ו־ReplayGain."
+
+msgid "Wait for DAC resynchronization."
+msgstr "המתנה לסנכרון מחדש של ה־DAC."
+
+msgid "Keep the system awake during playback."
+msgstr "שמירה על המערכת ערה בזמן ניגון."
+
+msgid "Resume playback when Tauon starts."
+msgstr "המשך ניגון עם הפעלת Tauon."
+
+msgid "Resume playback after waking."
+msgstr "המשך ניגון לאחר התעוררות המערכת."
+
+msgid "Inactive"
+msgstr "לא פעיל"
+
+msgid "Applied to this track"
+msgstr "מוחל על רצועה זו"
+
+msgid "Compression"
+msgstr "דחיסה"
+
+msgid "Theme"
+msgstr "ערכת נושא"
+
+msgid "Use inertial scrolling"
+msgstr "שימוש בגלילה עם התמדה (אינרציה)"
+
+msgid "Right-click the gallery"
+msgstr "לחיצה ימנית בגלריה"
+
+msgid "Right-click a track › Layout…"
+msgstr "לחיצה ימנית על רצועה › פריסה…"
+
+msgid "Right-click the top panel"
+msgstr "לחיצה ימנית על החלונית העליונה"
+
+msgid "Right-click the side-panel art"
+msgstr "לחיצה ימנית על עטיפת פאנל הצד"
+
+msgid "Right-click the showcase view"
+msgstr "לחיצה ימנית על תצוגת הראווה"
+
+msgid "Fetch artist data while the panel is open."
+msgstr "משיכת נתוני אמן בזמן שהפאנל פתוח."
+
+msgid "Rescan playlists when you return to them."
+msgstr "סריקה מחדש של רשימות השמעה בחזרה אליהן."
+
+msgid "Sorts \"The Beatles\" under B, including in the artist list."
+msgstr "ממיין את \"The Beatles\" תחת B, כולל ברשימת האמנים."
+
+msgid "Extract supported archives on drag and drop."
+msgstr "חילוץ ארכיונים נתמכים בגרירה ושחרור."
+
+msgid "Watch Downloads for one-click imports."
+msgstr "ניטור תיקיית ההורדות לייבוא בלחיצה אחת."
+
+msgid "Recorded tracks go to \"Saved Radio Tracks\"."
+msgstr "רצועות מוקלטות נשמרות ב־\"Saved Radio Tracks\"."
+
+msgid "Splits single-value tags like \"A; B\""
+msgstr "מפצל תגיות בעלות ערך יחיד כמו \"A; B\""
+
+msgid "Splits single-value tags like \"A · B\""
+msgstr "מפצל תגיות בעלות ערך יחיד כמו \"A · B\""
+
+msgid "Splits single-value tags like \"A • B\""
+msgstr "מפצל תגיות בעלות ערך יחיד כמו \"A • B\""
+
+msgid "ARTISTS tags are used when present. Changes apply after Rescan Tags."
+msgstr "נעשה שימוש בתגיות ARTISTS כשקיימות. שינויים יחולו לאחר סריקת תגיות מחדש."
+
+msgid "Add the album cover to each transcoded file."
+msgstr "הוספת עטיפת האלבום לכל קובץ מומר."
+
+msgid "Save the album cover as cover.jpg in the output folder."
+msgstr "שמירת עטיפת האלבום כ־cover.jpg בתיקיית הפלט."
+
+msgid "Current playlist"
+msgstr "רשימת השמעה נוכחית"
+
+msgid "Library tracks"
+msgstr "רצועות בספרייה"
+
+msgid "Library albums"
+msgstr "אלבומים בספרייה"
+
+msgid "Total playtime"
+msgstr "זמן השמעה כולל"
+
+msgid "File formats"
+msgstr "פורמטי קבצים"
+
+msgid "From playlist"
+msgstr "מרשימת השמעה"
+
+msgid "Background"
+msgstr "רקע"
+
+msgid "Randomize"
+msgstr "ערבוב"
+
+msgid "Chart size"
+msgstr "גודל הטבלה"
+
+msgid "Playlist sync"
+msgstr "סנכרון רשימות השמעה"
+
+msgid "Send them when the service is back, even after a restart."
+msgstr "שליחתם כשהשירות יחזור, גם לאחר הפעלה מחדש."
+
+msgid "No scrobbles waiting"
+msgstr "אין רישומי השמעה בהמתנה"
+
+msgid "Discard 1 waiting scrobble?"
+msgstr "למחוק רישום השמעה אחד הממתין?"
+
+msgid "They will not be sent."
+msgstr "הם לא יישלחו."
+
+msgid "Trusted networks only: port 7814 is not hardened."
+msgstr "רשתות מהימנות בלבד: פורט 7814 אינו מוקשח."
+
+msgid "Start the web server for remote playback."
+msgstr "הפעלת שרת האינטרנט להשמעה מרחוק."
+
+msgid "Disabled"
+msgstr "מושבת"
+
+msgid "Auto-search when lyrics enabled"
+msgstr "חיפוש אוטומטי כשמילות השיר מופעלות"
+
+msgid "Global search also matches lyrics text"
+msgstr "חיפוש גלובלי מתאים גם לטקסט מילות השיר"
+
+msgid "Runs during Database… › \"Reload All Folders\" only."
+msgstr "פועל רק במהלך מסד נתונים… › \"טעינת כל התיקיות מחדש\"."
+
+msgid "This program comes with absolutely no warranty."
+msgstr "תוכנה זו מסופקת ללא כל אחריות."
+
+msgid "No matches"
+msgstr "אין התאמות"
+
+msgid "Tauon SHUFFLE!"
+msgstr "ערבוב Tauon!"
+
+msgid "Get Top Voted"
+msgstr "המדורגות ביותר"
+
+msgid "Developer Picks"
+msgstr "בחירות המפתח"
+
+msgid "Station Browser"
+msgstr "דפדפן תחנות"
+
+msgid "Station image override"
+msgstr "תמונת תחנה חלופית"
+
+msgid "View"
+msgstr "תצוגה"
+
+msgid "Standard"
+msgstr "רגילה"
+
+msgid "Density"
+msgstr "צפיפות"
+
+msgid "Thin"
+msgstr "דק"
+
+msgid "Thick"
+msgstr "עבה"
+
+msgid "Text"
+msgstr "טקסט"
+
+msgid "Welcome to Tauon"
+msgstr "ברוכים הבאים אל Tauon"
+
+msgid "Add music"
+msgstr "הוספת מוזיקה"
+
+msgid "Add a folder to import contents to current playlist"
+msgstr "הוסף תיקייה לייבוא תכולתה לרשימת ההשמעה הנוכחית"
+
+msgid "Or drag files and folders into this window"
+msgstr "או גרור קבצים ותיקיות אל חלון זה"
+
+msgid "Shortcuts reset to defaults. The old file is input.txt.bak"
+msgstr "קיצורי המקשים אופסו לברירת המחדל. הקובץ הישן נשמר בשם input.txt.bak"
+
+msgid "Couldn't reset the shortcuts"
+msgstr "לא ניתן לאפס את קיצורי המקשים"
+
+msgid "Keyboard Shortcuts"
+msgstr "קיצורי מקלדת"
+
+msgid "Esc to close"
+msgstr "Esc לסגירה"
+
+msgid "Downloading data…"
+msgstr "מוריד נתונים…"
+
+msgid "No artists in playlist"
+msgstr "אין אמנים ברשימת ההשמעה"
+
+msgid "Auto-Stop"
+msgstr "עצירה אוטומטית"
+
+msgid "Source"
+msgstr "מקור"
+
+msgid "Output"
+msgstr "פלט"
+
+msgid "Rate"
+msgstr "קצב"
+
+msgid "IDLE"
+msgstr "בהמתנה"
+
+msgid "Gain"
+msgstr "הגבר"
+
+msgid "Off"
+msgstr "כבוי"
+
+msgid "Auto"
+msgstr "אוטומטי"
+
+msgid "Looking up…"
+msgstr "מחפש…"
+
+msgid "Saved"
+msgstr "שמורות"
+
+msgid "Discover"
+msgstr "גילוי"
+
+msgid "Picks"
+msgstr "מומלצות"
+
+msgid "Top"
+msgstr "מובילות"
+
+msgid "Filters"
+msgstr "מסננים"
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "Searching stations…"
+msgstr "מחפש תחנות…"
+
+msgid "Looking across the Radio Browser directory"
+msgstr "מחפש במאגר התחנות של Radio Browser"
+
+msgid "NOW PLAYING"
+msgstr "מתנגן כעת"
+
+msgid "CONNECTING"
+msgstr "מתחבר"
+
+msgid "LIVE"
+msgstr "שידור חי"
+
+msgid "Waiting for track information…"
+msgstr "ממתין לפרטי רצועה…"
+
+msgid "Tracks only"
+msgstr "רצועות בלבד"
+
+msgid "Showcase + Lyrics"
+msgstr "ראווה + מילים"
+
+msgid "Backups…"
+msgstr "גיבויים…"
+
+msgid "When track ends…"
+msgstr "בסיום הרצועה…"
+
+msgid "Playlists + Queue"
+msgstr "רשימות השמעה + תור"
+
+msgid "Add…"
+msgstr "הוספה…"
+
+msgid "Insert Cell…"
+msgstr "הוספת תא…"
+
+msgid "Split into Tabs…"
+msgstr "פיצול לכרטיסיות…"
+
+msgid "Layout…"
+msgstr "פריסה…"
+
+msgid "Gutter"
+msgstr "מרווח תאים"
+
+msgid "Padding"
+msgstr "ריפוד"
+
+msgid "Load Template…"
+msgstr "טעינת תבנית…"
+
+msgid "Exit Edit Mode"
+msgstr "יציאה ממצב עריכה"
+
+msgid "Enter Edit Mode"
+msgstr "כניסה למצב עריכה"
+
+msgid "Stacks"
+msgstr "ערימות"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Vinyl"
+msgstr "ויניל"
+
+msgid "Hide Titles"
+msgstr "הסתרת כותרות"
+
+msgid "Show Titles"
+msgstr "הצגת כותרות"
+
+msgid "Show titles"
+msgstr "הצגת כותרות"
+
+msgid "Center title text"
+msgstr "מרכוז טקסט כותרת"
+
+msgid "Single click to play"
+msgstr "לחיצה בודדת להשמעה"
+
+msgid "Scroll by row"
+msgstr "גלילה לפי שורה"
+
+msgid "Combine multi-discs"
+msgstr "איחוד אלבומים מרובי תקליטורים"
+
+msgid "Prefer thinner padding"
+msgstr "העדפת ריפוד דק"
+
+msgid "Repeat OFF"
+msgstr "חזרה כבויה"
+
+msgid "Repeat Track"
+msgstr "חזרה על רצועה"
+
+msgid "Repeat Album"
+msgstr "חזרה על אלבום"
+
+msgid "Shuffle Lockdown"
+msgstr "נעילת ערבוב"
+
+msgid "Shuffle Lockdown Albums"
+msgstr "נעילת ערבוב אלבומים"
+
+msgid "Shuffle OFF"
+msgstr "ערבוב כבוי"
+
+msgid "Shuffle Tracks"
+msgstr "ערבוב רצועות"
+
+msgid "Random Albums"
+msgstr "אלבומים אקראיים"
+
+msgid "Close Panel"
+msgstr "סגירת פאנל"
+
+msgid "Open Folder"
+msgstr "פתיחת תיקייה"
+
+msgid "Filter to New Playlist"
+msgstr "סינון לרשימת השמעה חדשה"
+
+msgid "Rescan Folder"
+msgstr "סריקת תיקייה מחדש"
+
+msgid "Move Playing Folder Here"
+msgstr "העברת התיקייה המתנגנת לכאן"
+
+msgid "Collapse All"
+msgstr "כיווץ הכול"
+
+msgid "lock"
+msgstr "נעילה"
+
+msgid "Show in Playlist"
+msgstr "הצגה ברשימת ההשמעה"
+
+msgid "Add Album to Queue"
+msgstr "הוספת אלבום לתור"
+
+msgid "Enqueue Album Next"
+msgstr "הוספת אלבום לניגון הבא"
+
+msgid "Show Showcase Visualiser"
+msgstr "הצגת אפקט חזותי בתצוגת ראווה"
+
+msgid "Search for Lyrics"
+msgstr "חיפוש מילות שיר"
+
+msgid "Prefer Synced Lyrics"
+msgstr "העדפת מילים מסונכרנות"
+
+msgid "Lyrics Editor"
+msgstr "עורך מילות שיר"
+
+msgid "Substitute Search…"
+msgstr "חיפוש חלופי…"
+
+msgid "Paste Lyrics"
+msgstr "הדבקת מילות שיר"
+
+msgid "Copy Lyrics"
+msgstr "העתקת מילות שיר"
+
+msgid "Clear Lyrics"
+msgstr "ניקוי מילות שיר"
+
+msgid "Clear Synced Lyrics"
+msgstr "ניקוי מילים מסונכרנות"
+
+msgid "Toggle art panel"
+msgstr "הצגה/הסתרה של פאנל עטיפה"
+
+msgid "Toggle art position"
+msgstr "החלפת מיקום עטיפה"
+
+msgid "Open Image"
+msgstr "פתיחת תמונה"
+
+msgid "Next Image"
+msgstr "התמונה הבאה"
+
+msgid "Extract Image"
+msgstr "חילוץ תמונה"
+
+msgid "Quick-Fetch Cover Art"
+msgstr "שליפה מהירה של עטיפה"
+
+msgid "Use Centered Style"
+msgstr "שימוש בסגנון ממורכז"
+
+msgid "Zoom Art to Fit"
+msgstr "התאמת גודל עטיפה"
+
+msgid "MilkDrop Visualiser"
+msgstr "אפקט חזותי MilkDrop"
+
+msgid "Cut Out"
+msgstr "חיתוך מסגרת"
+
+msgid "Favorite This Preset"
+msgstr "הוספת תבנית זו למועדפים"
+
+msgid "Choose Preset"
+msgstr "בחירת תבנית"
+
+msgid "Fullscreen"
+msgstr "מסך מלא"
+
+msgid "Open Preset Folder"
+msgstr "פתיחת תיקיית תבניות"
+
+msgid "Next"
+msgstr "הבא"
+
+msgid "Previous"
+msgstr "הקודם"
+
+msgid "Delete Image <combined>"
+msgstr "מחיקת תמונה <משולב>"
+
+msgid "Rename"
+msgstr "שינוי שם"
+
+msgid "Pin"
+msgstr "הצמדה"
+
+msgid "Remove from Folder"
+msgstr "הסרה מהתיקייה"
+
+msgid "Delete"
+msgstr "מחיקה"
+
+msgid "Blue"
+msgstr "כחול"
+
+msgid "Orange"
+msgstr "כתום"
+
+msgid "Green"
+msgstr "ירוק"
+
+msgid "Pink"
+msgstr "ורוד"
+
+msgid "Yellow"
+msgstr "צהוב"
+
+msgid "Cyan"
+msgstr "טורקיז"
+
+msgid "Purple"
+msgstr "סגול"
+
+msgid "Red"
+msgstr "אדום"
+
+msgid "New Subfolder"
+msgstr "תת־תיקייה חדשה"
+
+msgid "Delete Folder"
+msgstr "מחיקת תיקייה"
+
+msgid "Upload"
+msgstr "העלאה"
+
+msgid "Regenerate"
+msgstr "יצירה מחדש"
+
+msgid "Smart Playlist…"
+msgstr "רשימת השמעה חכמה…"
+
+msgid "Sort by Imported Tracks"
+msgstr "מיון לפי סדר ייבוא רצועות"
+
+msgid "Sort by Imported Folders"
+msgstr "מיון לפי סדר ייבוא תיקיות"
+
+msgid "Sort by Filepath"
+msgstr "מיון לפי נתיב קובץ"
+
+msgid "Sort by Artist | Album A-Z"
+msgstr "מיון לפי אמן | אלבום א׳-ת׳"
+
+msgid "Sort by Album Artist | Album A-Z"
+msgstr "מיון לפי אמן אלבום | אלבום א׳-ת׳"
+
+msgid "Sort Track Numbers"
+msgstr "מיון לפי מספרי רצועות"
+
+msgid "Sort Year per Artist"
+msgstr "מיון לפי שנה לכל אמן"
+
+msgid "Make Playlist Auto-Sorting"
+msgstr "הפיכת רשימת השמעה למתמיינת אוטומטית"
+
+msgid "Restore Sorting"
+msgstr "שחזור מיון"
+
+msgid "Append Playing"
+msgstr "הוספת הרצועה המתנגנת לסוף"
+
+msgid "Import/Export…"
+msgstr "ייבוא/ייצוא…"
+
+msgid "Toggle Grouping"
+msgstr "הפעלה/כיבוי של קיבוץ"
+
+msgid "Export Playlist Stats"
+msgstr "ייצוא סטטיסטיקת רשימת השמעה"
+
+msgid "Export Albums CSV"
+msgstr "ייצוא אלבומים ל־CSV"
+
+msgid "Transcode All"
+msgstr "המרת הכול"
+
+msgid "Rescan Tags"
+msgstr "סריקת תגיות מחדש"
+
+msgid "Engage Gallery Quick Add"
+msgstr "הפעלת הוספה מהירה מהגלריה"
+
+msgid "Set podcast mode"
+msgstr "הגדרת מצב פודקאסט"
+
+msgid "Remove Duplicates"
+msgstr "הסרת כפילויות"
+
+msgid "Top Played Tracks"
+msgstr "הרצועות המושמעות ביותר"
+
+msgid "Top Played Albums"
+msgstr "האלבומים המושמעים ביותר"
+
+msgid "Top Rated Tracks"
+msgstr "הרצועות המדורגות ביותר"
+
+msgid "Top Rated Albums"
+msgstr "האלבומים המדורגים ביותר"
+
+msgid "File Modified"
+msgstr "מועד שינוי קובץ"
+
+msgid "Longest Tracks"
+msgstr "הרצועות הארוכות ביותר"
+
+msgid "Longest Albums"
+msgstr "האלבומים הארוכים ביותר"
+
+msgid "Year by Oldest"
+msgstr "שנה (מהישן לחדש)"
+
+msgid "Year by Latest"
+msgstr "שנה (מהחדש לישן)"
+
+msgid "Shuffled Tracks"
+msgstr "רצועות מעורבבות"
+
+msgid "Shuffled Albums"
+msgstr "אלבומים מעורבבים"
+
+msgid "Lucky Random"
+msgstr "אקראי בר־מזל"
+
+msgid "Reverse Tracks"
+msgstr "היפוך סדר רצועות"
+
+msgid "Reverse Albums"
+msgstr "היפוך סדר אלבומים"
+
+msgid "Duplicate"
+msgstr "שכפול"
+
+msgid "Has Comment"
+msgstr "כולל הערה"
+
+msgid "Has Lyrics"
+msgstr "כולל מילות שיר"
+
+msgid "Track Info…"
+msgstr "פרטי רצועה…"
+
+msgid "Love"
+msgstr "אהבתי"
+
+msgid "Add to Queue"
+msgstr "הוסף לתור"
+
+msgid "↳ After Current Track"
+msgstr "↳ אחרי הרצועה הנוכחית"
+
+msgid "Show in Gallery"
+msgstr "הצגה בגלריה"
+
+msgid "Edit Tags…"
+msgstr "עריכת תגיות…"
+
+msgid "Delete Track File"
+msgstr "מחיקת קובץ רצועה"
+
+msgid "Modify Folder…"
+msgstr "שינוי תיקייה…"
+
+msgid "Lyrics…"
+msgstr "מילות שיר…"
+
+msgid "Fix Mojibake"
+msgstr "תיקון ג׳יבריש (Mojibake)"
+
+msgid "Locate Missing Files…"
+msgstr "איתור קבצים חסרים…"
+
+msgid "Look Out the Window"
+msgstr "מבט מהחלון"
+
+msgid "Vacuum Playtimes"
+msgstr "איחוד זמני השמעה"
+
+msgid "Copy \"Artist - Album\""
+msgstr "העתקת \"אמן - אלבום\""
+
+msgid "Add to queue"
+msgstr "הוספה לתור"
+
+msgid "Cut"
+msgstr "גזירה"
+
+msgid "Remove"
+msgstr "הסרה"
+
+msgid "Delete Files"
+msgstr "מחיקת קבצים"
+
+msgid "Search Artist on Wikipedia"
+msgstr "חיפוש אמן בוויקיפדיה"
+
+msgid "Search Track on Genius"
+msgstr "חיפוש רצועה ב־Genius"
+
+msgid "Search Artist on Sonemic"
+msgstr "חיפוש אמן ב־Sonemic"
+
+msgid "Search Artist on Bandcamp"
+msgstr "חיפוש אמן ב־Bandcamp"
+
+msgid "Copy \"Artist - Track\""
+msgstr "העתקת \"אמן - רצועה\""
+
+msgid "Copy TIDAL Album URL"
+msgstr "העתקת כתובת אלבום ב־TIDAL"
+
+msgid "Always stop after album"
+msgstr "עצירה תמיד אחרי אלבום"
+
+msgid "Always stop after track"
+msgstr "עצירה תמיד אחרי רצועה"
+
+msgid "Stop after album"
+msgstr "עצירה אחרי אלבום"
+
+msgid "Stop after track"
+msgstr "עצירה אחרי רצועה"
+
+msgid "Continue Play"
+msgstr "המשך ניגון"
+
+msgid "Show Tabs"
+msgstr "הצגת כרטיסיות"
+
+msgid "Level Meter"
+msgstr "מד עוצמה"
+
+msgid "Spectrum Visualizer"
+msgstr "מד ספקטרום"
+
+msgid "Minimize"
+msgstr "מזעור"
+
+msgid "Maximize"
+msgstr "הגדלה"
+
+msgid "Exit"
+msgstr "יציאה"
+
+msgid "Show bar"
+msgstr "הצגת סרגל"
+
+msgid "Add Folder…"
+msgstr "הוספת תיקייה…"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Dev Mode"
+msgstr "מצב פיתוח"
+
+msgid "Export as CSV"
+msgstr "ייצוא כ־CSV"
+
+msgid "Reload All Folders"
+msgstr "טעינת כל התיקיות מחדש"
+
+msgid "Play History to Playlist"
+msgstr "היסטוריית השמעה לרשימת השמעה"
+
+msgid "Reset Image Cache"
+msgstr "איפוס מטמון תמונות"
+
+msgid "Clear Artist Cache"
+msgstr "ניקוי מטמון אמנים"
+
+msgid "Remove Network Tracks"
+msgstr "הסרת רצועות רשת"
+
+msgid "Remove Missing Tracks"
+msgstr "הסרת רצועות חסרות"
+
+msgid "Import FMPS Ratings"
+msgstr "ייבוא דירוגי FMPS"
+
+msgid "Import POPM Ratings"
+msgstr "ייבוא דירוגי POPM"
+
+msgid "Reset User Ratings"
+msgstr "איפוס דירוגי משתמש"
+
+msgid "Find Incomplete Albums"
+msgstr "איתור אלבומים חלקיים"
+
+msgid "Mark Missing as Found"
+msgstr "סימון חסרים כנמצאו"
+
+msgid "Chromecast…"
+msgstr "Chromecast…"
+
+msgid "Tab"
+msgstr "כרטיסייה"
+
+msgid "Mini"
+msgstr "מיני"
+
+msgid "Signal"
+msgstr "סיגנל"
+
+msgid "Slate"
+msgstr "לוח"
+
+msgid "Square"
+msgstr "ריבוע"
+
+msgid "Square Large"
+msgstr "ריבוע גדול"
+
+msgid "Lyrics Drawer"
+msgstr "מגירת מילות שיר"
+
+msgid "Show Album Art"
+msgstr "הצגת עטיפת אלבום"
+
+msgid "Show Waveform"
+msgstr "הצגת צורת גל"
+
+msgid "Copy Title to Clipboard"
+msgstr "העתקת כותרת ללוח"
+
+msgid "Audio Info"
+msgstr "פרטי שמע"
+
+msgid "Random Track"
+msgstr "רצועה אקראית"
+
+msgid "Radio Random"
+msgstr "רדיו אקראי"
+
+msgid "Revert"
+msgstr "שחזור"
+
+msgid "Clear Queue"
+msgstr "נקה תור"
+
+msgid "Global Search"
+msgstr "חיפוש גלובלי"
+
+msgid "Locate Artist"
+msgstr "איתור אמן"
+
+msgid "Go To Playing"
+msgstr "מעבר לרצועה המתנגנת"
+
+msgid "Show Release Notes"
+msgstr "הצגת הערות גרסה"
+
+msgid "Disengage Quick Add"
+msgstr "כיבוי הוספה מהירה"
+
+msgid "Visit Website"
+msgstr "ביקור באתר"
+
+msgid "Sort Alphabetically"
+msgstr "מיון לפי א׳-ת׳"
+
+msgid "Sort by Popularity"
+msgstr "מיון לפי פופולריות"
+
+msgid "Sort by Playtime"
+msgstr "מיון לפי זמן השמעה"
+
+msgid "Toggle Thumbnails"
+msgstr "הצגה/הסתרה של תמונות ממוזערות"
+
+msgid "Toggle Filter"
+msgstr "הפעלה/כיבוי של מסנן"
+
+msgid "Download Artist Data"
+msgstr "הורדת נתוני אמן"
+
+msgid "Clear Bio"
+msgstr "ניקוי ביוגרפיה"
+
+msgid "Edit…"
+msgstr "עריכה…"
+
+msgid "Dismiss"
+msgstr "סגירה"
+
+msgid "ERROR: No backend found"
+msgstr "שגיאה: לא נמצא מנוע שמע"
+
+msgid "Rescanning folders…"
+msgstr "סורק תיקיות מחדש…"
+
+msgid "Playlist is locked to prevent accidental deletion"
+msgstr "רשימת ההשמעה נעולה למניעת מחיקה בשוגג"
+
+msgid "Optional module python-pylast not installed"
+msgstr "המודול האופציונלי python-pylast אינו מותקן"
+
+msgid "You need to log in first"
+msgstr "עליך להתחבר תחילה"
+
+msgid "Authorise an account in settings"
+msgstr "אשר חשבון בהגדרות"
+
+msgid "Getting friend data…"
+msgstr "מושך נתוני חברים…"
+
+msgid "This may take a very long time."
+msgstr "פעולה זו עשויה להימשך זמן רב מאוד."
+
+msgid "No username found"
+msgstr "לא נמצא שם משתמש"
+
+msgid "ListenBrainz is enabled but there is no token."
+msgstr "ListenBrainz מופעל אך אין אסימון."
+
+msgid "How did this even happen."
+msgstr "איך זה בכלל קרה."
+
+msgid "There was an error submitting data to ListenBrainz"
+msgstr "אירעה שגיאה בשליחת נתונים אל ListenBrainz"
+
+msgid "There is no text in the clipboard"
+msgstr "אין טקסט בלוח ההעתקה"
+
+msgid "That is not a valid token."
+msgstr "זהו אינו אסימון תקין."
+
+msgid "Can't open folder of a network track."
+msgstr "לא ניתן לפתוח תיקייה של רצועת רשת."
+
+msgid "No item is currently playing"
+msgstr "אין פריט המתנגן כעת"
+
+msgid "This track is a networked track."
+msgstr "רצועה זו היא רצועת רשת."
+
+msgid "The source folder does not exist."
+msgstr "תיקיית המקור אינה קיימת."
+
+msgid "The destination folder does not exist."
+msgstr "תיקיית היעד אינה קיימת."
+
+msgid "The destination and source folders are the same."
+msgstr "תיקיית היעד ותיקיית המקור זהות."
+
+msgid "Safety interrupt! The source path seems oddly short."
+msgstr "עצירת בטיחות! נתיב המקור נראה קצר באופן חריג."
+
+msgid "Folder size safety limit reached! (3GB)"
+msgstr "הגעת למגבלת הבטיחות של גודל תיקייה! (3GB)"
+
+msgid "Unlock Panel"
+msgstr "שחרור נעילת פאנל"
+
+msgid "MilkDrop visualiser is not available"
+msgstr "האפקט החזותי MilkDrop אינו זמין"
+
+msgid "Insufficient metadata to get lyrics"
+msgstr "אין מספיק מטא־נתונים להשגת מילות שיר"
+
+msgid "Cleared lyrics in Tauon only"
+msgstr "מילות השיר נוקו ב־Tauon בלבד"
+
+msgid "The .txt file was kept because \"Save lyrics edits to tags\" is off."
+msgstr "קובץ ה־.txt נשמר מכיוון ש\"שמירת עריכות מילים בתגיות\" כבויה."
+
+msgid "Deleted synced lyrics file"
+msgstr "קובץ המילים המסונכרנות נמחק"
+
+msgid "Also removed from tags"
+msgstr "הוסר גם מהתגיות"
+
+msgid "Saving network images not implemented"
+msgstr "שמירת תמונות רשת אינה נתמכת"
+
+msgid "Cannot download art for network tracks."
+msgstr "לא ניתן להוריד עטיפה עבור רצועות רשת."
+
+msgid "It doesn't look like this folder belongs to a single album, sorry"
+msgstr "לא נראה שתיקייה זו שייכת לאלבום בודד, סליחה"
+
+msgid "Directory missing."
+msgstr "התיקייה חסרה."
+
+msgid "Looking up MusicBrainz ID…"
+msgstr "מחפש מזהה MusicBrainz…"
+
+msgid "Searching MusicBrainz for cover art…"
+msgstr "מחפש עטיפת אלבום ב־MusicBrainz…"
+
+msgid "Image removal failed."
+msgstr "הסרת התמונה נכשלה."
+
+msgid "Deleted embedded picture from file"
+msgstr "התמונה המוטמעת נמחקה מהקובץ"
+
+msgid "Delete Embedded | Folder"
+msgstr "מחיקת תמונה מוטמעת | מתיקייה"
+
+msgid "There are no tracks in this playlist. Nothing to export"
+msgstr "אין רצועות ברשימת השמעה זו. אין מה לייצא"
+
+msgid "Playlist is locked to prevent accidental erasure"
+msgstr "רשימת ההשמעה נעולה למניעת מחיקה בשוגג"
+
+msgid "Playlist is locked"
+msgstr "רשימת ההשמעה נעולה"
+
+msgid "Folder not found"
+msgstr "התיקייה לא נמצאה"
+
+msgid "Imported 1 track"
+msgstr "יובאה רצועה אחת"
+
+msgid "Tracks in playlist:"
+msgstr "רצועות ברשימת ההשמעה:"
+
+msgid "Percent of tracks are CUE type:"
+msgstr "אחוז הרצועות מסוג CUE:"
+
+msgid "MP3 bitrates (kbps):"
+msgstr "קצבי סיביות MP3‏ (kbps):"
+
+msgid "OGG bitrates (kbps):"
+msgstr "קצבי סיביות OGG‏ (kbps):"
+
+msgid "Cannot sync when in transcode inplace mode"
+msgstr "לא ניתן לסנכרן במצב המרה במקום"
+
+msgid "No target folder selected"
+msgstr "לא נבחרה תיקיית יעד"
+
+msgid "Target folder could not be found"
+msgstr "תיקיית היעד לא נמצאה"
+
+msgid "Sync canceled"
+msgstr "הסנכרון בוטל"
+
+msgid "Saved as: "
+msgstr "נשמר בשם: "
+
+msgid "No tracks with lyrics were found."
+msgstr "לא נמצאו רצועות עם מילות שיר."
+
+msgid "Note this may include albums that simply have tracks missing an album tag"
+msgstr "שים לב שזה עשוי לכלול אלבומים שפשוט חסרה בהם תגית אלבום בחלק מהרצועות"
+
+msgid "No incomplete albums were found."
+msgstr "לא נמצאו אלבומים חלקיים."
+
+msgid "No loved tracks were found."
+msgstr "לא נמצאו רצועות אהובות."
+
+msgid "Nothing of interest was found."
+msgstr "לא נמצא דבר מעניין."
+
+msgid "No replay gain tags were found."
+msgstr "לא נמצאו תגיות ReplayGain."
+
+msgid "Cannot reload while a transcode is in progress!"
+msgstr "לא ניתן לטעון מחדש בזמן המרה פעילה!"
+
+msgid "Input file missing"
+msgstr "קובץ הקלט חסר"
+
+msgid "Could not find a folder with the artist's name to match level at."
+msgstr "לא נמצאה תיקייה עם שם האמן להתאמת הרמה."
+
+msgid "Cannot delete a network track"
+msgstr "לא ניתן למחוק רצועת רשת"
+
+msgid "Rename (Single track)"
+msgstr "שינוי שם (רצועה בודדת)"
+
+msgid "Cannot physically delete"
+msgstr "לא ניתן למחוק פיזית"
+
+msgid "One or more tracks is from a network location!"
+msgstr "רצועה אחת או יותר נמצאות במיקום רשת!"
+
+msgid "This folder path seems short, I don't wanna try delete that"
+msgstr "נתיב תיקייה זה נראה קצר מדי, עדיף לא לנסות למחוק אותו"
+
+msgid "Error deleting folder. The folder seems to be missing."
+msgstr "שגיאה במחיקת תיקייה. נראה שהתיקייה חסרה."
+
+msgid "It's gone! Just gone!"
+msgstr "היא איננה! פשוט נעלמה!"
+
+msgid "Delete size safety limit reached! (1.5GB)"
+msgstr "הגעת למגבלת הבטיחות למחיקה! (1.5GB)"
+
+msgid "Cannot rename"
+msgstr "לא ניתן לשנות שם"
+
+msgid "Rename error."
+msgstr "שגיאה בשינוי שם."
+
+msgid "The generated name is too short"
+msgstr "השם שנוצר קצר מדי"
+
+msgid "This folder path seems short, I don't wanna try rename that"
+msgstr "נתיב תיקייה זה נראה קצר מדי, עדיף לא לנסות לשנות את שמו"
+
+msgid "Rename Failed. The original folder is missing."
+msgstr "שינוי השם נכשל. התיקייה המקורית חסרה."
+
+msgid "The folder already has that name."
+msgstr "לתיקייה כבר יש את השם הזה."
+
+msgid "Rename Failed."
+msgstr "שינוי השם נכשל."
+
+msgid "A folder with that name already exists"
+msgstr "תיקייה בשם זה כבר קיימת"
+
+msgid "Not applicable for a network track."
+msgstr "לא זמין עבור רצועת רשת."
+
+msgid "Cannot move"
+msgstr "לא ניתן להעביר"
+
+msgid "Cannot clean"
+msgstr "לא ניתן לנקות"
+
+msgid "Autodetect failed"
+msgstr "הזיהוי האוטומטי נכשל"
+
+msgid "Transcode Single"
+msgstr "המרת רצועה בודדת"
+
+msgid "No matching artist result found"
+msgstr "לא נמצאה תוצאה מתאימה לאמן"
+
+msgid "Not implemented"
+msgstr "לא ממומש"
+
+msgid "Album Art"
+msgstr "עטיפת אלבום"
+
+msgid "Track Number"
+msgstr "מספר רצועה"
+
+msgid "Play Count"
+msgstr "מספר השמעות"
+
+msgid "Filename"
+msgstr "שם קובץ"
+
+msgid "Starline"
+msgstr "פופולריות"
+
+msgid "Scrobble Count"
+msgstr "מספר רישומי השמעה"
+
+msgid "Disc Number"
+msgstr "מספר תקליטור"
+
+msgid "Is CUE Sheet"
+msgstr "גיליון CUE"
+
+msgid "Internal Track ID"
+msgstr "מזהה רצועה פנימי"
+
+msgid "File Changed"
+msgstr "שינוי קובץ"
+
+msgid "Auto Resize"
+msgstr "התאמת גודל אוטומטית"
+
+msgid "Hide bar"
+msgstr "הסתרת סרגל"
+
+msgid "Enable Magnet Mode"
+msgstr "הפעלת מצב מגנט"
+
+msgid "Disable Magnet Mode"
+msgstr "כיבוי מצב מגנט"
+
+msgid "Cannot remove the only column."
+msgstr "לא ניתן להסיר את העמודה היחידה."
+
+msgid "This will delete all track and album ratings from the local database!"
+msgstr "פעולה זו תמחק את כל דירוגי הרצועות והאלבומים ממסד הנתונים המקומי!"
+
+msgid "Press button again while holding shift key if you're sure you want to do that."
+msgstr "לחצו שוב על הכפתור תוך החזקת מקש Shift אם ברצונכם לעשות זאת."
+
+msgid "Stop Cast"
+msgstr "הפסקת שידור"
+
+msgid "Searching for Chromecasts…"
+msgstr "מחפש מכשירי Chromecast…"
+
+msgid "No metadata available to copy"
+msgstr "אין מטא־נתונים זמינים להעתקה"
+
+msgid "Please wait for cleaning process to finish"
+msgstr "נא להמתין לסיום תהליך הניקוי"
+
+msgid "ListenBrainz is Paused"
+msgstr "ListenBrainz מושהה"
+
+msgid "Scrobbling is Paused"
+msgstr "הסקרובלינג מושהה"
+
+msgid "ListenBrainz is Active"
+msgstr "ListenBrainz פעיל"
+
+msgid "Scrobbling is Active"
+msgstr "הסקרובלינג פעיל"
+
+msgid "Added station to: "
+msgstr "התחנה נוספה אל: "
+
+msgid "Artist: "
+msgstr "אמן: "
+
+msgid "Filter Small Artists"
+msgstr "סינון אמנים קטנים"
+
+msgid "Resume Queue"
+msgstr "חידוש התור"
+
+msgid "You"
+msgstr "את/ה"
+
+msgid "A regen is already in progress…"
+msgstr "בנייה מחדש כבר מתבצעת…"
+
+msgid "No duplicates were found"
+msgstr "לא נמצאו כפילויות"
+
+msgid "No artist image found."
+msgstr "לא נמצאה תמונת אמן."
+
+msgid "Unlock"
+msgstr "ביטול נעילה"
+
+msgid "Downloading FFmpeg"
+msgstr "מוריד את FFmpeg"
+
+msgid "Starting download…"
+msgstr "מתחיל הורדה…"
+
+msgid "FFmpeg will not be installed."
+msgstr "FFmpeg לא יותקן."
+
+msgid "Disable Columns"
+msgstr "ביטול עמודות"
+
+msgid "Disable Title Breaks"
+msgstr "ביטול מפרידי כותרות"
+
+msgid "Encoding warning: Missing one or more files"
+msgstr "אזהרת קידוד: חסרים קובץ אחד או יותר"
+
+msgid "No exact matching artist could be found in this playlist"
+msgstr "לא נמצא אמן תואם במדויק ברשימת השמעה זו"
+
+msgid "There was an error generating the chart"
+msgstr "אירעה שגיאה ביצירת התרשים"
+
+msgid "Sorry!"
+msgstr "מצטערים!"
+
+msgid "Job already in progress!"
+msgstr "משימה כבר מתבצעת!"
+
+msgid "Already scanning!"
+msgstr "סריקה כבר מתבצעת!"
+
+msgid "End of playlist"
+msgstr "סוף רשימת ההשמעה"
+
+msgid "Warning! Using this function moves physical folders."
+msgstr "אזהרה! שימוש בפונקציה זו מעביר תיקיות פיזיות."
+
+msgid "This menu entry appears after selecting 'copy'. See manual (github wiki) for more info."
+msgstr "פריט תפריט זה מופיע לאחר בחירה ב'העתקה'. ראו במדריך (בוויקי ב־GitHub) למידע נוסף."
+
+msgid "Notifications for this DE not supported"
+msgstr "התראות אינן נתמכות בסביבת שולחן עבודה זו"
+
+msgid "Change will be applied on restart."
+msgstr "השינוי ייכנס לתוקף בהפעלה מחדש."
+
+msgid "Can't enable this if there's no token."
+msgstr "לא ניתן להפעיל זאת ללא אסימון (Token)."
+
+msgid "One or more fields are missing."
+msgstr "שדה אחד או יותר חסרים."
+
+msgid "DANGER! This will delete the original files. Keeping a backup is recommended in case of malfunction."
+msgstr "סכנה! פעולה זו תמחק את הקבצים המקוריים. מומלץ לשמור גיבוי למקרה של תקלה."
+
+msgid "For safety, this setting will default to off. Embedded thumbnails are not kept so you may want to extract them first."
+msgstr "למען הבטיחות, הגדרה זו כבויה כברירת מחדל. תמונות ממוזערות מוטמעות אינן נשמרות, לכן מומלץ לחלץ אותן תחילה."
+
+msgid "For safety, this setting will reset on restart. Embedded thumbnails are not kept so you may want to extract them first."
+msgstr "למען הבטיחות, הגדרה זו תתאפס בהפעלה מחדש. תמונות ממוזערות מוטמעות אינן נשמרות, לכן מומלץ לחלץ אותן תחילה."
+
+msgid "Web server starting"
+msgstr "שרת הרשת מופעל"
+
+msgid "External connections will be accepted."
+msgstr "חיבורים חיצוניים יתקבלו."
+
+msgid "This feature requires FFmpeg. Should I download it for you? (~100 MB)"
+msgstr "תכונה זו דורשת FFmpeg. להוריד אותו עבורך? (~100 מ״ב)"
+
+msgid "FFmpeg could not be found"
+msgstr "FFmpeg לא נמצא"
+
+msgid "Missing username, password and/or server name"
+msgstr "חסרים שם משתמש, סיסמה ו/או שם שרת"
+
+msgid "No music library found on the server"
+msgstr "לא נמצאה ספריית מוזיקה בשרת"
+
+msgid "No playlist name"
+msgstr "אין שם לרשימת ההשמעה"
+
+msgid "Playlist not found on target"
+msgstr "רשימת ההשמעה לא נמצאה ביעד"
+
+msgid "Auto theme algorithm: "
+msgstr "אלגוריתם ערכת נושא אוטומטית: "
+
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgid "Warning: This may change the file extension"
+msgstr "אזהרה: פעולה זו עלולה לשנות את סיומת הקובץ"
+
+msgid "Warning: The filename might not be unique"
+msgstr "אזהרה: ייתכן ששם הקובץ אינו ייחודי"
+
+msgid "Warning: A track has incomplete metadata"
+msgstr "אזהרה: לרצועה יש מטא־נתונים חסרים"
+
+msgid "Will create directory"
+msgstr "תיווצר תיקייה"
+
+msgid "Enable relative paths when keeping playlist files together with audio"
+msgstr "הפעילו נתיבים יחסיים בעת שמירת קובצי רשימת השמעה יחד עם קובצי השמע"
+
+msgid "Disable to move playlist files while keeping audio in one location"
+msgstr "כבו כדי להעביר קובצי רשימת השמעה תוך השארת השמע במיקום אחד"
+
+msgid "Playlist exported"
+msgstr "רשימת ההשמעה יוצאה"
+
+msgid "Checking…"
+msgstr "בודק…"
+
+msgid "That path doesn't exist"
+msgstr "הנתיב הזה אינו קיים"
+
+msgid "Something went wrong checking that path"
+msgstr "משהו השתבש בבדיקת הנתיב הזה"
+
+msgid "No missing tracks found there"
+msgstr "לא נמצאו שם רצועות חסרות"
+
+msgid "Search stopped early"
+msgstr "החיפוש הופסק מוקדם"
+
+msgid "Drop your music folder, an album, or a track here"
+msgstr "גררו לכאן את תיקיית המוזיקה, אלבום או רצועה"
+
+msgid "New location of the track, its album, or your music folder"
+msgstr "המיקום החדש של הרצועה, האלבום שלה או תיקיית המוזיקה"
+
+msgid "Go / open:"
+msgstr "מעבר / פתיחה:"
+
+msgid "left-click or press Enter."
+msgstr "לחיצה שמאלית או הקשה על Enter."
+
+msgid "Show / reveal:"
+msgstr "הצגה / חשיפה:"
+
+msgid "right-click or press Shift+Enter."
+msgstr "לחיצה ימנית או הקשה על Shift+Enter."
+
+msgid "Add to current playlist:"
+msgstr "הוספה לרשימת ההשמעה הנוכחית:"
+
+msgid "Ctrl+left-click."
+msgstr "Ctrl+לחיצה שמאלית."
+
+msgid "Add to queue:"
+msgstr "הוספה לתור:"
+
+msgid "middle-click (track or album)."
+msgstr "לחיצה אמצעית (רצועה או אלבום)."
+
+msgid "GitHub Sponsors"
+msgstr "GitHub Sponsors"
+
+msgid "Bundled themes are read-only"
+msgstr "ערכות נושא מובנות הן לקריאה בלבד"
+
+msgid "Create a new theme first to edit a copy of the active look."
+msgstr "צרו תחילה ערכת נושא חדשה כדי לערוך עותק של המראה הפעיל."
+
+msgid "Only user themes can be deleted"
+msgstr "ניתן למחוק רק ערכות נושא של המשתמש"
+
+msgid "Theme title cannot be empty"
+msgstr "שם ערכת הנושא אינו יכול להיות ריק"
+
+msgid "A theme with that title already exists"
+msgstr "ערכת נושא בשם זה כבר קיימת"
+
+msgid "There is no colour in the clipboard"
+msgstr "אין צבע בלוח ההעתקה"
+
+msgid "This will mark all tracks in local database as unloved!"
+msgstr "פעולה זו תסיר את סימון 'אהבתי' מכל הרצועות במסד הנתונים המקומי!"
+
+msgid "Press again while holding Shift if you understand"
+msgstr "לחצו שוב תוך החזקת מקש Shift אם ברצונכם להמשיך"
+
+msgid "A process is already running. Wait for it to finish."
+msgstr "תהליך כבר פועל. המתינו לסיומו."
+
+msgid "Warning: This process can take a long time to complete! (up to an hour or more)"
+msgstr "אזהרה: תהליך זה עלול להימשך זמן רב! (עד שעה או יותר)"
+
+msgid "This feature is not recommended for accounts that have many friends."
+msgstr "תכונה זו אינה מומלצת לחשבונות עם חברים רבים."
+
+msgid "Loading…"
+msgstr "טוען…"
+
+msgid "Account not connected."
+msgstr "החשבון אינו מחובר."
+
+msgid "Scrobble playback and sync loves."
+msgstr "דיווח השמעות (Scrobble) וסנכרון שירים אהובים."
+
+msgid "Use Login, finish the browser step, then click Done."
+msgstr "לחצו על התחברות, השלימו את השלב בדפדפן, ואז לחצו על סיום."
+
+msgid "Library sync"
+msgstr "סנכרון ספרייה"
+
+msgid "Pull loves and scrobble counts into Tauon."
+msgstr "משיכת שירים אהובים ומספרי השמעות אל Tauon."
+
+msgid "Options"
+msgstr "אפשרויות"
+
+msgid "Controls for import and playback display."
+msgstr "פקדים לייבוא ולתצוגת השמעה."
+
+msgid "Token-based scrobbling."
+msgstr "סקרובלינג מבוסס אסימון (Token)."
+
+msgid "Token saved."
+msgstr "האסימון נשמר."
+
+msgid "Paste a token to enable ListenBrainz."
+msgstr "הדביקו אסימון כדי להפעיל את ListenBrainz."
+
+msgid "Using the default ListenBrainz endpoint."
+msgstr "משתמש בנקודת הקצה המוגדרת כברירת מחדל של ListenBrainz."
+
+msgid "Endpoint"
+msgstr "נקודת קצה"
+
+msgid "Extra controls for ListenBrainz."
+msgstr "פקדים נוספים עבור ListenBrainz."
+
+msgid "Artwork sources for artist images and covers."
+msgstr "מקורות גרפיקה לתמונות אמנים ועטיפות."
+
+msgid "Use fanart.tv for artist images and manual cover art lookup."
+msgstr "שימוש ב־fanart.tv לתמונות אמנים ולחיפוש ידני של עטיפות אלבומים."
+
+msgid "About"
+msgstr "אודות"
+
+msgid "Finish the sign-in step to continue."
+msgstr "השלימו את שלב ההתחברות כדי להמשיך."
+
+msgid "Connect to a Plex server."
+msgstr "התחברות לשרת Plex."
+
+msgid "Import from Plex."
+msgstr "ייבוא מ־Plex."
+
+msgid "Disable if Plex scrobbles on its own."
+msgstr "כבו אם Plex מבצע סקרובלינג בעצמו."
+
+msgid "Airsonic / Subsonic"
+msgstr "Airsonic / Subsonic"
+
+msgid "Connect to a Subsonic-compatible server."
+msgstr "התחברות לשרת תואם Subsonic."
+
+msgid "Username / Email"
+msgstr "שם משתמש / אימייל"
+
+msgid "Password"
+msgstr "סיסמה"
+
+msgid "Server URL"
+msgstr "כתובת שרת (URL)"
+
+msgid "Import and authentication settings."
+msgstr "הגדרות ייבוא ואימות."
+
+msgid "Needed for Nextcloud Music."
+msgstr "נדרש עבור Nextcloud Music."
+
+msgid "Disable if your server scrobbles on its own."
+msgstr "כבו אם השרת שלכם מבצע סקרובלינג בעצמו."
+
+msgid "Reuse the last fetched library while you type a generator query."
+msgstr "שימוש חוזר בספרייה האחרונה שנטענה בזמן הקלדת שאילתת מחולל."
+
+msgid "No server configured."
+msgstr "לא הוגדר שרת."
+
+msgid "Self-hosted scrobble server."
+msgstr "שרת סקרובלינג באירוח עצמי."
+
+msgid "Credentials"
+msgstr "פרטי התחברות"
+
+msgid "Server address and API key."
+msgstr "כתובת שרת ומפתח API."
+
+msgid "Connectivity and library import."
+msgstr "קישוריות וייבוא ספרייה."
+
+msgid "Connect to a Jellyfin server."
+msgstr "התחברות לשרת Jellyfin."
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "Disable if Jellyfin scrobbles on its own."
+msgstr "כבו אם Jellyfin מבצע סקרובלינג בעצמו."
+
+msgid "Import the music library."
+msgstr "ייבוא ספריית המוזיקה."
+
+msgid "Fetch a playlist from another Tauon instance."
+msgstr "משיכת רשימת השמעה ממופע אחר של Tauon."
+
+msgid "Fetch the named playlist."
+msgstr "משיכת רשימת ההשמעה שצוינה."
+
+msgid "Signed in."
+msgstr "מחובר."
+
+msgid "Authorise TIDAL and import favourites."
+msgstr "אישור גישה ל־TIDAL וייבוא מועדפים."
+
+msgid "Status"
+msgstr "מצב"
+
+msgid "Unsaved changes!"
+msgstr "שינויים שלא נשמרו!"
+
+msgid "Audio"
+msgstr "שמע"
+
+msgid "Appearance"
+msgstr "מראה"
+
+msgid "Library"
+msgstr "ספרייה"
+
+msgid "Connect"
+msgstr "חיבורים"
+
+msgid "System"
+msgstr "מערכת"
+
+msgid "Audio controls are only available with the PHAzOR backend."
+msgstr "פקדי השמע זמינים רק עם מנוע השמע PHAzOR."
+
+msgid "No output devices detected. Try refreshing audio or restarting Tauon."
+msgstr "לא זוהו התקני פלט. נסו לרענן את השמע או להפעיל מחדש את Tauon."
+
+msgid "This device has no native DSD input."
+msgstr "להתקן זה אין קלט DSD טבעי."
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Ready"
+msgstr "מוכן"
+
+msgid "Edit"
+msgstr "עריכה"
+
+msgid "Always-on-top feature not yet implemented for Wayland mode"
+msgstr "תכונת 'תמיד עליון' טרם יושמה במצב Wayland"
+
+msgid "Tracks will now be recorded. Restart any playback for change to take effect."
+msgstr "הרצועות יוקלטו מעתה. הפעילו מחדש את ההשמעה כדי שהשינוי ייכנס לתוקף."
+
+msgid "Tracks will be saved to \"Saved Radio Tracks\" playlist."
+msgstr "הרצועות יישמרו ברשימת ההשמעה \"Saved Radio Tracks\"."
+
+msgid "Joins multi-value artist tags"
+msgstr "מאחד תגיות אמן מרובות ערכים"
+
+msgid "Custom separator"
+msgstr "מפריד מותאם אישית"
+
+msgid "Source playlist"
+msgstr "רשימת השמעה מקור"
+
+msgid "None selected"
+msgstr "לא נבחר דבר"
+
+msgid "Right click tab > Misc… > Set as sync playlist"
+msgstr "לחיצה ימנית על לשונית > שונות… > הגדרה כרשימת השמעה לסנכרון"
+
+msgid "Stopping…"
+msgstr "עוצר…"
+
+msgid "{N} albums"
+msgstr "{N} אלבומים"
+
+msgid "Generating…"
+msgstr "מייצר…"
+
+msgid "1 scrobble waiting"
+msgstr "סקרובל אחד ממתין"
+
+msgid "Notice: This API is not security hardened."
+msgstr "שימו לב: ממשק API זה אינו מוקשח מבחינת אבטחה."
+
+msgid "Only enable in a trusted LAN and do not expose port (7814) to the internet"
+msgstr "הפעילו רק ברשת מקומית (LAN) מהימנה ואל תחשפו את הפורט (7814) לאינטרנט"
+
+msgid "Listen Along page"
+msgstr "עמוד האזנה משותפת"
+
+msgid "Scraping source"
+msgstr "מקור חילוץ מהרשת"
+
+msgid "API source"
+msgstr "מקור API"
+
+msgid "Where exported playlist files are saved."
+msgstr "היכן נשמרים קובצי רשימות השמעה מיוצאים."
+
+msgid "This folder doesn't exist."
+msgstr "תיקייה זו אינה קיימת."
+
+msgid "Main menu"
+msgstr "תפריט ראשי"
+
+msgid "Top panel › Side panel button"
+msgstr "סרגל עליון › כפתור חלונית צד"
+
+msgid "Top panel › Layout button"
+msgstr "סרגל עליון › כפתור פריסה"
+
+msgid "Right-click a playlist tab"
+msgstr "לחיצה ימנית על לשונית רשימת השמעה"
+
+msgid "Right-click a folder tab"
+msgstr "לחיצה ימנית על לשונית תיקייה"
+
+msgid "Right-click a playlist folder"
+msgstr "לחיצה ימנית על תיקיית רשימות השמעה"
+
+msgid "Right-click empty space in the playlist list"
+msgstr "לחיצה ימנית על שטח ריק ברשימת הפלייליסטים"
+
+msgid "Right-click a track"
+msgstr "לחיצה ימנית על רצועה"
+
+msgid "Right-click a selection of tracks"
+msgstr "לחיצה ימנית על מבחר רצועות"
+
+msgid "Right-click an album heading in the tracklist"
+msgstr "לחיצה ימנית על כותרת אלבום ברשימת הרצועות"
+
+msgid "Right-click empty space in the tracklist"
+msgstr "לחיצה ימנית על שטח ריק ברשימת הרצועות"
+
+msgid "Right-click a tracklist column heading"
+msgstr "לחיצה ימנית על כותרת עמודה ברשימת הרצועות"
+
+msgid "Right-click the top edge of the tracklist"
+msgstr "לחיצה ימנית על הקצה העליון של רשימת הרצועות"
+
+msgid "Right-click a tag in the tracklist tag strip"
+msgstr "לחיצה ימנית על תגית ברצועת התגיות של רשימת הרצועות"
+
+msgid "Right-click an album in the gallery"
+msgstr "לחיצה ימנית על אלבום בגלריה"
+
+msgid "Right-click empty space in the gallery"
+msgstr "לחיצה ימנית על שטח ריק בגלריה"
+
+msgid "Right-click the side-panel album art"
+msgstr "לחיצה ימנית על עטיפת האלבום בחלונית הצד"
+
+msgid "Right-click the MilkDrop visualiser"
+msgstr "לחיצה ימנית על האפקט הוויזואלי MilkDrop"
+
+msgid "Right-click the track info in the side panel"
+msgstr "לחיצה ימנית על פרטי הרצועה בחלונית הצד"
+
+msgid "Right-click the lyrics"
+msgstr "לחיצה ימנית על מילות השיר"
+
+msgid "Right-click empty space in the showcase view"
+msgstr "לחיצה ימנית על שטח ריק בתצוגת הראווה"
+
+msgid "Right-click a queued track"
+msgstr "לחיצה ימנית על רצועה בתור"
+
+msgid "Right-click the artist info panel"
+msgstr "לחיצה ימנית על חלונית פרטי האמן"
+
+msgid "Right-click an artist in the artist list"
+msgstr "לחיצה ימנית על אמן ברשימת האמנים"
+
+msgid "Right-click a track in the folder navigator"
+msgstr "לחיצה ימנית על רצועה בסייר התיקיות"
+
+msgid "Right-click a folder in the folder navigator"
+msgstr "לחיצה ימנית על תיקייה בסייר התיקיות"
+
+msgid "Right-click a radio station"
+msgstr "לחיצה ימנית על תחנת רדיו"
+
+msgid "Radio list › Station options button"
+msgstr "רשימת רדיו › כפתור אפשרויות תחנה"
+
+msgid "Right-click a radio tab"
+msgstr "לחיצה ימנית על לשונית רדיו"
+
+msgid "Right-click the bottom panel"
+msgstr "לחיצה ימנית על הסרגל התחתון"
+
+msgid "Bottom panel › Extras button"
+msgstr "סרגל תחתון › כפתור תוספות"
+
+msgid "Right-click the stop button"
+msgstr "לחיצה ימנית על כפתור העצירה"
+
+msgid "Right-click the shuffle button"
+msgstr "לחיצה ימנית על כפתור הערבוב"
+
+msgid "Right-click the repeat button"
+msgstr "לחיצה ימנית על כפתור החזרה"
+
+msgid "Right-click the spectrogram widget"
+msgstr "לחיצה ימנית על ווידג׳ט הספקטרוגרמה"
+
+msgid "Right-click the album flow widget"
+msgstr "לחיצה ימנית על ווידג׳ט זרימת האלבומים"
+
+msgid "Right-click the compact gallery widget"
+msgstr "לחיצה ימנית על ווידג׳ט הגלריה הקומפקטית"
+
+msgid "1 match"
+msgstr "התאמה אחת"
+
+msgid "Try \"fade\", \"scale\" or \"scrobble\"."
+msgstr "נסו \"fade\", \"scale\" או \"scrobble\"."
+
+msgid "Search settings"
+msgstr "חיפוש בהגדרות"
+
+msgid "ALBUM SHUFFLE"
+msgstr "ערבוב אלבומים"
+
+msgid "Menu"
+msgstr "תפריט"
+
+msgid "Playlist is empty"
+msgstr "רשימת ההשמעה ריקה"
+
+msgid "Fetching image…"
+msgstr "טוען תמונה…"
+
+msgid "Search Tag"
+msgstr "חיפוש תגית"
+
+msgid "Search Country Code"
+msgstr "חיפוש קוד מדינה"
+
+msgid "Search Title"
+msgstr "חיפוש כותרת"
+
+msgid "Could not use that station image"
+msgstr "לא ניתן להשתמש בתמונת התחנה הזו"
+
+msgid "Drop a PNG, JPEG, WebP, BMP, GIF, or JPEG XL image."
+msgstr "גררו תמונה בפורמט PNG,‏ JPEG,‏ WebP,‏ BMP,‏ GIF או JPEG XL."
+
+msgid "Could not read that station image"
+msgstr "לא ניתן לקרוא את תמונת התחנה הזו"
+
+msgid "Couldn't load countries. Try again in a moment."
+msgstr "לא ניתן לטעון מדינות. נסו שוב בעוד רגע."
+
+msgid "Search text…"
+msgstr "חיפוש טקסט…"
+
+msgid "Connecting…"
+msgstr "מתחבר…"
+
+msgid "Name / Title"
+msgstr "שם / כותרת"
+
+msgid "Raw Stream URL http://example.stream:1234"
+msgstr "כתובת הזרמה ישירה http://example.stream:1234"
+
+msgid "Custom station image"
+msgstr "תמונת תחנה מותאמת אישית"
+
+msgid "Drop another image to replace it"
+msgstr "גררו תמונה אחרת כדי להחליפה"
+
+msgid "Remove image"
+msgstr "הסרת תמונה"
+
+msgid "Browse"
+msgstr "עיון"
+
+msgid "Font size"
+msgstr "גודל גופן"
+
+msgid "Row height"
+msgstr "גובה שורה"
+
+msgid "Baseline"
+msgstr "קו בסיס"
+
+msgid "Import {path}"
+msgstr "ייבוא {path}"
+
+msgid "Pick folder…"
+msgstr "בחירת תיקייה…"
+
+msgid "Play a track"
+msgstr "ניגון רצועה"
+
+msgid "Double-click it"
+msgstr "לחיצה כפולה עליה"
+
+msgid "Middle-click a track or album"
+msgstr "לחיצה אמצעית על רצועה או אלבום"
+
+msgid "More menu items"
+msgstr "פריטי תפריט נוספים"
+
+msgid "Shift + right-click"
+msgstr "Shift + לחיצה ימנית"
+
+msgid "Delete a playlist"
+msgstr "מחיקת רשימת השמעה"
+
+msgid "Middle-click its tab"
+msgstr "לחיצה אמצעית על הלשונית שלה"
+
+msgid "Switch playlists"
+msgstr "מעבר בין רשימות השמעה"
+
+msgid "Scroll over the tabs"
+msgstr "גלילה מעל הלשוניות"
+
+msgid "Merge playlists"
+msgstr "מיזוג רשימות השמעה"
+
+msgid "Shift-drag a tab onto another"
+msgstr "גרירת לשונית על לשונית אחרת תוך החזקת Shift"
+
+msgid "Last left panel"
+msgstr "חלונית הצד האחרונה"
+
+msgid "Middle-click the side-panel button"
+msgstr "לחיצה אמצעית על כפתור חלונית הצד"
+
+msgid "Jump to a position"
+msgstr "קפיצה למיקום"
+
+msgid "Right-click the scroll bar"
+msgstr "לחיצה ימנית על פס הגלילה"
+
+msgid "Widen past the art"
+msgstr "הרחבה מעבר לעטיפה"
+
+msgid "Shift-drag the side-panel edge"
+msgstr "גרירת קצה חלונית הצד תוך החזקת Shift"
+
+msgid "Seek"
+msgstr "דילוג בשיר"
+
+msgid "Scroll over the seek bar"
+msgstr "גלילה מעל פס ההתקדמות"
+
+msgid "Toggle repeat"
+msgstr "הפעלה/כיבוי של חזרה"
+
+msgid "Right-click Back"
+msgstr "לחיצה ימנית על 'הקודם'"
+
+msgid "Toggle shuffle"
+msgstr "הפעלה/כיבוי של ערבוב"
+
+msgid "Right-click Forward"
+msgstr "לחיצה ימנית על 'הבא'"
+
+msgid "Stop after track or album"
+msgstr "עצירה אחרי רצועה או אלבום"
+
+msgid "Right-click Stop"
+msgstr "לחיצה ימנית על 'עצירה'"
+
+msgid "More shuffle and repeat modes"
+msgstr "מצבי ערבוב וחזרה נוספים"
+
+msgid "Right-click their buttons"
+msgstr "לחיצה ימנית על הכפתורים שלהם"
+
+msgid "Playback"
+msgstr "נגינה"
+
+msgid "Navigation"
+msgstr "ניווט"
+
+msgid "Tracks & playlists"
+msgstr "רצועות ורשימות השמעה"
+
+msgid "Other"
+msgstr "אחר"
+
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgid "Mouse"
+msgstr "עכבר"
+
+msgid "Online Manual"
+msgstr "מדריך מקוון"
+
+msgid "Keys come from input.txt; edits apply after a restart."
+msgstr "המקשים נטענים מ־input.txt; שינויים חלים לאחר הפעלה מחדש."
+
+msgid "Artist threshold not met"
+msgstr "לא הושג סף המינימום לאמן"
+
+msgid "Loading Artist List…"
+msgstr "טוען רשימת אמנים…"
+
+msgid "Loading Folder Tree…"
+msgstr "טוען עץ תיקיות…"
+
+msgid "Folder Tree"
+msgstr "עץ תיקיות"
+
+msgid "Remove This"
+msgstr "הסרת פריט זה"
+
+msgid "Play Now"
+msgstr "נגן כעת"
+
+msgid "Auto-Stop Here"
+msgstr "עצירה אוטומטית כאן"
+
+msgid "Auto Queue"
+msgstr "תור אוטומטי"
+
+msgid "Override Repeat"
+msgstr "עקיפת מצב חזרה"
+
+msgid "↳ Except for This"
+msgstr "↳ למעט פריט זה"
+
+msgid "Queue to New Playlist"
+msgstr "התור לרשימת השמעה חדשה"
+
+msgid "Cancel Auto-Stop"
+msgstr "ביטול עצירה אוטומטית"
+
+msgid "Queue is Empty"
+msgstr "התור ריק"
+
+msgid "{N} Track"
+msgstr "רצועה {N}"
+
+msgid "{N} Tracks"
+msgstr "{N} רצועות"
+
+msgid "Direct"
+msgstr "ישיר"
+
+msgid "Mixed into others"
+msgstr "ממוזג לערוצים אחרים"
+
+msgid "Not played"
+msgstr "לא מושמע"
+
+msgid "Device speaker"
+msgstr "רמקול ההתקן"
+
+msgid "Album gain"
+msgstr "הגבר אלבום"
+
+msgid "Track gain"
+msgstr "הגבר רצועה"
+
+msgid "No artist name found"
+msgstr "לא נמצא שם אמן"
+
+msgid "No artist data downloaded"
+msgstr "לא הורדו נתוני אמן"
+
+msgid "Load Failed"
+msgstr "הטעינה נכשלה"
+
+msgid "+ Add station"
+msgstr "+ הוספת תחנה"
+
+msgid "Search stations or genres…"
+msgstr "חיפוש תחנות או ז׳אנרים…"
+
+msgid "Search countries…"
+msgstr "חיפוש מדינות…"
+
+msgid "Loading countries…"
+msgstr "טוען מדינות…"
+
+msgid "Retry"
+msgstr "ניסיון חוזר"
+
+msgid "Any country"
+msgstr "כל מדינה"
+
+msgid "Search unavailable"
+msgstr "החיפוש אינו זמין"
+
+msgid "Internet radio"
+msgstr "רדיו אינטרנטי"
+
+msgid "Nothing playing"
+msgstr "שום דבר לא מתנגן"
+
+msgid "Choose a station to start listening"
+msgstr "בחרו תחנה כדי להתחיל להאזין"
+
+msgid "No MilkDrop presets found"
+msgstr "לא נמצאו תבניות MilkDrop"
+
+msgid "Filter presets…"
+msgstr "סינון תבניות…"
+
+msgid "{count} of {total}"
+msgstr "{count} מתוך {total}"
+
+msgid "No favorite presets yet"
+msgstr "עדיין אין תבניות מועדפות"
+
+msgid "Gallery"
+msgstr "גלריה"
+
+msgid "There are no more steps to undo."
+msgstr "אין עוד פעולות לביטול."
+
+msgid "Exit Lyrics Editor"
+msgstr "יציאה מעורך המילים"
+
+msgid "Copy From Synced"
+msgstr "העתקה ממילים מסונכרנות"
+
+msgid "Upload To LRCLIB"
+msgstr "העלאה אל LRCLIB"
+
+msgid "Copy From Unsynced"
+msgstr "העתקה ממילים לא מסונכרנות"
+
+msgid "Clear All Section Markers"
+msgstr "ניקוי כל סמני המקטעים"
+
+msgid "Clear All Timestamps"
+msgstr "ניקוי כל חותמות הזמן"
+
+msgid "Clear All Lyrics"
+msgstr "ניקוי כל המילים"
+
+msgid "Load Current Backup"
+msgstr "טעינת הגיבוי הנוכחי"
+
+msgid "Visit Current Backup"
+msgstr "פתיחת הגיבוי הנוכחי"
+
+msgid "Delete All Backups"
+msgstr "מחיקת כל הגיבויים"
+
+msgid "Stop immediately"
+msgstr "עצירה מיידית"
+
+msgid "Backup and continue"
+msgstr "גיבוי והמשך"
+
+msgid "Fully save and continue"
+msgstr "שמירה מלאה והמשך"
+
+msgid "Save synced to .lrc"
+msgstr "שמירת מסונכרנות ל־.lrc"
+
+msgid "Be careful!"
+msgstr "זהירות!"
+
+msgid "A file's metadata can only store ONE type of lyrics data, synced or static, at a time."
+msgstr "המטא־נתונים של קובץ יכולים להכיל רק סוג אחד של מילים בכל פעם – מסונכרנות או רגילות."
+
+msgid "Saving one type will now OVERWRITE the other in the files. (Tauon itself doesn't care.)"
+msgstr "שמירת סוג אחד תדרוס כעת את הסוג השני בקבצים. (ל־Tauon עצמו זה לא משנה.)"
+
+msgid "Lyrics will misbehave if only some of them are timed."
+msgstr "מילות השיר לא יפעלו כשורה אם רק חלק מהן מתוזמנות."
+
+msgid "You can time all of them or none of them, either will work."
+msgstr "אפשר לתזמן את כולן או אף אחת מהן – שתי האפשרויות יעבדו."
+
+msgid "Alternatively, save again while holding Alt to override."
+msgstr "לחלופין, שמרו שוב תוך החזקת Alt כדי לעקוף זאת."
+
+msgid "Saving Synced Lyrics"
+msgstr "שמירת מילים מסונכרנות"
+
+msgid "Changes always save to Tauon's database."
+msgstr "שינויים נשמרים תמיד במסד הנתונים של Tauon."
+
+msgid "Also save lyrics to files on disk"
+msgstr "שמירת המילים גם לקבצים בדיסק"
+
+msgid "(Specifically the Lyrics metadata field)"
+msgstr "(ספציפית בשדה המטא־נתונים Lyrics)"
+
+msgid "Show this every time"
+msgstr "הצג זאת בכל פעם"
+
+msgid "Save lyrics"
+msgstr "שמירת מילים"
+
+msgid "Saving Static Lyrics"
+msgstr "שמירת מילים רגילות"
+
+msgid "Timestamps"
+msgstr "חותמות זמן"
+
+msgid "TIME⇨"
+msgstr "תזמון⇨"
+
+msgid "Connection error"
+msgstr "שגיאת חיבור"
+
+msgid "We can't upload your lyrics because we can't connect to the server."
+msgstr "לא ניתן להעלות את מילות השיר מכיוון שאין אפשרות להתחבר לשרת."
+
+msgid "Are you offline?"
+msgstr "האם אתם במצב לא מקוון?"
+
+msgid "Something went wrong"
+msgstr "משהו השתבש"
+
+msgid "Cleaning complete."
+msgstr "הניקוי הושלם."
+
+msgid "Left"
+msgstr "משמאל"
+
+msgid "Right"
+msgstr "מימין"
+
+msgid "Above"
+msgstr "מעל"
+
+msgid "Below"
+msgstr "מתחת"
+
+msgid "Split into Columns…"
+msgstr "פיצול לעמודות…"
+
+msgid "Split into Rows…"
+msgstr "פיצול לשורות…"
+
+msgid "Inset Square"
+msgstr "ריבוע פנימי"
+
+msgid "Remove Inset Square"
+msgstr "הסרת ריבוע פנימי"
+
+msgid "Square Max"
+msgstr "ריבוע מרבי"
+
+msgid "Remove Square Max"
+msgstr "הסרת ריבוע מרבי"
+
+msgid "Rename Layout…"
+msgstr "שינוי שם פריסה…"
+
+msgid "Delete Slot"
+msgstr "מחיקת משבצת"
+
+msgid "New Slot"
+msgstr "משבצת חדשה"
+
+msgid "Rename Tab…"
+msgstr "שינוי שם לשונית…"
+
+msgid "Reset Tab Name"
+msgstr "איפוס שם לשונית"
+
+msgid "Add Tab"
+msgstr "הוספת לשונית"
+
+msgid "Move Tab Left"
+msgstr "הזזת לשונית שמאלה"
+
+msgid "Move Tab Right"
+msgstr "הזזת לשונית ימינה"
+
+msgid "Remove Tab"
+msgstr "הסרת לשונית"
+
+msgid "Search GuitarParty"
+msgstr "חיפוש ב־GuitarParty"
+
+msgid "Paste Chord Lyrics"
+msgstr "הדבקת מילים עם אקורדים"
+
+msgid "Clear Chord Lyrics"
+msgstr "ניקוי מילים עם אקורדים"
+
+msgid "Prefer Synced"
+msgstr "העדפת מילים מסונכרנות"
+
+msgid "Enabled saving state"
+msgstr "שמירת מצב הופעלה"
+
+msgid "Disabled saving state"
+msgstr "שמירת מצב הושבתה"
+
+msgid "Enable Saving State"
+msgstr "הפעלת שמירת מצב"
+
+msgid "Disable Saving State"
+msgstr "השבתת שמירת מצב"
+
+msgid "Are you sure you want to delete playlist: {name}?"
+msgstr "האם למחוק את רשימת ההשמעה: {name}?"
+
+msgid "Error communicating with Last.fm network"
+msgstr "שגיאה בתקשורת עם רשת Last.fm"
+
+msgid "Scanning failed. Try again?"
+msgstr "הסריקה נכשלה. לנסות שוב?"
+
+msgid "Removed {N} loves."
+msgstr "הוסרו {N} סימוני 'אהבתי'."
+
+msgid "There was an error, try re-log in"
+msgstr "אירעה שגיאה, נסו להתחבר מחדש"
+
+msgid "There was an error getting friends loves"
+msgstr "אירעה שגיאה בקבלת השירים האהובים של חברים"
+
+msgid "Scanning loved tracks for: {username}"
+msgstr "סורק רצועות אהובות עבור: {username}"
+
+msgid "User has no loved tracks."
+msgstr "למשתמש אין רצועות אהובות."
+
+msgid "This doesn't seem to be working :("
+msgstr "נראה שזה לא עובד :("
+
+msgid "Exception importing M3U playlist"
+msgstr "שגיאה בייבוא רשימת M3U"
+
+msgid "Error importing XSPF playlist."
+msgstr "שגיאה בייבוא רשימת XSPF."
+
+msgid "Sorry about that."
+msgstr "סליחה על כך."
+
+msgid "This layout has no playback panel"
+msgstr "בפריסה זו אין פאנל נגינה"
+
+msgid "Better not do anything to that folder!"
+msgstr "עדיף לא לגעת בתיקייה הזו!"
+
+msgid "No presets loaded. Download preset pack? (~5MB)"
+msgstr "לא נטענו תבניות. להוריד חבילת תבניות? (~5MB)"
+
+msgid "There are no lyric sources enabled."
+msgstr "אין מקורות מילים מופעלים."
+
+msgid "Turn one on in Settings › Library › Lyrics."
+msgstr "הפעל מקור בהגדרות › ספרייה › מילים לשיר."
+
+msgid "Let's be polite and try later."
+msgstr "נמתין בנימוס וננסה שוב מאוחר יותר."
+
+msgid "No lyrics for this track were found"
+msgstr "לא נמצאו מילים לרצועה זו"
+
+msgid "Could not delete lyrics file"
+msgstr "לא ניתן למחוק את קובץ המילים"
+
+msgid "The .txt file could not be deleted."
+msgstr "לא ניתן למחוק את קובץ ה-.txt."
+
+msgid "Image save error."
+msgstr "שגיאה בשמירת התמונה."
+
+msgid "No embedded album art found in file."
+msgstr "לא נמצאה עטיפת אלבום מוטמעת בקובץ."
+
+msgid "A mysterious error occurred"
+msgstr "אירעה שגיאה לא צפויה"
+
+msgid "Cover art downloaded from MusicBrainz"
+msgstr "עטיפת האלבום הורדה מ-MusicBrainz"
+
+msgid "Matching cover art or ID could not be found."
+msgstr "לא נמצאה עטיפה תואמת או מזהה."
+
+msgid "Error - No handling for this kind of track"
+msgstr "שגיאה - אין תמיכה בסוג רצועה זה"
+
+msgid "Image remove error"
+msgstr "שגיאה בהסרת התמונה"
+
+msgid "Delete Embedded | Track"
+msgstr "מחק תמונה מוטמעת | רצועה"
+
+msgid "Add Music Folder"
+msgstr "הוספת תיקיית מוזיקה"
+
+msgid "Add"
+msgstr "הוסף"
+
+msgid "Could not open a folder picker"
+msgstr "לא ניתן לפתוח בורר תיקיות"
+
+msgid "Could not access! Possible insufficient Flatpak permissions."
+msgstr "אין גישה! ייתכן שחסרות הרשאות Flatpak."
+
+msgid "Path may be transient! Continue? Press \"No\" for more information."
+msgstr "הנתיב עשוי להיות זמני! להמשיך? לחץ \"לא\" למידע נוסף."
+
+msgid "Playlist:"
+msgstr "רשימת השמעה:"
+
+msgid "Generated:"
+msgstr "נוצר בתאריך:"
+
+msgid "Total local size:"
+msgstr "נפח מקומי כולל:"
+
+msgid "Playlist duration:"
+msgstr "משך הרשימה:"
+
+msgid "Total playtime:"
+msgstr "זמן האזנה כולל:"
+
+msgid "Others"
+msgstr "אחרים"
+
+msgid "Sync failed"
+msgstr "הסנכרון נכשל"
+
+msgid "Deleting folders…"
+msgstr "מוחק תיקיות…"
+
+msgid "Sync aborted! Low disk space on target device"
+msgstr "הסנכרון בוטל! שטח אחסון נמוך בהתקן היעד"
+
+msgid "Transcoding tracks from network locations is not supported"
+msgstr "המרת קידוד של רצועות ממיקומי רשת אינה נתמכת"
+
+msgid "NO! Bad user!"
+msgstr "לא! פעולה אסורה!"
+
+msgid "I'm not going to let you transcode a lossy codec to a lossless one!"
+msgstr "אין טעם להמיר פורמט דחוס (Lossy) לפורמט ללא איבוד (Lossless)!"
+
+msgid "More than one folder is in the clipboard"
+msgstr "יש יותר מתיקייה אחת בלוח הגזירים"
+
+msgid "This function can only move one folder at a time."
+msgstr "פעולה זו יכולה להעביר תיקייה אחת בלבד בכל פעם."
+
+msgid "File moved to trash"
+msgstr "הקובץ הועבר לאשפה"
+
+msgid "Woah, careful there!"
+msgstr "רגע, זהירות!"
+
+msgid "I don't think we should delete that folder."
+msgstr "עדיף שלא נמחק את התיקייה הזו."
+
+msgid "Hmm, its still there"
+msgstr "מוזר, התיקייה עדיין שם"
+
+msgid "I don't think we should rename that folder."
+msgstr "עדיף שלא נשנה את שם התיקייה הזו."
+
+msgid "Rename Failed!"
+msgstr "שינוי השם נכשל!"
+
+msgid "Something went wrong, sorry."
+msgstr "משהו השתבש, סליחה."
+
+msgid "Renamed to: {name}"
+msgstr "השם שונה אל: {name}"
+
+msgid "Error shifting directory"
+msgstr "שגיאה בהזזת התיקייה"
+
+msgid "The directory does not appear to exist"
+msgstr "נראה שהתיקייה אינה קיימת"
+
+msgid "System Error!"
+msgstr "שגיאת מערכת!"
+
+msgid "Error deleting files."
+msgstr "שגיאה במחיקת קבצים."
+
+msgid "May not have permission or file may be set to read-only"
+msgstr "ייתכן שאין הרשאה או שהקובץ מוגדר לקריאה בלבד"
+
+msgid "Queue {N}"
+msgstr "הוסף לתור ({N})"
+
+msgid "Play History"
+msgstr "היסטוריית השמעה"
+
+msgid "{N} ratings imported"
+msgstr "{N} דירוגים יובאו"
+
+msgid "pychromecast not found"
+msgstr "הרכיב pychromecast לא נמצא"
+
+msgid "Station is already in: "
+msgstr "התחנה כבר קיימת ב: "
+
+msgid "Notice: Artist image sourced from fanart.tv"
+msgstr "הערה: תמונת האמן נלקחה מ-fanart.tv"
+
+msgid "The link does not appear to refer to an image file."
+msgstr "נראה שהקישור אינו מפנה לקובץ תמונה."
+
+msgid "Image download failed."
+msgstr "הורדת התמונה נכשלה."
+
+msgid "Done! {N} old items were removed."
+msgstr "בוצע! {N} פריטים ישנים הוסרו."
+
+msgid "This playlist has no generator"
+msgstr "לרשימת השמעה זו אין מחולל אוטומטי"
+
+msgid "No providers are enabled in settings!"
+msgstr "לא הופעלו ספקי תוכן בהגדרות!"
+
+msgid "Verifying download…"
+msgstr "מאמת הורדה…"
+
+msgid "Extracting FFmpeg…"
+msgstr "מחלץ את FFmpeg…"
+
+msgid "FFmpeg fetch complete"
+msgstr "הורדת FFmpeg הושלמה"
+
+msgid "Download completed"
+msgstr "ההורדה הושלמה"
+
+msgid "Transcode failed."
+msgstr "המרת הקידוד נכשלה."
+
+msgid "An error was encountered."
+msgstr "אירעה שגיאה."
+
+msgid "Encoding warning: A file with the output name already exists"
+msgstr "אזהרת קידוד: קובץ בשם הפלט כבר קיים"
+
+msgid "Encoding warning: Could not remove original file"
+msgstr "אזהרת קידוד: לא ניתן להסיר את הקובץ המקורי"
+
+msgid "There was an error with the Maloja server"
+msgstr "אירעה שגיאה בשרת Maloja"
+
+msgid "There was an error reaching the Maloja server"
+msgstr "אירעה שגיאה בגישה לשרת Maloja"
+
+msgid "There was an error parsing the data"
+msgstr "אירעה שגיאה בפענוח הנתונים"
+
+msgid "There was an error submitting data to Maloja server"
+msgstr "אירעה שגיאה בשליחת נתונים לשרת Maloja"
+
+msgid "Enter two-factor code"
+msgstr "הזן קוד אימות דו-שלבי"
+
+msgid "Failed updating ListenBrainz love status"
+msgstr "עדכון סימון 'אהבתי' ב-ListenBrainz נכשל"
+
+msgid "Permission error encountered while writing database"
+msgstr "שגיאת הרשאות בעת שמירת מסד הנתונים"
+
+msgid "Note that ratings are stored in the local database and not written to tags."
+msgstr "שים לב: דירוגים נשמרים במסד המקומי ולא נכתבים לתגיות הקובץ."
+
+msgid "Error importing python-plexapi"
+msgstr "שגיאה בטעינת הספרייה python-plexapi"
+
+msgid "Two-factor authentication required"
+msgstr "נדרש אימות דו-שלבי"
+
+msgid "Enter the verification code and try again."
+msgstr "הזן את קוד האימות ונסה שוב."
+
+msgid "Error connecting to PLEX server"
+msgstr "שגיאה בהתחברות לשרת PLEX"
+
+msgid "Try checking login credentials and that the server is accessible."
+msgstr "בדוק את פרטי ההתחברות וודא שהשרת נגיש."
+
+msgid "Several music libraries found, set one in settings: {names}"
+msgstr "נמצאו מספר ספריות מוזיקה, בחר אחת בהגדרות: {names}"
+
+msgid "Error importing PLEX library"
+msgstr "שגיאה בייבוא ספריית PLEX"
+
+msgid "PLEX Collection"
+msgstr "אוסף PLEX"
+
+msgid "Network error"
+msgstr "שגיאת רשת"
+
+msgid "No lyrics"
+msgstr "אין מילים לשיר"
+
+msgid "No embedded album art."
+msgstr "אין עטיפת אלבום מוטמעת."
+
+msgid "Write"
+msgstr "כתוב"
+
+msgid "Physically renames all the tracks in the folder"
+msgstr "משנה פיזית את שמות כל הקבצים בתיקייה"
+
+msgid "Rename complete."
+msgstr "שינוי השמות הושלם."
+
+msgid "No file extension?"
+msgstr "ללא סיומת קובץ?"
+
+msgid "Merged {N} duplicate tracks"
+msgstr "מוזגו {N} רצועות כפולות"
+
+msgid "Relocated {N} tracks"
+msgstr "עודכן מיקומן של {N} רצועות"
+
+msgid "{N} tracks will be relocated"
+msgstr "מיקומן של {N} רצועות יעודכן"
+
+msgid "Matched by file name and size"
+msgstr "הותאם לפי שם קובץ וגודל"
+
+msgid "Added 1 track to playlist: {name}"
+msgstr "נוספה רצועה אחת לרשימה: {name}"
+
+msgid "Added {N} tracks to playlist: {name}"
+msgstr "נוספו {N} רצועות לרשימה: {name}"
+
+msgid "This action would add {N} duplicate tracks."
+msgstr "פעולה זו תוסיף {N} רצועות כפולות."
+
+msgid "Could not save theme file"
+msgstr "לא ניתן לשמור את קובץ ערכת הנושא"
+
+msgid "Could not delete theme file"
+msgstr "לא ניתן למחוק את קובץ ערכת הנושא"
+
+msgid "Error, not connected to last.fm"
+msgstr "שגיאה, לא מחובר ל-last.fm"
+
+msgid "Show playlists"
+msgstr "הצג רשימות השמעה"
+
+msgid "Refresh list"
+msgstr "רענן רשימה"
+
+msgid "Import all"
+msgstr "ייבא הכל"
+
+msgid "Importing…"
+msgstr "מייבא…"
+
+msgid "Update"
+msgstr "עדכן"
+
+msgid "Import"
+msgstr "ייבוא"
+
+msgid "Finish authorisation in the browser, then click Done."
+msgstr "השלם את ההרשאה בדפדפן ולחץ על 'בוצע'."
+
+msgid "Authorisation"
+msgstr "הרשאה"
+
+msgid "Signed in as"
+msgstr "מחובר בתור"
+
+msgid "This will overwrite local love state when it differs from last.fm."
+msgstr "פעולה זו תדרוס סימוני 'אהבתי' מקומיים השונים מ-last.fm."
+
+msgid "OK"
+msgstr "אישור"
+
+msgid "Two-factor code"
+msgstr "קוד דו-שלבי"
+
+msgid "Server name"
+msgstr "שם שרת"
+
+msgid "Library name"
+msgstr "שם ספרייה"
+
+msgid "Waiting for redirect."
+msgstr "ממתין להפניה מהדפדפן."
+
+msgid "Not connected."
+msgstr "לא מחובר."
+
+msgid "Disable if TIDAL scrobbles on its own."
+msgstr "השבת אם TIDAL מדווח השמעות בעצמו."
+
+msgid "Imports"
+msgstr "ייבוא נתונים"
+
+msgid "Pull favourites into Tauon."
+msgstr "משוך מועדפים אל תוך Tauon."
+
+msgid "Back to Last.fm"
+msgstr "חזרה ל-Last.fm"
+
+msgid "restart"
+msgstr "הפעלה מחדש"
+
+msgid "Requires the PipeWire backend."
+msgstr "דורש מנוע שמע PipeWire."
+
+msgid "Not supported on this platform."
+msgstr "לא נתמך בפלטפורמה זו."
+
+msgid "Repeat"
+msgstr "חזרה"
+
+msgid "Next playlist"
+msgstr "הרשימה הבאה"
+
+msgid "Cycle all"
+msgstr "מחזור על הכל"
+
+msgid "Reset"
+msgstr "איפוס"
+
+msgid "Colourise"
+msgstr "צביעה"
+
+msgid "Art"
+msgstr "עטיפה"
+
+msgid "Frost lo"
+msgstr "זכוכית עדינה"
+
+msgid "Frost hi"
+msgstr "זכוכית עמוקה"
+
+msgid "auto"
+msgstr "אוטומטי"
+
+msgid "New Empty Slot"
+msgstr "משבצת ריקה חדשה"
+
+msgid "Custom"
+msgstr "מותאם אישית"
+
+msgid "Open"
+msgstr "פתיחה"
+
+msgid "A mounted music folder was found!"
+msgstr "נמצאה תיקיית מוזיקה מעוגנת!"
+
+msgid "Could not auto-detect mounted device path."
+msgstr "לא ניתן לזהות אוטומטית נתיב התקן מעוגן."
+
+msgid "Make sure the device is mounted and path is accessible."
+msgstr "וודא שההתקן מעוגן ושהנתיב נגיש."
+
+msgid "Detect"
+msgstr "זהה"
+
+msgid "Select a source playlist"
+msgstr "בחר רשימת השמעה כמקור"
+
+msgid "Start Sync"
+msgstr "התחל סנכרון"
+
+msgid "Start Transcode and Sync"
+msgstr "המר קידוד וסנכרן"
+
+msgid "Be patient!"
+msgstr "נא להמתין בסבלנות!"
+
+msgid "Grid"
+msgstr "רשת"
+
+msgid "Cascade"
+msgstr "מדורג"
+
+msgid "Not connected"
+msgstr "לא מחובר"
+
+msgid "Token saved"
+msgstr "אסימון נשמר"
+
+msgid "Configured"
+msgstr "מוגדר"
+
+msgid "Signed in"
+msgstr "מחובר"
+
+msgid "Artwork on"
+msgstr "עטיפות פעילות"
+
+msgid "Discard {N} waiting scrobbles?"
+msgstr "למחוק {N} דיווחי השמעה ממתינים?"
+
+msgid "Discord status: {state}"
+msgstr "סטטוס Discord: {state}"
+
+msgid "Sorry, this feature is unavailable with snap"
+msgstr "תכונה זו אינה זמינה בגרסת Snap"
+
+msgid "Song first"
+msgstr "שיר תחילה"
+
+msgid "Artist first"
+msgstr "אמן תחילה"
+
+msgid "Song"
+msgstr "שיר"
+
+msgid "Same folder"
+msgstr "אותה תיקייה"
+
+msgid "Chosen folder"
+msgstr "תיקייה נבחרת"
+
+msgid "Custom layout edit mode › Right-click a widget"
+msgstr "מצב עריכת פריסה › קליק ימני על רכיב"
+
+msgid "Custom layout edit mode › Right-click a tab"
+msgstr "מצב עריכת פריסה › קליק ימני על לשונית"
+
+msgid "Go to"
+msgstr "עבור אל"
+
+msgid "End of Playlist"
+msgstr "סוף רשימת ההשמעה"
+
+msgid "Couldn't reach the station directory. Try again in a moment."
+msgstr "לא ניתן להגיע למאגר התחנות. נסה שוב בעוד רגע."
+
+msgid "This station can't be recorded"
+msgstr "לא ניתן להקליט תחנה זו"
+
+msgid "Recording only works with HTTP streams."
+msgstr "הקלטה פועלת רק עם הזרמות HTTP."
+
+msgid "Add Station"
+msgstr "הוספת תחנה"
+
+msgid "Edit Station"
+msgstr "עריכת תחנה"
+
+msgid "Failed to connect!"
+msgstr "ההתחברות נכשלה!"
+
+msgid "Custom image file is missing"
+msgstr "קובץ התמונה המותאמת חסר"
+
+msgid "Drop an image here to replace it"
+msgstr "גרור תמונה לכאן כדי להחליפה"
+
+msgid "Drop an image file here"
+msgstr "גרור קובץ תמונה לכאן"
+
+msgid "Enter a stream URL"
+msgstr "הזן כתובת הזרמה (URL)"
+
+msgid "Record and auto split songs"
+msgstr "הקלט ופצל שירים אוטומטית"
+
+msgid "Please stop playback first before toggling this setting"
+msgstr "עצור את הנגינה לפני שינוי הגדרה זו"
+
+msgid "Track rows"
+msgstr "שורות רצועות"
+
+msgid "Album titles"
+msgstr "כותרות אלבומים"
+
+msgid "Track menu links"
+msgstr "קישורי תפריט רצועה"
+
+msgid "Smart Playlist"
+msgstr "רשימה חכמה"
+
+msgid "Music"
+msgstr "מוזיקה"
+
+msgid "Search the library"
+msgstr "חיפוש בספרייה"
+
+msgid "Start typing"
+msgstr "התחל להקליד"
+
+msgid "Transfer play counts"
+msgstr "העברת מוני השמעות"
+
+msgid "Delete playlist even if locked"
+msgstr "מחק רשימה גם אם היא נעולה"
+
+msgid "Right-click the seek bar"
+msgstr "קליק ימני על פס ההתקדמות"
+
+msgid "Click again to reset"
+msgstr "לחץ שוב לאיפוס"
+
+msgid "Reset to defaults"
+msgstr "איפוס לברירת מחדל"
+
+msgid "Busy…"
+msgstr "עסוק…"
+
+msgid "Remove track from queue"
+msgstr "הסר רצועה מהתור"
+
+msgid "Up Next:"
+msgstr "הבא בתור:"
+
+msgid "ALBUM"
+msgstr "אלבום"
+
+msgid "Limited by peak"
+msgstr "מוגבל לפי שיא עוצמה (Peak)"
+
+msgid "Cooldown…"
+msgstr "השהיה…"
+
+msgid "No artist bio found"
+msgstr "לא נמצאה ביוגרפיה לאמן"
+
+msgid "{name}  ·  {count} stations"
+msgstr "{name}  ·  {count} תחנות"
+
+msgid "No matching stations"
+msgstr "אין תחנות תואמות"
+
+msgid "Try a broader search or remove the country filter"
+msgstr "נסה חיפוש רחב יותר או הסר את סינון המדינה"
+
+msgid "Website"
+msgstr "אתר אינטרנט"
+
+msgid "No matching favorite presets"
+msgstr "אין תבניות מועדפות תואמות"
+
+msgid "No matching presets"
+msgstr "אין תבניות תואמות"
+
+msgid "Playing"
+msgstr "מתנגן"
+
+msgid "You put a folder in the lyrics-editor directory. Don't do that."
+msgstr "הכנסת תיקייה לתיקיית עורך המילים. אל תעשה זאת."
+
+msgid "Lyrics might misbehave if their timestamps are out of order."
+msgstr "מילים לשיר עלולות להשתבש אם חותמות הזמן אינן לפי הסדר."
+
+msgid "Please make sure all timestamps are ordered correctly."
+msgstr "וודא שכל חותמות הזמן מסודרות בסדר עולה."
+
+msgid "Synced lyrics will save…"
+msgstr "מילים מסונכרנות יישמרו…"
+
+msgid "⚠️ Overwriting"
+msgstr "⚠️ דריסת קובץ"
+
+msgid "Even if it would overwrite synced lyrics"
+msgstr "גם אם הפעולה תדרוס מילים מסונכרנות"
+
+msgid "Backup file does not exist"
+msgstr "קובץ הגיבוי אינו קיים"
+
+msgid "Teleport to timestamp"
+msgstr "קפוץ לחותמת הזמן"
+
+msgid "Timestamp unknown"
+msgstr "חותמת זמן לא ידועה"
+
+msgid "Delete line"
+msgstr "מחק שורה"
+
+msgid "Add line"
+msgstr "הוסף שורה"
+
+msgid "Lyrics text"
+msgstr "טקסט המילים"
+
+msgid "TIME+"
+msgstr "זמן+"
+
+msgid "TIME⏎"
+msgstr "זמן⏎"
+
+msgid "Synced"
+msgstr "מסונכרן"
+
+msgid "Unsynced"
+msgstr "לא מסונכרן"
+
+msgid "Permission error accessing one or more files"
+msgstr "שגיאת הרשאות בגישה לקובץ אחד או יותר"
+
+msgid "The following file is missing:"
+msgstr "הקובץ הבא חסר:"
+
+msgid "We don't have the proper permissions to run the file:"
+msgstr "אין הרשאות מתאימות להרצת הקובץ:"
+
+msgid "We can't upload your lyrics, and we don't know why."
+msgstr "לא הצלחנו להעלות את המילים מסיבה לא ידועה."
+
+msgid "Lyrics upload failed with error code: "
+msgstr "העלאת המילים נכשלה עם קוד שגיאה: "
+
+msgid "Folder copy error."
+msgstr "שגיאה בהעתקת תיקייה."
+
+msgid "The target and source are the same."
+msgstr "המקור והיעד זהים."
+
+msgid "Folder move complete."
+msgstr "העברת התיקייה הושלמה."
+
+msgid "Folder copy complete."
+msgstr "העתקת התיקייה הושלמה."
+
+msgid "Press F9 to show output."
+msgstr "לחץ F9 להצגת הפלט."
+
+msgid "Some tracks could not be rescanned"
+msgstr "חלק מהרצועות לא נסרקו מחדש"
+
+msgid "Rescanning network tracks is unsupported, please reimport your playlist instead."
+msgstr "סריקה מחדש של רצועות רשת אינה נתמכת, ייבא מחדש את הרשימה."
+
+msgid "Replace…"
+msgstr "החלף…"
+
+msgid "Remove Widget"
+msgstr "הסר רכיב"
+
+msgid "Delete Cell"
+msgstr "מחק תא"
+
+msgid "Lock Vertical"
+msgstr "נעל אנכית"
+
+msgid "Unlock Vertical"
+msgstr "בטל נעילה אנכית"
+
+msgid "Lock Horizontal"
+msgstr "נעל אופקית"
+
+msgid "Unlock Horizontal"
+msgstr "בטל נעילה אופקית"
+
+msgid "Border"
+msgstr "מסגרת"
+
+msgid "Remove Border"
+msgstr "הסר מסגרת"
+
+msgid "Make Stack Resizable"
+msgstr "אפשר שינוי גודל ערימה"
+
+msgid "Make Stack Not Resizable"
+msgstr "נעל שינוי גודל ערימה"
+
+msgid "Add files…"
+msgstr "הוסף קבצים…"
+
+msgid "Trash"
+msgstr "אשפה"
+
+msgid "Moves folder to system trash"
+msgstr "מעביר את התיקייה לאשפה של המערכת"
+
+msgid "Error - Not authorized"
+msgstr "שגיאה - אין הרשאה"
+
+msgid "Error"
+msgstr "שגיאה"
+
+msgid "Unknown error."
+msgstr "שגיאה לא ידועה."
+
+msgid "No {service} account registered"
+msgstr "לא הוגדר חשבון {service}"
+
+msgid "Of {N} loved tracks, no matches were found in local db"
+msgstr "מתוך {N} רצועות אהובות, לא נמצאו התאמות במסד המקומי"
+
+msgid "Unknown exception trying to parse playlist"
+msgstr "שגיאה לא ידועה בפענוח רשימת ההשמעה"
+
+msgid "Failed to locate {N} out of {T} tracks."
+msgstr "לא אותרו {N} מתוך {T} רצועות."
+
+msgid "Stop requesting lyrics AAAAAA."
+msgstr "הפסק להציף בקשות למילים!"
+
+msgid "Cleared synced lyrics"
+msgstr "מילים מסונכרנות נוקו"
+
+msgid "Removed from tags"
+msgstr "הוסר מהתגיות"
+
+msgid "Could not write lyrics to file"
+msgstr "לא ניתן לכתוב מילים לקובץ"
+
+msgid "File doesn't exist or is not accessible"
+msgstr "הקובץ אינו קיים או שאינו נגיש"
+
+msgid "(We still saved to the internal database)"
+msgstr "(נשמר בכל זאת במסד הנתונים הפנימי)"
+
+msgid "Searching fanart.tv for cover art…"
+msgstr "מחפש עטיפת אלבום ב-fanart.tv…"
+
+msgid "{N} files processed"
+msgstr "{N} קבצים עובדו"
+
+msgid "The target may be lost on reboot without necessary Flatpak permissions."
+msgstr "היעד עלול להיאבד בהפעלה מחדש ללא הרשאות Flatpak מתאימות."
+
+msgid "Imported {N} tracks"
+msgstr "יובאו {N} רצועות"
+
+msgid "Top Artists"
+msgstr "אמנים מובילים"
+
+msgid "Top Albums"
+msgstr "אלבומים מובילים"
+
+msgid "Top Genres"
+msgstr "ז׳אנרים מובילים"
+
+msgid "One or more folders is missing"
+msgstr "תיקייה אחת או יותר חסרות"
+
+msgid "Sync finished with errors"
+msgstr "הסנכרון הסתיים עם שגיאות"
+
+msgid "Sync completed"
+msgstr "הסנכרון הושלם"
+
+msgid "Tracks with lyrics"
+msgstr "רצועות עם מילים"
+
+msgid "Interesting Comments"
+msgstr "הערות מעניינות"
+
+msgid "ReplayGain Tracks"
+msgstr "רצועות עם ReplayGain"
+
+msgid "The target directory is missing!"
+msgstr "תיקיית היעד חסרה!"
+
+msgid "The source directory is missing!"
+msgstr "תיקיית המקור חסרה!"
+
+msgid "Safety interrupt! The source folder seems to have many files."
+msgstr "עצירת בטיחות! נראה שבתיקיית המקור יש קבצים רבים מדי."
+
+msgid "The track needs to have an artist name."
+msgstr "לרצועה חייב להיות שם אמן."
+
+msgid "File deleted"
+msgstr "הקובץ נמחק"
+
+msgid "Folder deleted."
+msgstr "התיקייה נמחקה."
+
+msgid "Folder sent to trash."
+msgstr "התיקייה הועברה לאשפה."
+
+msgid "Unable to comply."
+msgstr "לא ניתן לבצע."
+
+msgid "Could not delete folder. Try checking permissions."
+msgstr "לא ניתן למחוק תיקייה. בדוק הרשאות."
+
+msgid "Folder could not be trashed."
+msgstr "לא ניתן להעביר תיקייה לאשפה."
+
+msgid "Try again while holding shift to force delete."
+msgstr "נסה שוב תוך החזקת Shift למחיקה לצמיתות."
+
+msgid "More…"
+msgstr "עוד…"
+
+msgid "{N} duplicates removed"
+msgstr "{N} כפילויות הוסרו"
+
+msgid "Download completed but checksum failed"
+msgstr "ההורדה הושלמה אך אימות הקובץ (Checksum) נכשל"
+
+msgid "Encoding warning: Could not write transcoded file"
+msgstr "אזהרת קידוד: לא ניתן לכתוב את הקובץ המומר"
+
+msgid "Stop the sync before exiting!"
+msgstr "עצור את הסנכרון לפני היציאה!"
+
+msgid "Will overwrite existing file: "
+msgstr "ידרוס קובץ קיים: "
+
+msgid "Will save with playlist name:"
+msgstr "יישמר בשם רשימת ההשמעה:"
+
+msgid "{N} still missing"
+msgstr "{N} עדיין חסרים"
+
+msgid "{N} re-imported copies merged"
+msgstr "{N} עותקים שיובאו מחדש מוזגו"
+
+msgid "Year: "
+msgstr "שנה: "
+
+msgid "Composer: "
+msgstr "מלחין: "
+
+msgid "Label: "
+msgstr "חברת תקליטים: "
+
+msgid "Genre: "
+msgstr "ז׳אנר: "
+
+msgid "Warning: This process will take approximately {T} minutes to complete."
+msgstr "אזהרה: תהליך זה יימשך כ-{T} דקות."
+
+msgid "1 track"
+msgstr "רצועה אחת"
+
+msgid "Get user loves"
+msgstr "משוך שירים אהובים"
+
+msgid "Clear local loves"
+msgstr "נקה אהובים מקומיים"
+
+msgid "Get friend loves"
+msgstr "משוך אהובים של חבר"
+
+msgid "Clear friend loves"
+msgstr "נקה אהובים של חבר"
+
+msgid "Get scrobble counts"
+msgstr "משוך מספרי השמעות"
+
+msgid "Clear counts"
+msgstr "נקה מונים"
+
+msgid "Paste token"
+msgstr "הדבק אסימון (Token)"
+
+msgid "Open profile"
+msgstr "פתח פרופיל"
+
+msgid "Reset flips"
+msgstr "אפס היפוכי תמונות"
+
+msgid "Flip current"
+msgstr "הפוך תמונה נוכחית"
+
+msgid "Import music to playlist"
+msgstr "ייבא מוזיקה לרשימה"
+
+msgid "API key"
+msgstr "מפתח API"
+
+msgid "About Maloja"
+msgstr "אודות Maloja"
+
+msgid "Test connectivity"
+msgstr "בדוק חיבור"
+
+msgid "Import music"
+msgstr "ייבא מוזיקה"
+
+msgid "IP"
+msgstr "כתובת IP"
+
+msgid "An operation is already running"
+msgstr "פעולה אחרת כבר מתבצעת כעת"
+
+msgid "Get playlist"
+msgstr "קבל רשימת השמעה"
+
+msgid "Copy the full URL of the resulting page, then paste it here."
+msgstr "העתק את הכתובת המלאה של העמוד שנפתח והדבק אותה כאן."
+
+msgid "Redirect"
+msgstr "כתובת הפניה"
+
+msgid "ReplayGain"
+msgstr "איזון עוצמה (ReplayGain)"
+
+msgid "Equalizer"
+msgstr "אקולייזר"
+
+msgid "Cache"
+msgstr "מטמון"
+
+msgid "Window"
+msgstr "חלון"
+
+msgid "Tray"
+msgstr "מגש מערכת"
+
+msgid "Layouts"
+msgstr "פריסות"
+
+msgid "In context menus"
+msgstr "בתפריטי הקשר"
+
+msgid "Multiple artists"
+msgstr "מספר אמנים"
+
+msgid "Transcode"
+msgstr "המרת קידוד"
+
+msgid "Lyrics"
+msgstr "מילים לשיר"
+
+msgid "Sync to device"
+msgstr "סנכרון להתקן"
+
+msgid "Stats"
+msgstr "סטטיסטיקה"
+
+msgid "Album chart"
+msgstr "מצעד אלבומים"
+
+msgid "Account"
+msgstr "חשבון"
+
+msgid "Sharing"
+msgstr "שיתוף"
+
+msgid "Files"
+msgstr "קבצים"
+
+msgid "Input and export"
+msgstr "קלט וייצוא"
+
+msgid "Diagnostics"
+msgstr "אבחון"
+
+msgid "Level {N}"
+msgstr "רמה {N}"
+
+msgid "Move up"
+msgstr "הזז למעלה"
+
+msgid "Move down"
+msgstr "הזז למטה"
+
+msgid "Preview: {example}"
+msgstr "תצוגה מקדימה: {example}"
+
+msgid "No font set in config"
+msgstr "לא הוגדר גופן בתצורה"
+
+msgid "only {N} in the playlist"
+msgstr "רק {N} ברשימת ההשמעה"
+
+msgid "Generate"
+msgstr "צור"
+
+msgid "{N} scrobbles waiting"
+msgstr "{N} השמעות ממתינות לדיווח"
+
+msgid "Missing dependency python-pypresence"
+msgstr "חסרה תלות python-pypresence"
+
+msgid "Menus"
+msgstr "תפריטים"
+
+msgid "{N} matches"
+msgstr "{N} התאמות"
+
+msgid "Play, RC: Go to playing"
+msgstr "נגן, קליק ימני: עבור למתנגן"
+
+msgid "Back, RC: Toggle repeat, MC: Revert"
+msgstr "אחורה, ימני: חזרה, אמצעי: קודם"
+
+msgid "Playback menu"
+msgstr "תפריט נגינה"
+
+msgid "Could not save the station image"
+msgstr "לא ניתן לשמור את תמונת התחנה"
+
+msgid "Check that the source file is still available and try again."
+msgstr "בדוק שקובץ המקור זמין ונסה שוב."
+
+msgid "Could not validate URL. Must start with http://, https://, rtsp://, rtmp:// or mms://"
+msgstr "כתובת לא תקינה. חייבת להתחיל ב-http://, https://, rtsp://, rtmp:// או mms://"
+
+msgid "Please stop playback first to end current recording"
+msgstr "עצור תחילה את הנגינה כדי לסיים את ההקלטה הנוכחית"
+
+msgid "Tracks will now be recorded."
+msgstr "הרצועות יוקלטו כעת."
+
+msgid "Tip: You can press F9 to view the output folder."
+msgstr "טיפ: ניתן ללחוץ על F9 לפתיחת תיקיית הפלט."
+
+msgid "Standard view only"
+msgstr "בתצוגה רגילה בלבד"
+
+msgid "Columns view only"
+msgstr "בתצוגת עמודות בלבד"
+
+msgid "Time cursor"
+msgstr "סמן זמן"
+
+msgid "Middle-click the seek bar"
+msgstr "קליק אמצעי על פס ההתקדמות"
+
+msgid "Back to the skipped track"
+msgstr "חזרה לרצועה שדולגה"
+
+msgid "Middle-click Back"
+msgstr "קליק אמצעי על 'אחורה'"
+
+msgid "Middle-click Forward"
+msgstr "קליק אמצעי על 'קדימה'"
+
+msgid "Play / pause"
+msgstr "נגן / השהה"
+
+msgid "Play the selected track"
+msgstr "נגן את הרצועה הנבחרת"
+
+msgid "Seek back / forward"
+msgstr "דילוג אחורה / קדימה"
+
+msgid "Previous track"
+msgstr "רצועה קודמת"
+
+msgid "Next track"
+msgstr "רצועה הבאה"
+
+msgid "Restart the track"
+msgstr "התחל רצועה מחדש"
+
+msgid "Random track"
+msgstr "רצועה אקראית"
+
+msgid "Random album"
+msgstr "אלבום אקראי"
+
+msgid "Volume down / up"
+msgstr "הנמכת / הגבהת עוצמה"
+
+msgid "Mute"
+msgstr "השתק"
+
+msgid "Switch playlist"
+msgstr "החלפת רשימת השמעה"
+
+msgid "Go to playlist 1 to 9"
+msgstr "מעבר לרשימות השמעה 1–9"
+
+msgid "Show the playing track"
+msgstr "הצגת הרצועה המתנגנת"
+
+msgid "Show the previous track"
+msgstr "הצגת הרצועה הקודמת"
+
+msgid "Move the selection"
+msgstr "הזזת הבחירה"
+
+msgid "Extend the selection"
+msgstr "הרחבת הבחירה"
+
+msgid "Playlist top / bottom"
+msgstr "תחילת / סוף הרשימה"
+
+msgid "Page up / down"
+msgstr "עמוד למעלה / למטה"
+
+msgid "Find the playing artist"
+msgstr "מציאת האמן המתנגן"
+
+msgid "Close / go back"
+msgstr "סגירה / חזרה"
+
+msgid "Global search"
+msgstr "חיפוש כללי"
+
+msgid "Find in this playlist"
+msgstr "חיפוש ברשימה זו"
+
+msgid "Search lyrics for the selected track"
+msgstr "חיפוש מילים לרצועה שנבחרה"
+
+msgid "Lyrics substitute search"
+msgstr "חיפוש מילים חלופי"
+
+msgid "Select all"
+msgstr "בחירת הכול"
+
+msgid "Copy / paste"
+msgstr "העתקה / הדבקה"
+
+msgid "Remove from the playlist"
+msgstr "הסרה מרשימת ההשמעה"
+
+msgid "Undo"
+msgstr "ביטול פעולה"
+
+msgid "Love the selected track"
+msgstr "סימון הרצועה שנבחרה כאהובה"
+
+msgid "Love the playing track"
+msgstr "סימון הרצועה המתנגנת כאהובה"
+
+msgid "Clear the queue"
+msgstr "ניקוי התור"
+
+msgid "Track info"
+msgstr "פרטי רצועה"
+
+msgid "Playing track info"
+msgstr "פרטי הרצועה המתנגנת"
+
+msgid "New playlist"
+msgstr "רשימת השמעה חדשה"
+
+msgid "Rename playlist"
+msgstr "שינוי שם רשימת השמעה"
+
+msgid "Delete playlist"
+msgstr "מחיקת רשימת השמעה"
+
+msgid "New smart playlist"
+msgstr "רשימת השמעה חכמה חדשה"
+
+msgid "Edit smart playlist"
+msgstr "עריכת רשימת השמעה חכמה"
+
+msgid "Regenerate playlist"
+msgstr "יצירה מחדש של הרשימה"
+
+msgid "Toggle album headings"
+msgstr "הצגה/הסתרה של כותרות אלבום"
+
+msgid "Next layout"
+msgstr "הפריסה הבאה"
+
+msgid "Previous layout"
+msgstr "הפריסה הקודמת"
+
+msgid "Gallery with keyboard control"
+msgstr "גלריה עם שליטה מהמקלדת"
+
+msgid "Left panel"
+msgstr "חלונית שמאלית"
+
+msgid "Side panel"
+msgstr "חלונית צד"
+
+msgid "Side panel art"
+msgstr "עטיפה בחלונית הצד"
+
+msgid "Artist info"
+msgstr "מידע על האמן"
+
+msgid "Mini mode"
+msgstr "מצב ממוזער"
+
+msgid "Full screen"
+msgstr "מסך מלא"
+
+msgid "Next / previous theme"
+msgstr "ערכת הנושא הבאה / הקודמת"
+
+msgid "Auto theme from album art"
+msgstr "ערכת נושא אוטומטית מהעטיפה"
+
+msgid "Reload theme"
+msgstr "טעינת ערכת הנושא מחדש"
+
+msgid "Window opacity up / down"
+msgstr "הגברת / הנמכת אטימות החלון"
+
+msgid "Open the transcode folder"
+msgstr "פתיחת תיקיית ההמרה"
+
+msgid "Console"
+msgstr "מסוף"
+
+msgid "{N} album"
+msgstr "אלבום {N}"
+
+msgid "Queued Tracks"
+msgstr "רצועות בתור"
+
+msgid "TRACK"
+msgstr "רצועה"
+
+msgid "Compressor ready"
+msgstr "המדחס מוכן"
+
+msgid "Find something new"
+msgstr "לגלות משהו חדש"
+
+msgid "Search stations or genres, filter by country, or start with our picks"
+msgstr "חפשו תחנות או ז׳אנרים, סננו לפי מדינה או התחילו מההמלצות שלנו"
+
+msgid "No saved stations yet"
+msgstr "עדיין אין תחנות שמורות"
+
+msgid "Discover a station or add a stream URL to get started"
+msgstr "גלו תחנה או הוסיפו כתובת הזרמה כדי להתחיל"
+
+msgid "Auto-Scroll"
+msgstr "גלילה אוטומטית"
+
+msgid "Put the lyrics in this file."
+msgstr "הכניסו את מילות השיר לקובץ זה."
+
+msgid "Delete timestamp"
+msgstr "מחיקת חותמת זמן"
+
+msgid "Go back 5 seconds"
+msgstr "5 שניות אחורה"
+
+msgid "Go to previous line"
+msgstr "מעבר לשורה הקודמת"
+
+msgid "Failed"
+msgstr "נכשל"
+
+msgid "Lyrics must be formatted correctly"
+msgstr "מילות השיר חייבות להיות במבנה תקין"
+
+msgid "Your synced lyrics are either out of order or not fully timed."
+msgstr "מילות השיר המסונכרנות אינן לפי הסדר או שאינן מתוזמנות במלואן."
+
+msgid "We cannot upload broken lyrics to LRCLIB."
+msgstr "לא ניתן להעלות מילות שיר פגומות אל LRCLIB."
+
+msgid "Files missing or inaccessible"
+msgstr "קבצים חסרים או לא נגישים"
+
+msgid "If you're using Flatpak, you should probably follow this:"
+msgstr "בשימוש ב־Flatpak, מומלץ לפעול לפי המדריך הבא:"
+
+msgid "Bad permissions"
+msgstr "הרשאות שגויות"
+
+msgid "Can't import that"
+msgstr "לא ניתן לייבא זאת"
+
+msgid "You attempted to drop an archive."
+msgstr "ניסית לגרור קובץ ארכיון."
+
+msgid "However the \"extract archive\" function is not enabled."
+msgstr "אולם האפשרות \"חילוץ ארכיון\" אינה מופעלת."
+
+msgid "The folder copy has failed!"
+msgstr "העתקת התיקייה נכשלה!"
+
+msgid "Some files may have been written."
+msgstr "ייתכן שחלק מהקבצים כבר נכתבו."
+
+msgid "{N} items were removed from the database."
+msgstr "{N} פריטים הוסרו ממסד הנתונים."
+
+msgid "The transcode was canceled before completion."
+msgstr "ההמרה בוטלה לפני השלמתה."
+
+msgid "Incomplete files will remain."
+msgstr "קבצים שלא הושלמו יישארו."
+
+msgid "Note that any associated output picture is a thumbnail and not an exact copy."
+msgstr "שימו לב שכל תמונת פלט משויכת היא תמונה ממוזערת ולא עותק מדויק."
+
+msgid "Folder Modification"
+msgstr "שינוי תיקייה"
+
+msgid "Physically deletes folder from disk"
+msgstr "מוחק פיזית את התיקייה מהכונן"
+
+msgid "PATH"
+msgstr "נתיב"
+
+msgid "OLD"
+msgstr "ישן"
+
+msgid "NEW"
+msgstr "חדש"
+
+msgid "Folder filter mode. Enter path segment."
+msgstr "מצב סינון תיקיות. הזינו מקטע מהנתיב."
+
+msgid "UP / DOWN to navigate. SHIFT + RETURN for new playlist."
+msgstr "למעלה / למטה לניווט. Shift + Enter לרשימת השמעה חדשה."
+
+msgid "Loved track"
+msgstr "הרצועה סומנה כאהובה"
+
+msgid "Un-Loved track"
+msgstr "בוטל סימון הרצועה כאהובה"
+
+msgid "Lines copied to clipboard"
+msgstr "השורות הועתקו ללוח"
+
+msgid "Already connected to {service}"
+msgstr "כבר מחובר אל {service}"
+
+msgid "Connection to {service} was successful."
+msgstr "ההתחברות אל {service} הצליחה."
+
+msgid "Error connecting to {service} network"
+msgstr "שגיאה בהתחברות לרשת {service}"
+
+msgid "{N} matched tracks are up to date."
+msgstr "{N} רצועות תואמות מעודכנות."
+
+msgid "{N} tracks matched. {T} were updated."
+msgstr "{N} רצועות נמצאו תואמות. {T} עודכנו."
+
+msgid "Downloading Milkdrop presets"
+msgstr "מוריד תבניות Milkdrop"
+
+msgid "Milkdrop will still be enabled."
+msgstr "Milkdrop עדיין יופעל."
+
+msgid "Could not delete synced lyrics file"
+msgstr "לא ניתן למחוק את קובץ המילים המסונכרנות"
+
+msgid "The .lrc file could not be deleted."
+msgstr "לא ניתן היה למחוק את קובץ ה־.lrc."
+
+msgid "Cleared synced lyrics in Tauon only"
+msgstr "המילים המסונכרנות נוקו מ־Tauon בלבד"
+
+msgid "The .lrc file was kept because \"Save Synced to .lrc\" is off."
+msgstr "קובץ ה־.lrc נשמר מכיוון שהאפשרות \"שמירת מילים מסונכרנות ל־.lrc\" כבויה."
+
+msgid "Removing vorbis image not implemented"
+msgstr "הסרת תמונת Vorbis אינה נתמכת עדיין"
+
+msgid "This will erase any embedded image in {N} files. Are you sure?"
+msgstr "פעולה זו תמחק תמונות מוטמעות ב־{N} קבצים. להמשיך?"
+
+msgid " For details, see {link}"
+msgstr " לפרטים, ראו {link}"
+
+msgid "This includes the conversion of a lossy codec to a lossless one!"
+msgstr "פעולה זו כוללת המרה מקודק מאבד נתונים (Lossy) לקודק ללא איבוד (Lossless)!"
+
+msgid "Sync warning"
+msgstr "אזהרת סנכרון"
+
+msgid "Multiple folders to sync have the same name. Skipping."
+msgstr "למספר תיקיות לסנכרון יש אותו שם. מדלג."
+
+msgid "Codec: "
+msgstr "קודק: "
+
+msgid "Duration Sorted"
+msgstr "ממוין לפי אורך"
+
+msgid "Reversed"
+msgstr "הפוך"
+
+msgid "Reversed Albums"
+msgstr "אלבומים בסדר הפוך"
+
+msgid "Filepath Sorted"
+msgstr "ממוין לפי נתיב קובץ"
+
+msgid "Artist Sorted"
+msgstr "ממוין לפי אמן"
+
+msgid "Album Sorted"
+msgstr "ממוין לפי אלבום"
+
+msgid "Transcoding this network track type is not possible"
+msgstr "לא ניתן להמיר רצועת רשת מסוג זה"
+
+msgid "Tracks sent to trash"
+msgstr "הרצועות הועברו לאשפה"
+
+msgid "Error deleting file"
+msgstr "שגיאה במחיקת הקובץ"
+
+msgid "They encourage you to contribute at {link}"
+msgstr "ניתן לתרום תוכן באתר {link}"
+
+msgid "Image types other than PNG or JPEG are currently not supported"
+msgstr "סוגי תמונות שאינם PNG או JPEG אינם נתמכים כעת"
+
+msgid "Download failed"
+msgstr "ההורדה נכשלה"
+
+msgid "FFmpeg download cancelled"
+msgstr "הורדת FFmpeg בוטלה"
+
+msgid "FFmpeg was not installed."
+msgstr "FFmpeg לא הותקן."
+
+msgid "This function does not support renaming CUE Sheet tracks."
+msgstr "פונקציה זו אינה תומכת בשינוי שם של רצועות גיליון CUE."
+
+msgid "{N} / {T} filenames were written."
+msgstr "{N} מתוך {T} שמות קבצים עודכנו."
+
+msgid "Incorrect extension?"
+msgstr "סיומת שגויה?"
+
+msgid "Searching… {N} files"
+msgstr "מחפש… {N} קבצים"
+
+msgid "No results found"
+msgstr "לא נמצאו תוצאות"
+
+msgid "(Include multi-tag results)"
+msgstr "(כולל תוצאות מרובות תגיות)"
+
+msgid "Login"
+msgstr "התחברות"
+
+msgid "Forget account"
+msgstr "שכח חשבון"
+
+msgid "Continue"
+msgstr "המשך"
+
+msgid "Connection looked successful but the API key was invalid."
+msgstr "החיבור הצליח אך מפתח ה־API אינו תקין."
+
+msgid "Could not communicate with the Maloja server."
+msgstr "לא ניתן לתקשר עם שרת Maloja."
+
+msgid "Logout"
+msgstr "התנתקות"
+
+msgid "Import albums"
+msgstr "ייבוא אלבומים"
+
+msgid "Import tracks"
+msgstr "ייבוא רצועות"
+
+msgid "It looks like something is being downloaded…"
+msgstr "נראה שמתבצעת הורדה כעת…"
+
+msgid "Let's check back later…"
+msgstr "נבדוק שוב מאוחר יותר…"
+
+msgid "Loves"
+msgstr "אהובים"
+
+msgid "Track ratings"
+msgstr "דירוגי רצועות"
+
+msgid "Star hints"
+msgstr "רמזי כוכבים"
+
+msgid "Playcount lines"
+msgstr "קווי מונה השמעות"
+
+msgid "Album ratings"
+msgstr "דירוגי אלבומים"
+
+msgid "Left align"
+msgstr "יישור לשמאל"
+
+msgid "Header bar"
+msgstr "סרגל כותרת"
+
+msgid "Full album art"
+msgstr "עטיפת אלבום מלאה"
+
+msgid "Wikipedia"
+msgstr "ויקיפדיה"
+
+msgid "Sonemic"
+msgstr "Sonemic"
+
+msgid "Bandcamp"
+msgstr "Bandcamp"
+
+msgid "Genius"
+msgstr "Genius"
+
+msgid "NO TAG"
+msgstr "ללא תגית"
+
+msgid "OFF"
+msgstr "כבוי"
+
+msgid "Compressing"
+msgstr "דוחס"
+
+msgid "Synced lyrics saved successfully"
+msgstr "המילים המסונכרנות נשמרו בהצלחה"
+
+msgid "Saved to .lrc and tags"
+msgstr "נשמר לקובץ .lrc ולתגיות"
+
+msgid "…also to file metadata"
+msgstr "…גם למטא־נתונים של הקובץ"
+
+msgid "…to a separate .lrc file"
+msgstr "…לקובץ .lrc נפרד"
+
+msgid "Errored"
+msgstr "אירעה שגיאה"
+
+msgid "Upload lyrics for {artist} - {title}?"
+msgstr "להעלות מילים עבור {artist} - {title}?"
+
+msgid "Skipping oversize zip file (>4GB)"
+msgstr "מדלג על קובץ zip חריג בגודלו (מעל 4GB)"
+
+msgid "Something has gone horribly wrong!"
+msgstr "משהו השתבש לחלוטין!"
+
+msgid "Folder name: {name}"
+msgstr "שם תיקייה: {name}"
+
+msgid "Disabled auto theme"
+msgstr "ערכת נושא אוטומטית הושבתה"
+
+msgid "Enabled auto theme"
+msgstr "ערכת נושא אוטומטית הופעלה"
+
+msgid "Error loading theme file"
+msgstr "שגיאה בטעינת קובץ ערכת הנושא"
+
+msgid "Raise"
+msgstr "העלאת רמה"
+
+msgid "Quick find"
+msgstr "חיפוש מהיר"
+
+msgid "No stream"
+msgstr "אין הזרמה"
+
+msgid "No synced lyrics were cleared"
+msgstr "לא נוקו מילים מסונכרנות"
+
+msgid "Cover art downloaded from fanart.tv"
+msgstr "עטיפת האלבום הורדה מ־fanart.tv"
+
+msgid "Cannot use relative paths"
+msgstr "לא ניתן להשתמש בנתיבים יחסיים"
+
+msgid "One or more tracks are stored on a separate drive from the playlist file."
+msgstr "רצועה אחת או יותר שמורות בכונן נפרד מקובץ רשימת ההשמעה."
+
+msgid "{N} Folders Remaining"
+msgstr "נותרו {N} תיקיות"
+
+msgid "{N} Folder Remaining"
+msgstr "נותרה תיקייה {N}"
+
+msgid "Incomplete Albums"
+msgstr "אלבומים חלקיים"
+
+msgid "One or more tracks could not be sent to trash"
+msgstr "לא ניתן היה להעביר לאשפה רצועה אחת או יותר"
+
+msgid "Downloading FFmpeg…"
+msgstr "מוריד את FFmpeg…"
+
+msgid "Maybe check your internet connection and try again?"
+msgstr "כדאי לבדוק את החיבור לאינטרנט ולנסות שוב."
+
+msgid "{count} tracks"
+msgstr "{count} רצועות"
+
+msgid "Connection to Maloja server was successful."
+msgstr "ההתחברות לשרת Maloja הצליחה."
+
+msgid "The Maloja server returned an error."
+msgstr "שרת Maloja החזיר שגיאה."
+
+msgid "Paste redirect URL"
+msgstr "הדבקת כתובת הפניה (URL)"
+
+msgid "Artist A"
+msgstr "אמן א׳"
+
+msgid "Artist B"
+msgstr "אמן ב׳"
+
+msgid "{N} across"
+msgstr "{N} לרוחב"
+
+msgid "{N} rows"
+msgstr "{N} שורות"
+
+msgid "PRE-AMP"
+msgstr "קדם־מגבר"
+
+msgid "Saved to .lrc"
+msgstr "נשמר לקובץ .lrc"
+
+msgid "Unsynced lyrics saved successfully"
+msgstr "המילים הלא מסונכרנות נשמרו בהצלחה"
+
+msgid "Destroyed previously existing lyrics in file"
+msgstr "מילים קודמות שהיו בקובץ נמחקו"
+
+msgid "Unsynced lyrics saved in Tauon only"
+msgstr "המילים הלא מסונכרנות נשמרו ב־Tauon בלבד"
+
+msgid "Delete the file."
+msgstr "מחק את הקובץ."
+
+msgid "We don't have permissions to access {file}"
+msgstr "אין הרשאות גישה אל {file}"
+
+msgid "We can't import the file {path} and we're not sure why."
+msgstr "לא ניתן לייבא את הקובץ {path} מסיבה לא ידועה."
+
+msgid "Encoding complete."
+msgstr "הקידוד הושלם."
+
+msgid "First select a source track by copying it into clipboard"
+msgstr "תחילה בחרו רצועת מקור על ידי העתקתה ללוח"
+
+msgid "Path"
+msgstr "נתיב"
+
+msgid "Samplerate"
+msgstr "קצב דגימה"
+
+msgid "File size"
+msgstr "גודל קובץ"
+
+msgid "Renames the physical folder based on the template"
+msgstr "משנה את שם התיקייה הפיזית לפי התבנית"
+
+msgid "Moves folder up 2 levels and deletes the old container folder"
+msgstr "מעלה את התיקייה 2 רמות למעלה ומוחק את התיקייה המכילה הישנה"
+
+msgid "Deletes some unnecessary files from folder"
+msgstr "מוחק קבצים מיותרים מהתיקייה"
+
+msgid "Position"
+msgstr "מיקום"
+
+msgid "Metadata"
+msgstr "מטא־נתונים"
+
+msgid "Decoded"
+msgstr "מפוענח"
+
+msgid "Buffered"
+msgstr "נאגר בחוצץ"
+
+msgid "Extracting presets…"
+msgstr "מחלץ תבניות…"
+
+msgid "Presets ready"
+msgstr "התבניות מוכנות"
+
+msgid "Milkdrop visualiser enabled."
+msgstr "אפקט התצוגה Milkdrop הופעל."
+
+msgid "Synced lyrics saved in Tauon only"
+msgstr "המילים המסונכרנות נשמרו ב־Tauon בלבד"
+
+msgid "Could not delete {name}"
+msgstr "לא ניתן למחוק את {name}"
+
+msgid "Various Artists"
+msgstr "אמנים שונים"
+
+msgid "Track already has lyrics"
+msgstr "לרצועה כבר יש מילים"
+
+msgid "Rescan folders complete."
+msgstr "סריקת התיקיות מחדש הושלמה."
+
+msgid "Channel status needs a newer build of PHAzOR"
+msgstr "מצב הערוצים דורש גרסה חדשה יותר של PHAzOR"
+
+msgid "Copied text to clipboard"
+msgstr "הטקסט הועתק ללוח"
+
+msgid " of "
+msgstr " מתוך "
+
+msgid "Restart Tauon if presets are not visible yet."
+msgstr "הפעילו מחדש את Tauon אם התבניות עדיין אינן מופיעות."
+
+msgid "Could not detect downloaded filetype."
+msgstr "לא ניתן לזהות את סוג הקובץ שהורד."
+
+msgid "Files deleted"
+msgstr "הקבצים נמחקו"
+
+msgid "Error updating love to {service}!"
+msgstr "שגיאה בעדכון סימון 'אהבתי' אל {service}!"
+
+msgid "Failed updating {service} love status"
+msgstr "עדכון מצב 'אהבתי' ב־{service} נכשל"
+
+msgid "Synced lyrics saved to tags"
+msgstr "המילים המסונכרנות נשמרו בתגיות"
+
+msgid "Failed to extract zip archive."
+msgstr "חילוץ ארכיון ה־zip נכשל."
+
+msgid "Maybe archive is corrupted? Does disk have enough space and have write permission?"
+msgstr "אולי הארכיון פגום? בדקו שיש מספיק מקום בכונן והרשאות כתיבה."
+
+msgid "Could not move archive to trash"
+msgstr "לא ניתן להעביר את הארכיון לאשפה"
+
+msgid "PCM {n} ms"
+msgstr "PCM {n} מ״ש"
+
+msgid "Downloading preset pack…"
+msgstr "מוריד חבילת תבניות…"
+
+msgid "Error deleting one or more files"
+msgstr "שגיאה במחיקת קובץ אחד או יותר"
+
+msgid "Location 1 of {N}"
+msgstr "מיקום 1 מתוך {N}"
+
+msgid "The archive is encrypted. You'll need to extract it manually with the password."
+msgstr "הארכיון מוצפן. יש לחלץ אותו ידנית באמצעות הסיסמה."
+
+msgid "Failed to extract rar archive."
+msgstr "חילוץ ארכיון ה־rar נכשל."
+
+msgid "Auto sort skipped because playlist is locked."
+msgstr "המיון האוטומטי דולג מכיוון שרשימת ההשמעה נעולה."
+
+msgid "Preset package contains an unsafe path"
+msgstr "חבילת התבניות מכילה נתיב לא בטוח"
+
+msgid "We don't know how to write lyrics to the filetype: "
+msgstr "אין תמיכה בכתיבת מילים לסוג הקובץ: "
+
+msgid "First of artist's albums ({N} albums)"
+msgstr "האלבום הראשון של האמן ({N} אלבומים)"
+
+msgid "Last of artist's albums ({N} albums)"
+msgstr "האלבום האחרון של האמן ({N} אלבומים)"
+
+msgid "Start of location 1 of {N} ({Nb} albums)"
+msgstr "תחילת מיקום 1 מתוך {N} ({Nb} אלבומים)"
+
+msgid "Location 1 of {N} ({Nb} albums)"
+msgstr "מיקום 1 מתוך {N} ({Nb} אלבומים)"
+
+msgid "Failed to extract 7z archive."
+msgstr "חילוץ ארכיון ה־7z נכשל."
+
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+msgid "Preset download cancelled"
+msgstr "הורדת התבניות בוטלה"
+
+msgid "End of location {N} of {T} ({Nb} albums)"
+msgstr "סוף מיקום {N} מתוך {T} ({Nb} אלבומים)"
+
+msgid "Location {N} of {T}"
+msgstr "מיקום {N} מתוך {T}"
+
+msgid "Start of location {N} of {T} ({Nb} albums)"
+msgstr "תחילת מיקום {N} מתוך {T} ({Nb} אלבומים)"
+
+msgid "Error fetching Airsonic playlist"
+msgstr "שגיאה בקבלת רשימת השמעה מ־Airsonic"
+
+msgid "This device does not accept direct DSD"
+msgstr "התקן זה אינו תומך ב־DSD ישיר"
+
+msgid "Playing as PCM instead. Turn the setting off and on again to retry."
+msgstr "מנגן כ־PCM במקום זאת. כבו והפעילו מחדש את ההגדרה כדי לנסות שוב."
+
+msgid "Multiple tracks could not be loaded"
+msgstr "לא ניתן היה לטעון מספר רצועות"
+
+msgid "Error loading track"
+msgstr "שגיאה בטעינת הרצועה"
+
+msgid "Couldn't import some playlists"
+msgstr "לא ניתן היה לייבא חלק מרשימות ההשמעה"
+
+msgid "Wait for the music import to finish"
+msgstr "המתינו לסיום ייבוא המוזיקה"
+
+msgid "Couldn't load playlists"
+msgstr "לא ניתן היה לטעון רשימות השמעה"
+
+msgid "No playlists to import"
+msgstr "אין רשימות השמעה לייבוא"
+
+msgid "Imported {count} playlists"
+msgstr "יובאו {count} רשימות השמעה"
+
+msgid "Updated {count} playlists"
+msgstr "עודכנו {count} רשימות השמעה"
+
+msgid "Imported {added} playlists, updated {updated}"
+msgstr "יובאו {added} רשימות השמעה, עודכנו {updated}"
+
+msgid "Failed to establish a connection"
+msgstr "יצירת החיבור נכשלה"
+
+msgid "Data malformation detected. Stream aborted."
+msgstr "זוהו נתונים פגומים. ההזרמה הופסקה."
+
+msgid "Error connecting to Airsonic server"
+msgstr "שגיאה בהתחברות לשרת Airsonic"
+
+msgid "Some albums could not be read from the server"
+msgstr "לא ניתן היה לקרוא חלק מהאלבומים מהשרת"
+
+msgid "Airsonic Collection"
+msgstr "אוסף Airsonic"
+
+msgid "Error listing albums from Subsonic server"
+msgstr "שגיאה בקבלת רשימת האלבומים משרת Subsonic"
+
+msgid "Subsonic Error: "
+msgstr "שגיאת Subsonic: "
+
+msgid "Error reading Airsonic directory!"
+msgstr "שגיאה בקריאת תיקיית Airsonic!"
+
+msgid "Tag editor"
+msgstr "עורך תגיות"
+
+msgid "All selected files"
+msgstr "כל הקבצים שנבחרו"
+
+msgid "Choose tracks"
+msgstr "בחירת רצועות"
+
+msgid "Loading album tracks…"
+msgstr "טוען רצועות אלבום…"
+
+msgid "MusicBrainz Scan"
+msgstr "סריקת MusicBrainz"
+
+msgid "Track title"
+msgstr "שם הרצועה"
+
+msgid "Album artist"
+msgstr "אמן האלבום"
+
+msgid "Year / date"
+msgstr "שנה / תאריך"
+
+msgid "Original year / date"
+msgstr "שנה / תאריך מקוריים"
+
+msgid "Track number / total"
+msgstr "מספר רצועה / סה״כ"
+
+msgid "Disc number / total"
+msgstr "מספר תקליטור / סה״כ"
+
+msgid "Track rating"
+msgstr "דירוג רצועה"
+
+msgid "Embedded album art"
+msgstr "עטיפת אלבום מוטמעת"
+
+msgid "Native key"
+msgstr "מפתח מקורי"
+
+msgid "Value / type"
+msgstr "ערך / סוג"
+
+msgid "Add key"
+msgstr "הוספת מפתח"
+
+msgid "{N} active file"
+msgstr "קובץ פעיל {N}"
+
+msgid "{N} active files"
+msgstr "{N} קבצים פעילים"
+
+msgid "Multiple ID3v2.3 values may not work in other players. Tools can upgrade to ID3v2.4."
+msgstr "ערכים מרובים ב־ID3v2.3 עלולים שלא לפעול בנגנים אחרים. ניתן לשדרג ל־ID3v2.4 מתפריט כלים."
+
+msgid "Changes pending"
+msgstr "שינויים ממתינים לשמירה"
+
+msgid "Only local audio files without CUE subtracks can be edited."
+msgstr "ניתן לערוך רק קובצי שמע מקומיים ללא תת־רצועות CUE."
+
+msgid "Cannot open tag editor"
+msgstr "לא ניתן לפתוח את עורך התגיות"
+
+msgid "Front cover"
+msgstr "עטיפה קדמית"
+
+msgid "Back cover"
+msgstr "עטיפה אחורית"
+
+msgid "Leaflet"
+msgstr "חוברת"
+
+msgid "Media"
+msgstr "מדיה"
+
+msgid "All images"
+msgstr "כל התמונות"
+
+msgid "This tag has a structured value; edit it as a whole."
+msgstr "לתגית זו יש ערך מובנה; יש לערוך אותה כמקשה אחת."
+
+msgid "Restore each file's original value in the current track scope."
+msgstr "שחזור הערך המקורי של כל קובץ בטווח הרצועות הנוכחי."
+
+msgid "No tag changes to save."
+msgstr "אין שינויי תגיות לשמירה."
+
+msgid "Could not write tags"
+msgstr "לא ניתן היה לכתוב את התגיות"
+
+msgid "Filter by filename or title"
+msgstr "סינון לפי שם קובץ או כותרת"
+
+msgid "Apply edits to the full selection"
+msgstr "החלת העריכות על כל הבחירה"
+
+msgid "Loading more editions…"
+msgstr "טוען מהדורות נוספות…"
+
+msgid "Starting fingerprint scan…"
+msgstr "מתחיל סריקת טביעת אצבע קולית…"
+
+msgid "Select an album to compare tags."
+msgstr "בחרו אלבום להשוואת תגיות."
+
+msgid "Retry tracks"
+msgstr "ניסיון חוזר לרצועות"
+
+msgid "Use this album"
+msgstr "שימוש באלבום זה"
+
+msgid "Before"
+msgstr "לפני"
+
+msgid "After"
+msgstr "אחרי"
+
+msgid "Different values"
+msgstr "ערכים שונים"
+
+msgid "Mixed"
+msgstr "מעורב"
+
+msgid "No embedded art"
+msgstr "אין עטיפה מוטמעת"
+
+msgid "Drop an image to replace art"
+msgstr "גררו תמונה להחלפת העטיפה"
+
+msgid "Remove all art"
+msgstr "הסרת כל העטיפות"
+
+msgid "Change the selected image or the first image of the selected type in each active file."
+msgstr "שינוי התמונה הנבחרת או התמונה הראשונה מהסוג הנבחר בכל קובץ פעיל."
+
+msgid "Artwork changed"
+msgstr "העטיפה שונתה"
+
+msgid "Select a tag to edit; add custom text by name."
+msgstr "בחרו תגית לעריכה; ניתן להוסיף טקסט מותאם אישית לפי שם."
+
+msgid "Text value"
+msgstr "ערך טקסט"
+
+msgid "Binary or structured tag: preserved without modification."
+msgstr "תגית בינארית או מובנית: נשמרת ללא שינוי."
+
+msgid "Different values; editing replaces this entry in each file."
+msgstr "ערכים שונים; עריכה תחליף רשומה זו בכל קובץ."
+
+msgid "Main"
+msgstr "ראשי"
+
+msgid "Misc"
+msgstr "שונות"
+
+msgid "Writing tags…"
+msgstr "כותב תגיות…"
+
+msgid "Tools"
+msgstr "כלים"
+
+msgid "Write tags"
+msgstr "כתיבת תגיות"
+
+msgid "Discard"
+msgstr "ביטול שינויים"
+
+msgid "Reading tags… {N}/{T}"
+msgstr "קורא תגיות… {N}/{T}"
+
+msgid "Could not change embedded artwork"
+msgstr "לא ניתן היה לשנות את העטיפה המוטמעת"
+
+msgid "Could not use that artwork"
+msgstr "לא ניתן להשתמש בעטיפה זו"
+
+msgid "Invalid tag value"
+msgstr "ערך תגית לא תקין"
+
+msgid "This tag stores one value; use a distinct description or language for another entry."
+msgstr "תגית זו שומרת ערך אחד; השתמשו בתיאור או בשפה שונים עבור רשומה נוספת."
+
+msgid "Cannot add tag value"
+msgstr "לא ניתן להוסיף ערך תגית"
+
+msgid "Tags saved, but the library could not be refreshed"
+msgstr "התגיות נשמרו, אך לא ניתן היה לרענן את הספרייה"
+
+msgid "{N} files rewritten"
+msgstr "{N} קבצים נכתבו מחדש"
+
+msgid "No text could be repaired automatically."
+msgstr "לא נמצא טקסט שניתן לתקן אוטומטית."
+
+msgid "{N} fields fixed in {F} files; review before writing tags."
+msgstr "{N} שדות תוקנו ב־{F} קבצים; מומלץ לבדוק לפני כתיבת התגיות."
+
+msgid "Could not fix Mojibake"
+msgstr "לא ניתן היה לתקן שיבושי קידוד (Mojibake)"
+
+msgid "Unsynced lyrics"
+msgstr "מילים לא מסונכרנות"
+
+msgid "Synced lyrics"
+msgstr "מילים מסונכרנות"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Copyright"
+msgstr "זכויות יוצרים"
+
+msgid "ISRC"
+msgstr "ISRC"
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "Grouping"
+msgstr "קיבוץ"
+
+msgid "Subtitle"
+msgstr "כותרת משנה"
+
+msgid "Upgrade ID3 tags to v2.4"
+msgstr "שדרוג תגיות ID3 לגרסה v2.4"
+
+msgid "Automatically split slashes"
+msgstr "פיצול לוכסנים אוטומטי"
+
+msgid "{N} ID3 files will upgrade to v2.4 on Write tags; {S} other formats kept."
+msgstr "{N} קובצי ID3 ישודרגו ל־v2.4 בעת כתיבת התגיות; {S} פורמטים אחרים יישמרו כפי שהם."
+
+msgid "Cannot safely upgrade these tags"
+msgstr "לא ניתן לשדרג תגיות אלו בבטחה"
+
+msgid "Unexpected lookup failure; check the application log."
+msgstr "שגיאת חיפוש לא צפויה; בדקו את יומן היישום."
+
+msgid "Could not apply this album"
+msgstr "לא ניתן להחיל אלבום זה"
+
+msgid "No selected files match this edition."
+msgstr "אף קובץ שנבחר אינו תואם למהדורה זו."
+
+msgid "{N} matched files loaded into the editor."
+msgstr "{N} קבצים תואמים נטענו לעורך."
+
+msgid "Untitled"
+msgstr "ללא כותרת"
+
+msgid "Loading tracks…"
+msgstr "טוען רצועות…"
+
+msgid "{N} selected file(s)"
+msgstr "{N} קבצים נבחרו"
+
+msgid "Could not load tracks"
+msgstr "לא ניתן לטעון רצועות"
+
+msgid "Insert a separator to add another value to this tag."
+msgstr "הכניסו מפריד כדי להוסיף ערך נוסף לתגית זו."
+
+msgid "Image {N}"
+msgstr "תמונה {N}"
+
+msgid "Mixed artwork; first file shown"
+msgstr "עטיפות מעורבות; מוצג הקובץ הראשון"
+
+msgid "Save the fields and every pending file, including tracks outside this view."
+msgstr "שמירת השדות וכל הקבצים הממתינים, כולל רצועות מחוץ לתצוגה זו."
+
+msgid "Could not read {file}"
+msgstr "לא ניתן לקרוא את {file}"
+
+msgid "Image {N}: {T}"
+msgstr "תמונה {N}: {T}"
+
+msgid "Could not preview embedded artwork"
+msgstr "לא ניתן להציג תצוגה מקדימה של העטיפה המוטמעת"
+
+msgid "New value"
+msgstr "ערך חדש"
+
+msgid "Credits"
+msgstr "קרדיטים"
+
+msgid "Sort order"
+msgstr "סדר מיון"
+
+msgid "Unmatched"
+msgstr "ללא התאמה"
+
+msgid "No matching album editions found."
+msgstr "לא נמצאו מהדורות אלבום תואמות."
+
+msgid "{N}/{T} matched"
+msgstr "{N}/{T} תואמו"
+
+msgid "Encoding not detected for {N} files."
+msgstr "לא זוהה קידוד עבור {N} קבצים."
+
+msgid "{N} embedded image(s)"
+msgstr "{N} תמונות מוטמעות"
+
+msgid "{N}/{T} files"
+msgstr "{N}/{T} קבצים"
+
+msgid "Could not load album tracks"
+msgstr "לא ניתן לטעון את רצועות האלבום"
+
+msgid "Original artist"
+msgstr "אמן מקורי"
+
+msgid "Conductor"
+msgstr "מנצח"
+
+msgid "Remixer"
+msgstr "רמיקסר"
+
+msgid "Lyricist"
+msgstr "פזמונאי"
+
+msgid "Encoded by"
+msgstr "קודד על ידי"
+
+msgid "Tidalapi package not loaded"
+msgstr "חבילת tidalapi לא נטענה"
+
+msgid "Failed to load TIDAL login, please try log in again"
+msgstr "טעינת ההתחברות ל־TIDAL נכשלה, נסו להתחבר מחדש"
+
+msgid "File"
+msgstr "קובץ"
+
+msgid "Artists"
+msgstr "אמנים"
+
+msgid "Sample Rate"
+msgstr "קצב דגימה"
+
+msgid "Format"
+msgstr "פורמט"
+
+msgid "Random"
+msgstr "אקראי"
+
+msgid "Guitar Chords"
+msgstr "אקורדים"
+
+msgid "Meta"
+msgstr "מידע"
+
+msgid "Info"
+msgstr "פרטים"
+
+msgid "Properties"
+msgstr "מאפיינים"
+
+msgid "Track Info"
+msgstr "פרטי רצועה"
+
+msgid "Track Properties"
+msgstr "מאפייני רצועה"
+
+msgid "Sound"
+msgstr "צליל"
+
+msgid "Volume"
+msgstr "עוצמת שמע"
+
+msgid "Crossfade"
+msgstr "מעבר הדרגתי"
+
+msgid "Themes"
+msgstr "ערכות נושא"
+
+msgid "Display"
+msgstr "תצוגה"
+
+msgid "Interface"
+msgstr "ממשק"
+
+msgid "Network"
+msgstr "רשת"
+
+msgid "Accounts"
+msgstr "חשבונות"
+
+msgid "Shortcuts"
+msgstr "קיצורי מקשים"
+
+msgid "Hotkeys"
+msgstr "מקשים חמים"
+
+msgid "Plugins"
+msgstr "תוספים"
+
+msgid "Radio Stations"
+msgstr "תחנות רדיו"
+
+msgid "Podcasts"
+msgstr "פודקאסטים"
+
+msgid "Downloads"
+msgstr "הורדות"
+
+msgid "Encoder"
+msgstr "מקודד"
+
+msgid "Tag"
+msgstr "תגית"
+
+msgid "Tags"
+msgstr "תגיות"
+
+msgid "Tag Editor"
+msgstr "עורך תגיות"
+
+msgid "Edit Tags"
+msgstr "עריכת תגיות"
+
+msgid "Folders"
+msgstr "תיקיות"
+
+msgid "Apply"
+msgstr "החלה"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No"
+msgstr "לא"
+
+msgid "Select All"
+msgstr "בחירת הכל"
+
+msgid "Redo"
+msgstr "ביצוע מחדש"
+
+msgid "Refresh"
+msgstr "רענון"
+
+msgid "Reload"
+msgstr "טעינה מחדש"
+
+msgid "Enable"
+msgstr "הפעלה"
+
+msgid "Enabled"
+msgstr "מופעל"
+
+msgid "Disable"
+msgstr "השבתה"
+
+msgid "None"
+msgstr "ללא"
+
+msgid "All"
+msgstr "הכל"
+
+msgid "On"
+msgstr "פעיל"
+
+msgid "Help"
+msgstr "עזרה"
+
